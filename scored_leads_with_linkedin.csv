@@ -181,7 +181,7 @@ American Greetings,Chelsea,Patton,kate.forrer@amgreetings.com,True,Chelsea Patto
 American Greetings,Michelle,Parkinson,melissa.forman@amgreetings.com,True,Michelle Parkinson,Individual,Active,Cleveland Area,7,https://corporate.americangreetings.com,https://www.linkedin.com/company/american-greetings
 American Greetings,Lauren,Oliver,terry.flores@amgreetings.com,True,Lauren Oliver,Individual,Active,Cleveland Area,7,https://corporate.americangreetings.com,https://www.linkedin.com/company/american-greetings
 Art by Ali Cleveland,Mykel,Fisher,ArtbyAliCleveland@yahoo.com,True,Mykel Fisher,Individual,Active,Cleveland,7,,
-B.Riley Sober House,Yazmin,Maldonado,B.Rileysoberhonestliving@gmail.com,True,Yazmin Maldonado,Individual,Active,Cleveland Area,7,,
+B.Riley Sober House,Yazmin,Maldonado,B.Rileysoberhonestliving@gmail.com,True,Yazmin Maldonado,Individual,Active,Cleveland Area,7,https://www.brileysoberhome.org,
 Avery Dennison,Ignacio,Walker,amanda.gallitto@averydennison.com,True,Ignacio Walker,Individual,Active,Cleveland Area,7,https://www.averydennison.com,https://www.linkedin.com/company/avery-dennison
 Avery Dennison,Rodolpho,Vendramini,mykel.fisher@averydennison.com,True,Rodolpho Vendramini,Individual,Active,Cleveland Area,7,https://www.averydennison.com,https://www.linkedin.com/company/avery-dennison
 Avery Dennison,Miguel,Solivan,kimberly.dunlap@averydennison.com,True,Miguel Solivan,Individual,Active,Cleveland Area,7,https://www.averydennison.com,https://www.linkedin.com/company/avery-dennison
@@ -223,10 +223,10 @@ Avery Dennison,Kris,Snepp,sanda.brezo@averydennison.com,True,Kris Snepp,Individu
 Avery Dennison,Kelsey,Heichel,amanda.wittine@averydennison.com,True,Kelsey Heichel,Individual,Active,Cleveland Area,7,https://www.averydennison.com,https://www.linkedin.com/company/avery-dennison
 Avery Dennison,Edward,Gallagher,lawrence.williams@averydennison.com,True,Edward Gallagher,Individual,Active,Cleveland Area,7,https://www.averydennison.com,https://www.linkedin.com/company/avery-dennison
 Avery Dennison,Ed,Gallagher,ryan.walker@averydennison.com,True,Ed Gallagher,Individual,Active,Cleveland Area,7,https://www.averydennison.com,https://www.linkedin.com/company/avery-dennison
-B.Riley Sober House,Ayron,Evans,b.rileysoberhonestliving@gmail.com,True,Ayron Evans,Individual,Active,Cleveland Area,7,,
+B.Riley Sober House,Ayron,Evans,b.rileysoberhonestliving@gmail.com,True,Ayron Evans,Individual,Active,Cleveland Area,7,https://www.brileysoberhome.org,
 Medical Mutual,Jenny,Highfield,caroline.osborn@medmutual.com,True,Jenny Highfield,Individual,Active,Cleveland Area,7,,
 Nestle,Uchechukwu,Ike,jason.wheaton@us.nestle.com,True,Uchechukwu Ike,Individual,Active,Cleveland Area,7,,
-Beck Center for the Arts,Huda,Mahmood,tracy.e.ammon@gmail.com,True,Huda Mahmood,Individual,Active,Cleveland Area,7,,
+Beck Center for the Arts,Huda,Mahmood,tracy.e.ammon@gmail.com,True,Huda Mahmood,Individual,Active,Cleveland Area,7,https://www.beckcenter.org,
 Cleveland Cavaliers,Claire,Jennings,sbalint@cavs.com,True,Claire Jennings,Individual,Active,Cleveland,7,https://www.nba.com/cavaliers,https://www.linkedin.com/company/cleveland-cavaliers
 Nestle,Brianna,Biery,Megan.Wrobel@us.nestle.com,True,Brianna Biery,Individual,Active,Cleveland Area,7,,
 Medical Mutual,Maureen,Connors,timothy.lawrence@medmutual.com,True,Maureen Connors,Individual,Active,Cleveland Area,7,,
@@ -405,10 +405,10 @@ Northwest Neighborhoods,Bethann,O'Malley,emadden@nwneighborhoods.org,True,Bethan
 Northwest Neighborhoods,Ray,Collins,bkentmarquez@nwneighborhoods.org,True,Ray Collins,Individual,Active,Cleveland Area,6,,
 Northwest Neighborhoods,Mona,Eader,ebischoff@nwneighborhoods.org,True,Mona Eader,Individual,Active,Cleveland Area,6,,
 Northwest Neighborhoods,Denise,Astorino,jwest@nwneighborhoods.org,True,Denise Astorino,Individual,Active,Cleveland Area,6,,
-BE YOU Brands,Matt,Herold,rwhitman@americanbus.com,True,Matt Herold,Individual,Active,Cleveland Area,6,,
-B.Riley Sober House,Khris,Goins,danab@brileysoberhome.org,True,Khris Goins,Individual,Active,Cleveland Area,6,,
-B.Riley Sober House,Sophia,Gordon,tonyc@brileysoberhome.org,True,Sophia Gordon,Individual,Active,Cleveland Area,6,,
-B.Riley Sober House,Dale,Heinen,leonc@brileysoberhome.org,True,Dale Heinen,Individual,Active,Cleveland Area,6,,
+BE YOU Brands,Matt,Herold,rwhitman@americanbus.com,True,Matt Herold,Individual,Active,Cleveland Area,6,https://www.beyoubrandsolutions.com,
+B.Riley Sober House,Khris,Goins,danab@brileysoberhome.org,True,Khris Goins,Individual,Active,Cleveland Area,6,https://www.brileysoberhome.org,
+B.Riley Sober House,Sophia,Gordon,tonyc@brileysoberhome.org,True,Sophia Gordon,Individual,Active,Cleveland Area,6,https://www.brileysoberhome.org,
+B.Riley Sober House,Dale,Heinen,leonc@brileysoberhome.org,True,Dale Heinen,Individual,Active,Cleveland Area,6,https://www.brileysoberhome.org,
 AURA Venue CLE LLC,Alicia,Procello,hello@auravenuecle.com,True,Alicia Procello,Individual,Active,Cleveland Area,6,https://www.auravenuecle.com,
 AURA Venue CLE LLC,Jennifer,Rossi,alldolldupmakeup@gmail.com,True,Jennifer Rossi,Individual,Active,Cleveland Area,6,https://www.auravenuecle.com,
 AURA Venue CLE LLC,Kelly,Ruffenach,bee@auravenuecle.com,True,Kelly Ruffenach,Individual,Active,Cleveland Area,6,https://www.auravenuecle.com,
@@ -417,10 +417,10 @@ Northwest Neighborhoods,Lauren,Ozanich,info@nwneighborhoods.org,True,Lauren Ozan
 Northwest Neighborhoods,Michelle,Stewart,npeguero@nwneighborhoods.org,True,Michelle Stewart,Individual,Active,Cleveland Area,6,,
 Northwest Neighborhoods,Erica,Story,csullivan@nwneighborhoods.org,True,Erica Story,Individual,Active,Cleveland Area,6,,
 Northwest Neighborhoods,Drew,Worth,tthompson@nwneighborhoods.org,True,Drew Worth,Individual,Active,Cleveland Area,6,,
-ArtsNow,Harvir,Kang,nicole@artsnow.org,True,Harvir Kang,Individual,Active,Cleveland Area,6,,
-BE YOU Brands,Chad,Frye,scoder@americanbus.com,True,Chad Frye,Individual,Active,Cleveland Area,6,,
-BE YOU Brands,Lennon,Clemens,keppich@americanbus.com,True,Lennon Clemens,Individual,Active,Cleveland Area,6,,
-BE YOU Brands,Brooke,Frank,stucker@americanbus.com,True,Brooke Frank,Individual,Active,Cleveland Area,6,,
+ArtsNow,Harvir,Kang,nicole@artsnow.org,True,Harvir Kang,Individual,Active,Cleveland Area,6,https://artsnow.org,
+BE YOU Brands,Chad,Frye,scoder@americanbus.com,True,Chad Frye,Individual,Active,Cleveland Area,6,https://www.beyoubrandsolutions.com,
+BE YOU Brands,Lennon,Clemens,keppich@americanbus.com,True,Lennon Clemens,Individual,Active,Cleveland Area,6,https://www.beyoubrandsolutions.com,
+BE YOU Brands,Brooke,Frank,stucker@americanbus.com,True,Brooke Frank,Individual,Active,Cleveland Area,6,https://www.beyoubrandsolutions.com,
 OverDrive,Jim,Yunker,jskelley@overdrive.com,True,Jim Yunker,Individual,Active,Cleveland Area,6,https://company.overdrive.com,https://www.linkedin.com/company/overdrive1
 OverDrive,Guy,Thellian,kreanor@overdrive.com,True,Guy Thellian,Individual,Active,Cleveland Area,6,https://company.overdrive.com,https://www.linkedin.com/company/overdrive1
 OverDrive,George,Holobinko,mwemhoff@overdrive.com,True,George Holobinko,Individual,Active,Cleveland Area,6,https://company.overdrive.com,https://www.linkedin.com/company/overdrive1
@@ -669,10 +669,10 @@ Kent State LGBTQ+ Center,Akshay,Kalra,rortiz4@kent.edu,True,Akshay Kalra,Individ
 Kent State LGBTQ+ Center,Jason,Peskar,fhite@kent.edu,True,Jason Peskar,Individual,Active,Cleveland Area,6,,
 Kent State LGBTQ+ Center,David,Ritter,ckane18@kent.edu,True,David Ritter,Individual,Active,Cleveland Area,6,,
 Kent State LGBTQ+ Center,Lydia,Stump-Hartman,okarnga@kent.edu,True,Lydia Stump-Hartman,Individual,Active,Cleveland Area,6,,
-CANAPI,Nichole,Collins,info@canapi.org,True,Nichole Collins,Individual,Active,Cleveland Area,6,,
-CANAPI,Connie,Gilbert,lclemens@canapi.org,True,Connie Gilbert,Individual,Active,Cleveland Area,6,,
-CANAPI,Keisha,Gonzalez,bkendall@canapi.org,True,Keisha Gonzalez,Individual,Active,Cleveland Area,6,,
-CANAPI,Sharonda,Kane-Jackson,mherold@canapi.org,True,Sharonda Kane-Jackson,Individual,Active,Cleveland Area,6,,
+CANAPI,Nichole,Collins,info@canapi.org,True,Nichole Collins,Individual,Active,Cleveland Area,6,https://www.canapi.org,
+CANAPI,Connie,Gilbert,lclemens@canapi.org,True,Connie Gilbert,Individual,Active,Cleveland Area,6,https://www.canapi.org,
+CANAPI,Keisha,Gonzalez,bkendall@canapi.org,True,Keisha Gonzalez,Individual,Active,Cleveland Area,6,https://www.canapi.org,
+CANAPI,Sharonda,Kane-Jackson,mherold@canapi.org,True,Sharonda Kane-Jackson,Individual,Active,Cleveland Area,6,https://www.canapi.org,
 BottleHouse Brewing Company,Joanna,Radov,brianbenchek@gmail.com,True,Joanna Radov,Individual,Active,Cleveland Area,6,,
 Cleveland Sex & Intimacy Counseling,Brian,Steele,admin@clesexandintimacycounseling.com,True,Brian Steele,Individual,Active,Cleveland,6,,
 Cleveland Sex & Intimacy Counseling,Joseph,Carroll,rdrotar@clesexandintimacycounseling.com,True,Joseph Carroll,Individual,Active,Cleveland,6,,
@@ -734,13 +734,13 @@ Brewnuts,Michelle,Rock,brewnutscle@gmail.com,True,Michelle Rock,Individual,Activ
 Lago Custom Events,Abigail,McNutt,danielle@lagocustomevents.com,True,Abigail McNutt,Individual,Active,Cleveland Area,6,,
 Kent State LGBTQ+ Center,Kailine,Scott,aleu@kent.edu,True,Kailine Scott,Individual,Active,Cleveland Area,6,,
 blue csr strategies,Kevin,Clayton,andrew@bluecsr.com,True,Kevin Clayton,Individual,Active,Cleveland Area,6,,
-Benjamin Rose,Mailey,Lorio,info@benrose.org,True,Mailey Lorio,Individual,Active,Cleveland Area,6,,
-Benjamin Rose,Sam,Motes,LScharf@benrose.org,True,Sam Motes,Individual,Active,Cleveland Area,6,,
-Benjamin Rose,V,Moyer,jschneider@benrose.org,True,V Moyer,Individual,Active,Cleveland Area,6,,
-Benjamin Rose,Jason,Steckel,lweitzman@benrose.org,True,Jason Steckel,Individual,Active,Cleveland Area,6,,
+Benjamin Rose,Mailey,Lorio,info@benrose.org,True,Mailey Lorio,Individual,Active,Cleveland Area,6,https://www.benrose.org,https://www.linkedin.com/company/benjamin-rose-institute-on-aging
+Benjamin Rose,Sam,Motes,LScharf@benrose.org,True,Sam Motes,Individual,Active,Cleveland Area,6,https://www.benrose.org,https://www.linkedin.com/company/benjamin-rose-institute-on-aging
+Benjamin Rose,V,Moyer,jschneider@benrose.org,True,V Moyer,Individual,Active,Cleveland Area,6,https://www.benrose.org,https://www.linkedin.com/company/benjamin-rose-institute-on-aging
+Benjamin Rose,Jason,Steckel,lweitzman@benrose.org,True,Jason Steckel,Individual,Active,Cleveland Area,6,https://www.benrose.org,https://www.linkedin.com/company/benjamin-rose-institute-on-aging
 Berkshire Hathaway HomeServices Professional Realty - Kacey Yates Gable,Avery,Ware,kyates.gable@gmail.com,True,Avery Ware,Individual,Active,Cleveland Area,6,,
-Better Business Bureau,Darnell,Mosses,pam@cleveland.bbb.org,True,Darnell Mosses,Individual,Active,Cleveland Area,6,,
-Better Business Bureau,Esther,Thomas,SusanB@cleveland.bbb.org,True,Esther Thomas,Individual,Active,Cleveland Area,6,,
+Better Business Bureau,Darnell,Mosses,pam@cleveland.bbb.org,True,Darnell Mosses,Individual,Active,Cleveland Area,6,https://www.bbb.org/local-bbb/bbb-serving-greater-cleveland,
+Better Business Bureau,Esther,Thomas,SusanB@cleveland.bbb.org,True,Esther Thomas,Individual,Active,Cleveland Area,6,https://www.bbb.org/local-bbb/bbb-serving-greater-cleveland,
 Kent State LGBTQ+ Center,Daniel,Neelon,Krinell3@kent.edu,True,Daniel Neelon,Individual,Active,Cleveland Area,6,,
 Kent State LGBTQ+ Center,Angelo,Olmeda,Zhamil@kent.edu,True,Angelo Olmeda,Individual,Active,Cleveland Area,6,,
 Kent State LGBTQ+ Center,Accounts,Payable,ahisrich@kent.edu,True,Accounts Payable,Individual,Active,Cleveland Area,6,,
@@ -821,8 +821,8 @@ LDR Worldwide,Rachel,Kray,jjones@ldrworldwide.com,True,Rachel Kray,Individual,Ac
 LDR Worldwide,Katie,Mackedanz,kmilne@ldrworldwide.com,True,Katie Mackedanz,Individual,Active,Cleveland Area,6,,
 LDR Worldwide,Leah,Martin,skspagnola@ldrworldwide.com,True,Leah Martin,Individual,Active,Cleveland Area,6,,
 Life Equity LLC,Logan,Baez,swillkomm@lifeequity.com,True,Logan Baez,Individual,Active,Cleveland Area,6,,
-Beck Center for the Arts,Frankie,Wall,kheichel@beckcenter.org,True,Frankie Wall,Individual,Active,Cleveland Area,6,,
-Beck Center for the Arts,Amanda,Kostura,blewis@beckcenter.org,True,Amanda Kostura,Individual,Active,Cleveland Area,6,,
+Beck Center for the Arts,Frankie,Wall,kheichel@beckcenter.org,True,Frankie Wall,Individual,Active,Cleveland Area,6,https://www.beckcenter.org,
+Beck Center for the Arts,Amanda,Kostura,blewis@beckcenter.org,True,Amanda Kostura,Individual,Active,Cleveland Area,6,https://www.beckcenter.org,
 Matt Rolf Attorney LLC,John,Martin,d-hickey@mattrolfattorneyllc.com,True,John Martin,Individual,Active,Cleveland Area,6,,
 Matt Rolf Attorney LLC,Hannah,Floyd,l-parkins-turner@mattrolfattorneyllc.com,True,Hannah Floyd,Individual,Active,Cleveland Area,6,,
 Mavuno of Ohio,Keli,Schimelpfenig,jeane@mavunoofoh.com,True,Keli Schimelpfenig,Individual,Active,Cleveland Area,6,,
@@ -833,25 +833,25 @@ Mavuno of Ohio,Mr.,Brian,Chris@mavunoofoh.com,True,Mr. Brian,Individual,Active,C
 Cilantro Taqueria,Kate,Rose,tacoscilantro@gmail.com,True,Kate Rose,Individual,Active,Cleveland Area,6,,
 City Goods,Brad,Speck,LPainter@OhioCity.org,True,Brad Speck,Individual,Active,Cleveland Area,6,,
 Clean Eatz - Cuyahoga Falls,Forest,Indra,Cfalls@cleaneatz.com,True,Forest Indra,Individual,Active,Cleveland Area,6,,
-Beachland Ballroom,Megan,LaConte,cindy@beachlandballroom.com,True,Megan LaConte,Individual,Active,Cleveland Area,6,,
-Beck Center for the Arts,Justin,Lepley,jgilliland@beckcenter.org,True,Justin Lepley,Individual,Active,Cleveland Area,6,,
-Beck Center for the Arts,Reilly,Reilly,egallagher@beckcenter.org,True,Reilly Reilly,Individual,Active,Cleveland Area,6,,
-Beck Center for the Arts,Maurice,Thomas,egallagher@beckcenter.or,True,Maurice Thomas,Individual,Active,Cleveland Area,6,,
-Azimuth Medical LLC,Lisa,Weitzman,pete@azimuthmedical.com,True,Lisa Weitzman,Individual,Active,Cleveland Area,6,,
-CANAPI,Diane,Kaszei,mlaconte@canapi.org,True,Diane Kaszei,Individual,Active,Cleveland Area,6,,
-CANAPI,Andrew,Katusin,justin@lepleyholdings.com,True,Andrew Katusin,Individual,Active,Cleveland Area,6,,
-CANAPI,Lillian,Kuri,hmahmood@canapi.org,True,Lillian Kuri,Individual,Active,Cleveland Area,6,,
-CANAPI,Hilary,Lucas,treilly@canapi.org,True,Hilary Lucas,Individual,Active,Cleveland Area,6,,
-CANAPI,Ginger,Mlakar,mthomas@canapi.org,True,Ginger Mlakar,Individual,Active,Cleveland Area,6,,
-CANAPI,Emma,Mobert,fwall@canapi.org,True,Emma Mobert,Individual,Active,Cleveland Area,6,,
+Beachland Ballroom,Megan,LaConte,cindy@beachlandballroom.com,True,Megan LaConte,Individual,Active,Cleveland Area,6,https://www.beachlandballroom.com,
+Beck Center for the Arts,Justin,Lepley,jgilliland@beckcenter.org,True,Justin Lepley,Individual,Active,Cleveland Area,6,https://www.beckcenter.org,
+Beck Center for the Arts,Reilly,Reilly,egallagher@beckcenter.org,True,Reilly Reilly,Individual,Active,Cleveland Area,6,https://www.beckcenter.org,
+Beck Center for the Arts,Maurice,Thomas,egallagher@beckcenter.or,True,Maurice Thomas,Individual,Active,Cleveland Area,6,https://www.beckcenter.org,
+Azimuth Medical LLC,Lisa,Weitzman,pete@azimuthmedical.com,True,Lisa Weitzman,Individual,Active,Cleveland Area,6,https://www.azimuthmedical.com,
+CANAPI,Diane,Kaszei,mlaconte@canapi.org,True,Diane Kaszei,Individual,Active,Cleveland Area,6,https://www.canapi.org,
+CANAPI,Andrew,Katusin,justin@lepleyholdings.com,True,Andrew Katusin,Individual,Active,Cleveland Area,6,https://www.canapi.org,
+CANAPI,Lillian,Kuri,hmahmood@canapi.org,True,Lillian Kuri,Individual,Active,Cleveland Area,6,https://www.canapi.org,
+CANAPI,Hilary,Lucas,treilly@canapi.org,True,Hilary Lucas,Individual,Active,Cleveland Area,6,https://www.canapi.org,
+CANAPI,Ginger,Mlakar,mthomas@canapi.org,True,Ginger Mlakar,Individual,Active,Cleveland Area,6,https://www.canapi.org,
+CANAPI,Emma,Mobert,fwall@canapi.org,True,Emma Mobert,Individual,Active,Cleveland Area,6,https://www.canapi.org,
 "Carve Your Own Path, Inc.",Brittany,Schultz,amanda@cyopinc.org,True,Brittany Schultz,Individual,Active,Cleveland Area,6,,
 Marquez Development,Mx.,Max,laceibacleveland@yahoo.com,True,Mx. Max,Individual,Active,Cleveland Area,6,,
 "Masuda Law, LLC",Kim,Fetty,todd@masudalawllc.com,True,Kim Fetty,Individual,Active,Cleveland Area,6,,
 Matt Rolf Attorney LLC,Ms.,Christine,m-rolf@mattrolfattorneyllc.com,True,Ms. Christine,Individual,Active,Cleveland Area,6,,
-B.Riley Sober House,Tiffany,Trapnell,terrie@brileysoberhome.org,True,Tiffany Trapnell,Individual,Active,Cleveland Area,6,,
-B.Riley Sober House,Heidi,Anthonsen,Marilynk@brileysoberhome.org,True,Heidi Anthonsen,Individual,Active,Cleveland Area,6,,
-B.Riley Sober House,Anthony,Coffman,marilynk@brileysoberhome.org,True,Anthony Coffman,Individual,Active,Cleveland Area,6,,
-B.Riley Sober House,Beverly,Harrison,melissa@brileysoberhome.org,True,Beverly Harrison,Individual,Active,Cleveland Area,6,,
+B.Riley Sober House,Tiffany,Trapnell,terrie@brileysoberhome.org,True,Tiffany Trapnell,Individual,Active,Cleveland Area,6,https://www.brileysoberhome.org,
+B.Riley Sober House,Heidi,Anthonsen,Marilynk@brileysoberhome.org,True,Heidi Anthonsen,Individual,Active,Cleveland Area,6,https://www.brileysoberhome.org,
+B.Riley Sober House,Anthony,Coffman,marilynk@brileysoberhome.org,True,Anthony Coffman,Individual,Active,Cleveland Area,6,https://www.brileysoberhome.org,
+B.Riley Sober House,Beverly,Harrison,melissa@brileysoberhome.org,True,Beverly Harrison,Individual,Active,Cleveland Area,6,https://www.brileysoberhome.org,
 Axuall,Lauranne,Scharf,hr@axuall.com,True,Lauranne Scharf,Individual,Active,Cleveland Area,6,https://axuall.com,https://www.linkedin.com/company/axuall
 B. Frohman Imaging and Design,Susan,Bookshar,bobbi@BFimaging.com,True,Susan Bookshar,Individual,Active,Cleveland Area,6,https://bfimaging.com,https://www.linkedin.com/in/bobbi-frohman-4b9a7b38
 B. Frohman Imaging and Design,Katie,Hills,bobbi@bfimaging.com,True,Katie Hills,Individual,Active,Cleveland Area,6,https://bfimaging.com,https://www.linkedin.com/in/bobbi-frohman-4b9a7b38
@@ -862,7 +862,7 @@ MJB Immigration,Ralph,Valente,daniel@mjbimmigration.com,True,Ralph Valente,Indiv
 MOD Network LLC,Zac,Boyer,sbartlett@mod.network,True,Zac Boyer,Individual,Active,Cleveland Area,6,,
 My Noble Path,Joe,Bass,mercedes@mynoblepath.com,True,Joe Bass,Individual,Active,Cleveland Area,6,,
 Boss K9,Sean,Morgan,contact@bossk9cle.com,True,Sean Morgan,Individual,Active,Cleveland Area,6,,
-Better Business Bureau,Brittany,Zaehringer,katieh@cleveland.bbb.org,True,Brittany Zaehringer,Individual,Active,Cleveland Area,6,,
+Better Business Bureau,Brittany,Zaehringer,katieh@cleveland.bbb.org,True,Brittany Zaehringer,Individual,Active,Cleveland Area,6,https://www.bbb.org/local-bbb/bbb-serving-greater-cleveland,
 Big Creek Massotherapy,Joni,Allen,anthony@bigcreekmassotherapy.com,True,Joni Allen,Individual,Active,Cleveland Area,6,,
 Birdtown Strength,Hannah,Brisson,jillian@birdtownstrength.com,True,Hannah Brisson,Individual,Active,Cleveland Area,6,,
 Blurred Lines Beauty,Hansen,Coseo,blurredlinesbeauty20@gmail.com,True,Hansen Coseo,Individual,Active,Cleveland Area,6,,
@@ -921,12 +921,12 @@ SkinnyBoy Media,Corey,James,contact@skinnyboymedia.com,True,Corey James,Individu
 Skidmark Garage CLE,Rayne,Elder,molly@motogocleveland.com,True,Rayne Elder,Individual,Active,Cleveland Area,6,,
 Sophie La Gourmande,Maverick,Williams,bob@sophielagourmande.com,True,Maverick Williams,Individual,Active,Cleveland Area,6,,
 Smart-LE,Iris,Sim,kim@smartlevr.com,True,Iris Sim,Individual,Active,Cleveland Area,6,,
-AfterMath,Jade,Johnson-Brown,delwell@teamaftermath.com,True,Jade Johnson-Brown,Individual,Active,Cleveland Area,6,,
+AfterMath,Jade,Johnson-Brown,delwell@teamaftermath.com,True,Jade Johnson-Brown,Individual,Active,Cleveland Area,6,https://teamaftermath.com,https://www.linkedin.com/company/teamaftermath
 Out Fitness Collective,marcie,Lambrix,jj@jjfit.pro,True,marcie Lambrix,Individual,Active,Cleveland Area,6,,
 Oswald Companies,Ramona,Brazile,oswaldpride@oswaldcompanies.com,True,Ramona Brazile,Individual,Active,Cleveland Area,6,https://www.oswaldcompanies.com,https://www.linkedin.com/company/oswald-companies
 Northwest Neighborhoods,Mary,Beth,ewiggins@nwneighborhoods.org,True,Mary Beth,Individual,Active,Cleveland Area,6,,
 Art of Sucre,Lance,Hill,livi@artofsucre.com,True,Lance Hill,Individual,Active,Cleveland Area,6,https://artofsucre.com,
-"Allison L. Harrison Law, LLC",Kathy,Dow,aharrison@alharrisonlaw.com,True,Kathy Dow,Individual,Active,Cleveland Area,6,,
+"Allison L. Harrison Law, LLC",Kathy,Dow,aharrison@alharrisonlaw.com,True,Kathy Dow,Individual,Active,Cleveland Area,6,https://www.alhlaw.com,https://www.linkedin.com/in/alharrisonlaw
 American Greetings,Nicole,Fraser,pride@ag.com,True,Nicole Fraser,Individual,Active,Cleveland Area,6,https://corporate.americangreetings.com,https://www.linkedin.com/company/american-greetings
 Oswald Companies,LaShon,Carson,lcrabtree@oswaldcompanies.com,True,LaShon Carson,Individual,Active,Cleveland Area,6,https://www.oswaldcompanies.com,https://www.linkedin.com/company/oswald-companies
 Open Arms Adoptions,Audrey,Silvestro,info@openarmsadopt.com,True,Audrey Silvestro,Individual,Active,Cleveland Area,6,,
@@ -939,12 +939,12 @@ North Coast Men's Chorus,Amanda,Cooper,sbelt@ncmchorus.org,True,Amanda Cooper,In
 North Coast Men's Chorus,Cierra,Hilson,richcole@icloud.com,True,Cierra Hilson,Individual,Active,Cleveland Area,6,,
 Akron Pride Festival,Pita,Brooks,d.michael.davids@gmail.com,True,Pita Brooks,Individual,Active,Akron,6,https://www.akronpridefestival.org,
 Adobe Acrobat,Dale,Elwell,cit46532@adobe.com,True,Dale Elwell,Individual,Active,Cleveland Area,6,,
-AFox Solutions,Steve,Arrington,ledgington@americanbus.com,True,Steve Arrington,Individual,Active,Cleveland Area,6,,
-AfterMath,Jodi,Henderson-Ross,mmccallum@teamaftermath.com,True,Jodi Henderson-Ross,Individual,Active,Cleveland Area,6,,
+AFox Solutions,Steve,Arrington,ledgington@americanbus.com,True,Steve Arrington,Individual,Active,Cleveland Area,6,https://www.afoxsolutions.com,https://www.linkedin.com/company/afox-solutions-a-lgbtq-company
+AfterMath,Jodi,Henderson-Ross,mmccallum@teamaftermath.com,True,Jodi Henderson-Ross,Individual,Active,Cleveland Area,6,https://teamaftermath.com,https://www.linkedin.com/company/teamaftermath
 Baldwin Wallace LGBT Center,Nathaniel,Orndorf,aboe@bw.edu,True,Nathaniel Orndorf,Individual,Active,Cleveland Area,6,https://www.bw.edu/student-life/services/lgbtq/,
 Bamboo Birth,Mary,Ann,Kristen@bamboo-birth.com,True,Mary Ann,Individual,Active,Cleveland Area,6,,
-BE YOU Brands,LarKesha,Burns,BEYOUbrands@americanbus.com,True,LarKesha Burns,Individual,Active,Cleveland Area,6,,
-ArtsNow,Kelsey,McCabe,Nicole@ArtsNow.org,True,Kelsey McCabe,Individual,Active,Cleveland Area,6,,
+BE YOU Brands,LarKesha,Burns,BEYOUbrands@americanbus.com,True,LarKesha Burns,Individual,Active,Cleveland Area,6,https://www.beyoubrandsolutions.com,
+ArtsNow,Kelsey,McCabe,Nicole@ArtsNow.org,True,Kelsey McCabe,Individual,Active,Cleveland Area,6,https://artsnow.org,
 Assembly for the Arts,Charli,Montesino,jeremy@assemblycle.org,True,Charli Montesino,Individual,Active,Cleveland Area,6,https://assemblycle.org,https://www.linkedin.com/company/assembly-for-the-arts
 Assembly for the Arts,Greg,Newman,deidre@assemblycle.org,True,Greg Newman,Individual,Active,Cleveland Area,6,https://assemblycle.org,https://www.linkedin.com/company/assembly-for-the-arts
 Paige Mireles Photography,Shaun,Chapman,pmirelesphotography@gmail.com,True,Shaun Chapman,Individual,Active,Cleveland Area,6,,
@@ -969,7 +969,7 @@ Open Arms Adoptions,Cherron,Bielfeldt,Marcella@openarmsadopt.com,True,Cherron Bi
 Open Arms Adoptions,Daryl,Licursi,dawn@openarmsadopt.com,True,Daryl Licursi,Individual,Active,Cleveland Area,6,,
 Open Arms Adoptions,Jaime,Garay,jackie@openarmsadopt.com,True,Jaime Garay,Individual,Active,Cleveland Area,6,,
 Open Arms Adoptions,Dr.,Kathleen,Deb@openarmsadopt.com,True,Dr. Kathleen,Individual,Active,Cleveland Area,6,,
-ArtsNow,Kristin,Kerestman,Grace@artsnow.org,True,Kristin Kerestman,Individual,Active,Cleveland Area,6,,
+ArtsNow,Kristin,Kerestman,Grace@artsnow.org,True,Kristin Kerestman,Individual,Active,Cleveland Area,6,https://artsnow.org,
 American Greetings,Melissa,Spurgeon,ljohnson@ag.com,True,Melissa Spurgeon,Individual,Active,Cleveland Area,6,https://corporate.americangreetings.com,https://www.linkedin.com/company/american-greetings
 Skylight Financial Group,Matt,Riehl,dbrennan@financialguide.com,True,Matt Riehl,Individual,Active,Cleveland Area,6,https://skylightfinancialgroup.com,https://www.linkedin.com/company/skylight-financial-group
 Diebold Nixdorf,Marissa,Gannon,rado@dieboldnixdorf.com,True,Marissa Gannon,Individual,Active,Cleveland Area,6,https://www.dieboldnixdorf.com,https://www.linkedin.com/company/diebold
@@ -1023,13 +1023,13 @@ Northeast Ohio Regional Sewer District,Mr.,David,Neelond@neorsd.org,True,Mr. Dav
 Northeast Ohio Regional Sewer District,Megan,Hurley,johnsonz@neorsd.org,True,Megan Hurley,Individual,Active,Cleveland Area,5,,
 "Maria’s Permanent Hair Removal, LLC",Sadé,Sparks,Mariashairremoval@yahoo.com,True,Sadé Sparks,Individual,Active,Cleveland Area,5,,
 Navigate Counseling and Consultation Services,Iriel,Hopkins,andrew@navigatecounseling.org,True,Iriel Hopkins,Individual,Active,Cleveland Area,5,,
-Akron AIDS Collaborative,Gina,Thomas,javon@ohioaac.org,True,Gina Thomas,Individual,Active,Akron,5,,
-Akron AIDS Collaborative,Jenny,Gerow,keith@ohioaac.org,True,Jenny Gerow,Individual,Active,Akron,5,,
+Akron AIDS Collaborative,Gina,Thomas,javon@ohioaac.org,True,Gina Thomas,Individual,Active,Akron,5,https://ohioaac.org,
+Akron AIDS Collaborative,Jenny,Gerow,keith@ohioaac.org,True,Jenny Gerow,Individual,Active,Akron,5,https://ohioaac.org,
 Conservancy for Cuyahoga Valley National Park,Sarah,Sumbrum,apaine@forcvnp.org,True,Sarah Sumbrum,Individual,Active,Cleveland Area,5,,
 Conservancy for Cuyahoga Valley National Park,Daniel,Hamilton,lregan@forcvnp.org,True,Daniel Hamilton,Individual,Active,Cleveland Area,5,,
 COSE Council of Small Enterprises,Anson,Hall,info@cose.org,True,Anson Hall,Individual,Active,Cleveland Area,5,,
 COSE Council of Small Enterprises,Dylan,Hammon,chamman@greatercle.com,True,Dylan Hammon,Individual,Active,Cleveland Area,5,,
-"Burten, Bell, Carr Development, Inc.",Lucy,Veres,lburns@bbcdevelopment.org,True,Lucy Veres,Individual,Active,Cleveland Area,5,,
+"Burten, Bell, Carr Development, Inc.",Lucy,Veres,lburns@bbcdevelopment.org,True,Lucy Veres,Individual,Active,Cleveland Area,5,https://www.bbcdevelopment.org,https://www.linkedin.com/company/burten-bell-carr-development-inc
 CWRU AIDS Clinical Trials Unit,Ravipati,Venkatesh,bsw34@case.edu,True,Ravipati Venkatesh,Individual,Active,Cleveland Area,5,,
 Denise Astorino - Realtor - Howard Hanna,Lena,Chapin,deniseastorino@howardhanna.com,True,Lena Chapin,Individual,Active,Cleveland Area,5,,
 Denise Astorino - Realtor - Howard Hanna,Elise,Kuklinca,dhamilton@lgbtcleveland.org,True,Elise Kuklinca,Individual,Active,Cleveland Area,5,,
@@ -1081,17 +1081,17 @@ Left of Str8 Media and Consulting,Samantha,Payne,scott@leftofstr8.com,True,Saman
 Licursi Bartending & Event Management Services,Eva,Rodgers,Daryl@licursibartending.com,True,Eva Rodgers,Individual,Active,Cleveland Area,5,,
 Black Transmen of Ohio - BTMOhio,Hannah,Churilla,community@btmohio.org,True,Hannah Churilla,Individual,Active,Cleveland Area,5,,
 Licursi Bartending & Event Management Services,Lauren,Traci,lisa@licursibartending.com,True,Lauren Traci,Individual,Active,Cleveland Area,5,,
-Berkshire Hathaway HomeServices Professional Realty,Devin,Taylor,alex@homesbyalexcruz.com,True,Devin Taylor,Individual,Active,Cleveland Area,5,,
+Berkshire Hathaway HomeServices Professional Realty,Devin,Taylor,alex@homesbyalexcruz.com,True,Devin Taylor,Individual,Active,Cleveland Area,5,https://www.bhhspro.com,
 Black Transmen of Ohio - BTMOhio,Marcia,Butts,info@btmohio.org,True,Marcia Butts,Individual,Active,Cleveland Area,5,,
 Conservancy for Cuyahoga Valley National Park,Hillary,Walker,info@forcvnp.org,True,Hillary Walker,Individual,Active,Cleveland Area,5,,
 Black Transmen of Ohio - BTMOhio,Erika,Ciszczon,kgoins@btmohio.org,True,Erika Ciszczon,Individual,Active,Cleveland Area,5,,
 Conservancy for Cuyahoga Valley National Park,Priscilla,Florin,jmiller@forcvnp.org,True,Priscilla Florin,Individual,Active,Cleveland Area,5,,
 Conservancy for Cuyahoga Valley National Park,Brooke,Willis,slock@forcvnp.org,True,Brooke Willis,Individual,Active,Cleveland Area,5,,
-Akron AIDS Collaborative,Keith,Munnerlyn,stan1727@gmail.com,True,Keith Munnerlyn,Individual,Active,Akron,5,,
-Akron AIDS Collaborative,Javon,Solomon,steve@ohioaac.org,True,Javon Solomon,Individual,Active,Akron,5,,
+Akron AIDS Collaborative,Keith,Munnerlyn,stan1727@gmail.com,True,Keith Munnerlyn,Individual,Active,Akron,5,https://ohioaac.org,
+Akron AIDS Collaborative,Javon,Solomon,steve@ohioaac.org,True,Javon Solomon,Individual,Active,Akron,5,https://ohioaac.org,
 Akron Pride Custom Tees,Akron,Public,akronpridecustomtees@outlook.com,True,Akron Public,Individual,Active,Akron,5,,
-Akron AIDS Collaborative,Mary,Boylan,Jade@ohioaac.org,True,Mary Boylan,Individual,Active,Akron,5,,
-Akron AIDS Collaborative,Brian,Bartlett,jodi@ohioaac.org,True,Brian Bartlett,Individual,Active,Akron,5,,
+Akron AIDS Collaborative,Mary,Boylan,Jade@ohioaac.org,True,Mary Boylan,Individual,Active,Akron,5,https://ohioaac.org,
+Akron AIDS Collaborative,Brian,Bartlett,jodi@ohioaac.org,True,Brian Bartlett,Individual,Active,Akron,5,https://ohioaac.org,
 Akron Pride Festival,Edie,Steiner,jbeckert@canapi.org,True,Edie Steiner,Individual,Active,Akron,5,https://www.akronpridefestival.org,
 Akron Pride Festival,Erin,Simonetti,info@akronpridefestival.org,True,Erin Simonetti,Individual,Active,Akron,5,https://www.akronpridefestival.org,
 Akron Soul Train,Denaira,Campbell,Nancy@akronsoultrain.org,True,Denaira Campbell,Individual,Active,Akron,5,https://www.akronsoultrain.org,
