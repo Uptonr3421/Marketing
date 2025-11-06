@@ -386,9 +386,9 @@ PNC Bank,George,Graham,logan.baez@pnc.com,True,George Graham,Individual,Active,C
 Playhouse Square,Jennifer,Boyd,lauren.traci@playhousesquare.org,True,Jennifer Boyd,Individual,Active,Cleveland Area,7,,
 PNC Bank,Michelle,Kowalski,gina.mccarthy@pnc.com,True,Michelle Kowalski,Individual,Active,Cleveland Area,7,https://www.pnc.com,https://www.linkedin.com/company/pnc-bank
 Northwest Neighborhoods,Marcus,Alexander,ewalker@nwneighborhoods.org,True,Marcus Alexander,Individual,Active,Cleveland Area,6,,
-Skylight Financial Group,Steven,Licciardi,briodye@gmail.com,True,Steven Licciardi,Individual,Active,Cleveland Area,6,,
-Skylight Financial Group,Accounting,,wcrozier@financialguide.com,True,Accounting,Individual,Active,Cleveland Area,6,,
-Skylight Financial Group,Sean,Franklin,bsmetana@financialguide.com,True,Sean Franklin,Individual,Active,Cleveland Area,6,,
+Skylight Financial Group,Steven,Licciardi,briodye@gmail.com,True,Steven Licciardi,Individual,Active,Cleveland Area,6,https://skylightfinancialgroup.com,https://www.linkedin.com/company/skylight-financial-group
+Skylight Financial Group,Accounting,,wcrozier@financialguide.com,True,Accounting,Individual,Active,Cleveland Area,6,https://skylightfinancialgroup.com,https://www.linkedin.com/company/skylight-financial-group
+Skylight Financial Group,Sean,Franklin,bsmetana@financialguide.com,True,Sean Franklin,Individual,Active,Cleveland Area,6,https://skylightfinancialgroup.com,https://www.linkedin.com/company/skylight-financial-group
 Smart-LE,Carly,Specht,mzaller1@gmail.com,True,Carly Specht,Individual,Active,Cleveland Area,6,,
 Art of Sucre,Amanda,Gallitto,hello@artofsucre.com,True,Amanda Gallitto,Individual,Active,Cleveland Area,6,https://artofsucre.com,
 Art of Sucre,Matthew,Garcia,emma@artofsucre.com,True,Matthew Garcia,Individual,Active,Cleveland Area,6,https://artofsucre.com,
@@ -412,7 +412,7 @@ B.Riley Sober House,Dale,Heinen,leonc@brileysoberhome.org,True,Dale Heinen,Indiv
 AURA Venue CLE LLC,Alicia,Procello,hello@auravenuecle.com,True,Alicia Procello,Individual,Active,Cleveland Area,6,https://www.auravenuecle.com,
 AURA Venue CLE LLC,Jennifer,Rossi,alldolldupmakeup@gmail.com,True,Jennifer Rossi,Individual,Active,Cleveland Area,6,https://www.auravenuecle.com,
 AURA Venue CLE LLC,Kelly,Ruffenach,bee@auravenuecle.com,True,Kelly Ruffenach,Individual,Active,Cleveland Area,6,https://www.auravenuecle.com,
-Baldwin Wallace LGBT Center,Allen,Loew,lgbt@bw.edu,True,Allen Loew,Individual,Active,Cleveland Area,6,,
+Baldwin Wallace LGBT Center,Allen,Loew,lgbt@bw.edu,True,Allen Loew,Individual,Active,Cleveland Area,6,https://www.bw.edu/student-life/services/lgbtq/,
 Northwest Neighborhoods,Lauren,Ozanich,info@nwneighborhoods.org,True,Lauren Ozanich,Individual,Active,Cleveland Area,6,,
 Northwest Neighborhoods,Michelle,Stewart,npeguero@nwneighborhoods.org,True,Michelle Stewart,Individual,Active,Cleveland Area,6,,
 Northwest Neighborhoods,Erica,Story,csullivan@nwneighborhoods.org,True,Erica Story,Individual,Active,Cleveland Area,6,,
@@ -853,9 +853,9 @@ B.Riley Sober House,Heidi,Anthonsen,Marilynk@brileysoberhome.org,True,Heidi Anth
 B.Riley Sober House,Anthony,Coffman,marilynk@brileysoberhome.org,True,Anthony Coffman,Individual,Active,Cleveland Area,6,,
 B.Riley Sober House,Beverly,Harrison,melissa@brileysoberhome.org,True,Beverly Harrison,Individual,Active,Cleveland Area,6,,
 Axuall,Lauranne,Scharf,hr@axuall.com,True,Lauranne Scharf,Individual,Active,Cleveland Area,6,https://axuall.com,https://www.linkedin.com/company/axuall
-B. Frohman Imaging and Design,Susan,Bookshar,bobbi@BFimaging.com,True,Susan Bookshar,Individual,Active,Cleveland Area,6,,
-B. Frohman Imaging and Design,Katie,Hills,bobbi@bfimaging.com,True,Katie Hills,Individual,Active,Cleveland Area,6,,
-B. Frohman Imaging and Design,Rebecca,Parch,arthollback@gmail.com,True,Rebecca Parch,Individual,Active,Cleveland Area,6,,
+B. Frohman Imaging and Design,Susan,Bookshar,bobbi@BFimaging.com,True,Susan Bookshar,Individual,Active,Cleveland Area,6,https://bfimaging.com,https://www.linkedin.com/in/bobbi-frohman-4b9a7b38
+B. Frohman Imaging and Design,Katie,Hills,bobbi@bfimaging.com,True,Katie Hills,Individual,Active,Cleveland Area,6,https://bfimaging.com,https://www.linkedin.com/in/bobbi-frohman-4b9a7b38
+B. Frohman Imaging and Design,Rebecca,Parch,arthollback@gmail.com,True,Rebecca Parch,Individual,Active,Cleveland Area,6,https://bfimaging.com,https://www.linkedin.com/in/bobbi-frohman-4b9a7b38
 Near West Theatre,Traci,Kalpac,info@nearwesttheatre.org,True,Traci Kalpac,Individual,Active,Cleveland Area,6,https://www.nearwesttheatre.org,https://www.linkedin.com/company/near-west-theatre
 Near West Theatre,Hollie,Kozak,harmenta@nearwesttheatre.org,True,Hollie Kozak,Individual,Active,Cleveland Area,6,https://www.nearwesttheatre.org,https://www.linkedin.com/company/near-west-theatre
 MJB Immigration,Ralph,Valente,daniel@mjbimmigration.com,True,Ralph Valente,Individual,Active,Cleveland Area,6,,
@@ -932,21 +932,21 @@ Oswald Companies,LaShon,Carson,lcrabtree@oswaldcompanies.com,True,LaShon Carson,
 Open Arms Adoptions,Audrey,Silvestro,info@openarmsadopt.com,True,Audrey Silvestro,Individual,Active,Cleveland Area,6,,
 Open Arms Adoptions,Willow,Watson,Renee@openarmsadopt.com,True,Willow Watson,Individual,Active,Cleveland Area,6,,
 Open Arms Adoptions,Emily,Lowe,michelle@openarmsadopt.com,True,Emily Lowe,Individual,Active,Cleveland Area,6,,
-Skylight Financial Group,Mary,Paxton,Kbryan@financialguide.com,True,Mary Paxton,Individual,Active,Cleveland Area,6,,
+Skylight Financial Group,Mary,Paxton,Kbryan@financialguide.com,True,Mary Paxton,Individual,Active,Cleveland Area,6,https://skylightfinancialgroup.com,https://www.linkedin.com/company/skylight-financial-group
 "Nomz, LLC",Mr.,Wren,info@nomzeatz.com,True,Mr. Wren,Individual,Active,Cleveland Area,6,,
 North Coast Men's Chorus,Ms.,Quinn,info@ncmchorus.org,True,Ms. Quinn,Individual,Active,Cleveland Area,6,,
 North Coast Men's Chorus,Amanda,Cooper,sbelt@ncmchorus.org,True,Amanda Cooper,Individual,Active,Cleveland Area,6,,
 North Coast Men's Chorus,Cierra,Hilson,richcole@icloud.com,True,Cierra Hilson,Individual,Active,Cleveland Area,6,,
-Akron Pride Festival,Pita,Brooks,d.michael.davids@gmail.com,True,Pita Brooks,Individual,Active,Akron,6,,
+Akron Pride Festival,Pita,Brooks,d.michael.davids@gmail.com,True,Pita Brooks,Individual,Active,Akron,6,https://www.akronpridefestival.org,
 Adobe Acrobat,Dale,Elwell,cit46532@adobe.com,True,Dale Elwell,Individual,Active,Cleveland Area,6,,
 AFox Solutions,Steve,Arrington,ledgington@americanbus.com,True,Steve Arrington,Individual,Active,Cleveland Area,6,,
 AfterMath,Jodi,Henderson-Ross,mmccallum@teamaftermath.com,True,Jodi Henderson-Ross,Individual,Active,Cleveland Area,6,,
-Baldwin Wallace LGBT Center,Nathaniel,Orndorf,aboe@bw.edu,True,Nathaniel Orndorf,Individual,Active,Cleveland Area,6,,
+Baldwin Wallace LGBT Center,Nathaniel,Orndorf,aboe@bw.edu,True,Nathaniel Orndorf,Individual,Active,Cleveland Area,6,https://www.bw.edu/student-life/services/lgbtq/,
 Bamboo Birth,Mary,Ann,Kristen@bamboo-birth.com,True,Mary Ann,Individual,Active,Cleveland Area,6,,
 BE YOU Brands,LarKesha,Burns,BEYOUbrands@americanbus.com,True,LarKesha Burns,Individual,Active,Cleveland Area,6,,
 ArtsNow,Kelsey,McCabe,Nicole@ArtsNow.org,True,Kelsey McCabe,Individual,Active,Cleveland Area,6,,
-Assembly for the Arts,Charli,Montesino,jeremy@assemblycle.org,True,Charli Montesino,Individual,Active,Cleveland Area,6,,
-Assembly for the Arts,Greg,Newman,deidre@assemblycle.org,True,Greg Newman,Individual,Active,Cleveland Area,6,,
+Assembly for the Arts,Charli,Montesino,jeremy@assemblycle.org,True,Charli Montesino,Individual,Active,Cleveland Area,6,https://assemblycle.org,https://www.linkedin.com/company/assembly-for-the-arts
+Assembly for the Arts,Greg,Newman,deidre@assemblycle.org,True,Greg Newman,Individual,Active,Cleveland Area,6,https://assemblycle.org,https://www.linkedin.com/company/assembly-for-the-arts
 Paige Mireles Photography,Shaun,Chapman,pmirelesphotography@gmail.com,True,Shaun Chapman,Individual,Active,Cleveland Area,6,,
 NOAS,Mrs.,Heather,mwolcott@noas.com,True,Mrs. Heather,Individual,Active,Cleveland Area,6,,
 Dobama Theatre,Keihen,Kitchen,nmotta@dobama.org,True,Keihen Kitchen,Individual,Active,Cleveland Area,6,,
@@ -971,7 +971,7 @@ Open Arms Adoptions,Jaime,Garay,jackie@openarmsadopt.com,True,Jaime Garay,Indivi
 Open Arms Adoptions,Dr.,Kathleen,Deb@openarmsadopt.com,True,Dr. Kathleen,Individual,Active,Cleveland Area,6,,
 ArtsNow,Kristin,Kerestman,Grace@artsnow.org,True,Kristin Kerestman,Individual,Active,Cleveland Area,6,,
 American Greetings,Melissa,Spurgeon,ljohnson@ag.com,True,Melissa Spurgeon,Individual,Active,Cleveland Area,6,https://corporate.americangreetings.com,https://www.linkedin.com/company/american-greetings
-Skylight Financial Group,Matt,Riehl,dbrennan@financialguide.com,True,Matt Riehl,Individual,Active,Cleveland Area,6,,
+Skylight Financial Group,Matt,Riehl,dbrennan@financialguide.com,True,Matt Riehl,Individual,Active,Cleveland Area,6,https://skylightfinancialgroup.com,https://www.linkedin.com/company/skylight-financial-group
 Diebold Nixdorf,Marissa,Gannon,rado@dieboldnixdorf.com,True,Marissa Gannon,Individual,Active,Cleveland Area,6,https://www.dieboldnixdorf.com,https://www.linkedin.com/company/diebold
 Northwest Neighborhoods,Aubri,Hazlett,cdescott@nwneighborhoods.org,True,Aubri Hazlett,Individual,Active,Cleveland Area,6,,
 Northwest Neighborhoods,Erin,Hiller,efallick@nwneighborhoods.org,True,Erin Hiller,Individual,Active,Cleveland Area,6,,
@@ -1038,7 +1038,7 @@ Shamus Dickinson - Howard Hanna Real Estate Services,Valerie,Mayen,shamusdickins
 Sits 'n Wiggles Dog Training 'n Behavior Consulting,Heather,Pollack,valarie@sitsnwigglescle.com,True,Heather Pollack,Individual,Active,Cleveland Area,5,,
 Sits 'n Wiggles Dog Training 'n Behavior Consulting,Craig,Richards,angie@sitsnwigglescle.com,True,Craig Richards,Individual,Active,Cleveland Area,5,,
 "Compass Policy Strategies, LLC",Bryanta,Spencer,kaiser@compasspolicy.com,True,Bryanta Spencer,Individual,Active,Cleveland Area,5,,
-Akron Soul Train,Annie,Deitrick,pita@akronsoultrain.org,True,Annie Deitrick,Individual,Active,Akron,5,,
+Akron Soul Train,Annie,Deitrick,pita@akronsoultrain.org,True,Annie Deitrick,Individual,Active,Akron,5,https://www.akronsoultrain.org,
 Northeast Ohio Regional Sewer District,Greg,Hawkins,harks@neorsd.org,True,Greg Hawkins,Individual,Active,Cleveland Area,5,,
 Northeast Ohio Regional Sewer District,Kim,Holmes,Harveln@neorsd.org,True,Kim Holmes,Individual,Active,Cleveland Area,5,,
 "Oasis Counseling Solutions, LLC",Hunter,Evans,kbussert@ocsohio.com,True,Hunter Evans,Individual,Active,Cleveland Area,5,,
@@ -1092,9 +1092,9 @@ Akron AIDS Collaborative,Javon,Solomon,steve@ohioaac.org,True,Javon Solomon,Indi
 Akron Pride Custom Tees,Akron,Public,akronpridecustomtees@outlook.com,True,Akron Public,Individual,Active,Akron,5,,
 Akron AIDS Collaborative,Mary,Boylan,Jade@ohioaac.org,True,Mary Boylan,Individual,Active,Akron,5,,
 Akron AIDS Collaborative,Brian,Bartlett,jodi@ohioaac.org,True,Brian Bartlett,Individual,Active,Akron,5,,
-Akron Pride Festival,Edie,Steiner,jbeckert@canapi.org,True,Edie Steiner,Individual,Active,Akron,5,,
-Akron Pride Festival,Erin,Simonetti,info@akronpridefestival.org,True,Erin Simonetti,Individual,Active,Akron,5,,
-Akron Soul Train,Denaira,Campbell,Nancy@akronsoultrain.org,True,Denaira Campbell,Individual,Active,Akron,5,,
+Akron Pride Festival,Edie,Steiner,jbeckert@canapi.org,True,Edie Steiner,Individual,Active,Akron,5,https://www.akronpridefestival.org,
+Akron Pride Festival,Erin,Simonetti,info@akronpridefestival.org,True,Erin Simonetti,Individual,Active,Akron,5,https://www.akronpridefestival.org,
+Akron Soul Train,Denaira,Campbell,Nancy@akronsoultrain.org,True,Denaira Campbell,Individual,Active,Akron,5,https://www.akronsoultrain.org,
 The Lubrizol Corporation,,,matthew.nyce@lubrizol.com,True,,Business,Gray Area,Cleveland Area,4,,
 Thompson Hine LLP,,,kiara.watkins@thompsonhine.com,True,,Business,Gray Area,Cleveland Area,4,,
 Thompson Hine LLP,,,justine.lewis@thompsonhine.com,True,,Business,Gray Area,Cleveland Area,4,,
@@ -1385,22 +1385,22 @@ West Park Kamm's Neighborhood Development,,,rebekah@westparkkamms.org,True,,Busi
 West Park Kamm's Neighborhood Development,,,emily@westparkkamms.org,True,,Business,Gray Area,Cleveland Area,2,,
 West Park Kamm's Neighborhood Development,,,allison@westparkkamms.org,True,,Business,Gray Area,Cleveland Area,2,,
 The Red Twig Floral Design Studio,,,theredtwig@gmail.com,True,,Business,Gray Area,Cleveland Area,2,,
-The Goodyear Tire & Rubber Company,,,pride@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,,
-The Goodyear Tire & Rubber Company,,,ann_bosken@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,,
-The Goodyear Tire & Rubber Company,,,logan_dusseau@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,,
-The Goodyear Tire & Rubber Company,,,katelyn_gress@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,,
-The Goodyear Tire & Rubber Company,,,gregory_hawkins@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,,
-The Goodyear Tire & Rubber Company,,,kimberly_holmes@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,,
-The Goodyear Tire & Rubber Company,,,megan_hurley@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,,
-The Goodyear Tire & Rubber Company,,,djesse@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,,
-The Goodyear Tire & Rubber Company,,,jordan_kachmarik@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,,
-The Goodyear Tire & Rubber Company,,,connor_kanady@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,,
-The Goodyear Tire & Rubber Company,,,Arwen_Kathke@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,,
-The Goodyear Tire & Rubber Company,,,krista_liem@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,,
-The Goodyear Tire & Rubber Company,,,magdalynne_marrick@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,,
-The Goodyear Tire & Rubber Company,,,tara_szilagyi@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,,
-The Goodyear Tire & Rubber Company,,,stephanie_underwood@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,,
-The Goodyear Tire & Rubber Company,,,drwells@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,,
+The Goodyear Tire & Rubber Company,,,pride@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,https://www.goodyear.com,https://www.linkedin.com/company/goodyear
+The Goodyear Tire & Rubber Company,,,ann_bosken@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,https://www.goodyear.com,https://www.linkedin.com/company/goodyear
+The Goodyear Tire & Rubber Company,,,logan_dusseau@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,https://www.goodyear.com,https://www.linkedin.com/company/goodyear
+The Goodyear Tire & Rubber Company,,,katelyn_gress@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,https://www.goodyear.com,https://www.linkedin.com/company/goodyear
+The Goodyear Tire & Rubber Company,,,gregory_hawkins@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,https://www.goodyear.com,https://www.linkedin.com/company/goodyear
+The Goodyear Tire & Rubber Company,,,kimberly_holmes@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,https://www.goodyear.com,https://www.linkedin.com/company/goodyear
+The Goodyear Tire & Rubber Company,,,megan_hurley@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,https://www.goodyear.com,https://www.linkedin.com/company/goodyear
+The Goodyear Tire & Rubber Company,,,djesse@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,https://www.goodyear.com,https://www.linkedin.com/company/goodyear
+The Goodyear Tire & Rubber Company,,,jordan_kachmarik@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,https://www.goodyear.com,https://www.linkedin.com/company/goodyear
+The Goodyear Tire & Rubber Company,,,connor_kanady@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,https://www.goodyear.com,https://www.linkedin.com/company/goodyear
+The Goodyear Tire & Rubber Company,,,Arwen_Kathke@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,https://www.goodyear.com,https://www.linkedin.com/company/goodyear
+The Goodyear Tire & Rubber Company,,,krista_liem@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,https://www.goodyear.com,https://www.linkedin.com/company/goodyear
+The Goodyear Tire & Rubber Company,,,magdalynne_marrick@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,https://www.goodyear.com,https://www.linkedin.com/company/goodyear
+The Goodyear Tire & Rubber Company,,,tara_szilagyi@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,https://www.goodyear.com,https://www.linkedin.com/company/goodyear
+The Goodyear Tire & Rubber Company,,,stephanie_underwood@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,https://www.goodyear.com,https://www.linkedin.com/company/goodyear
+The Goodyear Tire & Rubber Company,,,drwells@goodyear.com,True,,Business,Gray Area,Cleveland Area,2,https://www.goodyear.com,https://www.linkedin.com/company/goodyear
 The Energy Producer Entertainment,,,jaime@theenergyproducer.com,True,,Business,Gray Area,Cleveland Area,2,,
 Talespinner Children's Theatre,,,talespinnerchildrenstheatre@gmail.com,True,,Business,Gray Area,Cleveland Area,2,,
 T. Potter Instructional Design,,,teresa@tpotterdesign.com,True,,Business,Gray Area,Cleveland Area,2,,
