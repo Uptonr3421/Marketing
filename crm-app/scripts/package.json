@@ -1,0 +1,13 @@
+{
+  "name": "crm-import-scripts",
+  "version": "1.0.0",
+  "description": "Database import scripts for Bespoke Ethos CRM - 350 Plexus contacts",
+  "scripts": {
+    "convert": "node convert-csv-to-json.js",
+    "import": "node import-contacts.js",
+    "validate": "node validate-import.js",
+    "import-all": "npm run convert && npm run import && npm run validate"
+  },
+  "author": "Agent 8 - Database Import Script Preparer",
+  "license": "MIT"
+}
