@@ -40,13 +40,35 @@ All infrastructure runs on Vercel - no external services required except the Cla
 - Vercel account
 - Anthropic API key (for Claude AI)
 
+## Repository Structure
+
+This repository uses a **subdirectory structure** for clean organization:
+
+```
+Marketing/
+├── crm-app/              # Complete Next.js CRM application
+│   ├── app/              # Next.js App Router
+│   ├── components/       # React components
+│   ├── lib/              # Utilities and database
+│   ├── prisma/           # Database schema
+│   ├── public/           # Static assets
+│   └── package.json      # App dependencies
+├── README.md             # This file
+├── API_DOCS.md           # API documentation
+├── DEPLOYMENT.md         # Deployment guide
+├── vercel.json           # Vercel configuration
+└── plexus_contacts - Sheet1.csv  # Contact data
+```
+
+**Important**: All CRM application code lives in `/crm-app`. Vercel is configured to build from this directory.
+
 ## Local Development Setup
 
 ### 1. Clone the Repository
 
 ```bash
 git clone <repository-url>
-cd Marketing
+cd Marketing/crm-app
 ```
 
 ### 2. Install Dependencies
@@ -59,7 +81,7 @@ pnpm install
 
 ### 3. Set Up Environment Variables
 
-Create a `.env.local` file in the root directory:
+Create a `.env.local` file in the `/crm-app` directory:
 
 ```bash
 # Database (Vercel Postgres)
@@ -147,15 +169,26 @@ Your `package.json` should include these scripts:
 
 2. **Import to Vercel**
    - Visit [vercel.com/new](https://vercel.com/new)
-   - Import your repository
+   - Import your **Marketing** repository
+   - Vercel will automatically detect `vercel.json` and build from `/crm-app`
    - Configure environment variables
    - Deploy
+
+**Note**: The repository includes a `vercel.json` file that automatically configures Vercel to:
+- Build from the `/crm-app` subdirectory
+- Install dependencies from `/crm-app/package.json`
+- Output to `/crm-app/.next`
+
+No manual root directory configuration needed!
 
 ### CLI Deploy
 
 ```bash
+# From repository root
 vercel --prod
 ```
+
+The Vercel CLI will automatically use the `vercel.json` configuration.
 
 See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed deployment instructions.
 
@@ -197,24 +230,37 @@ See [API_DOCS.md](./API_DOCS.md) for detailed API documentation.
 ## Project Structure
 
 ```
-/
-├── app/                    # Next.js App Router
-│   ├── api/               # API routes
-│   ├── contacts/          # Contact management pages
-│   ├── dashboard/         # Dashboard page
-│   └── layout.tsx         # Root layout
-├── components/            # React components
-│   ├── ui/               # Shadcn UI components
-│   └── contacts/         # Contact-specific components
-├── lib/                   # Utility functions
-│   ├── db/               # Database utilities
-│   ├── ai/               # Claude AI integration
-│   └── utils.ts          # Helper functions
-├── scripts/               # Database scripts
-│   ├── migrate.js        # Migration runner
-│   └── seed.js           # Data seeder
-├── public/                # Static assets
-└── types/                 # TypeScript types
+Marketing/
+├── crm-app/                      # CRM Application Root
+│   ├── app/                      # Next.js App Router
+│   │   ├── api/                  # API routes
+│   │   │   ├── contacts/         # Contact CRUD endpoints
+│   │   │   ├── activities/       # Activity tracking
+│   │   │   ├── deals/            # Deal management
+│   │   │   ├── dashboard/        # Dashboard stats
+│   │   │   └── ai-agents/        # Claude AI integration
+│   │   ├── contacts/             # Contact pages
+│   │   │   ├── page.js           # Contact list
+│   │   │   └── [id]/page.js      # Contact detail
+│   │   ├── dashboard/            # Dashboard page
+│   │   ├── page.js               # Home/Dashboard
+│   │   ├── layout.js             # Root layout
+│   │   └── globals.css           # Global styles
+│   ├── components/               # React components
+│   ├── lib/                      # Utility functions
+│   │   └── prisma.js             # Prisma client
+│   ├── prisma/                   # Database
+│   │   └── schema.prisma         # Database schema
+│   ├── public/                   # Static assets
+│   ├── package.json              # Dependencies
+│   ├── next.config.js            # Next.js config
+│   ├── tailwind.config.js        # Tailwind config
+│   └── .env.local.example        # Environment template
+├── README.md                     # Documentation
+├── API_DOCS.md                   # API reference
+├── DEPLOYMENT.md                 # Deployment guide
+├── vercel.json                   # Vercel config
+└── plexus_contacts - Sheet1.csv  # Contact data
 ```
 
 ## Features
