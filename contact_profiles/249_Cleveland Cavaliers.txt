@@ -1,0 +1,35 @@
+CONTACT PROFILE #249
+========================
+
+BASIC INFO:
+Company: Cleveland Cavaliers
+Contact: Matthew Lachman
+Email: msavage@cavs.com
+Phone: nan
+Role: Decision Maker
+LinkedIn: https://www.linkedin.com/company/cleveland-cavaliers
+Website: https://www.nba.com/cavaliers
+Industry: Sports & Entertainment
+Tier: A - Enterprise
+Lead Score: 8
+
+RESEARCH SUMMARY:
+Analyzing fan feedback quickly to optimize game-day experiences
+
+TOP PAIN POINT:
+Analyzing fan feedback quickly to optimize game-day experiences
+
+AI SOLUTIONS:
+1. Sentiment analysis dashboard that processes fan feedback 10x faster and identifies trends
+2. Predictive analytics for experience optimization that increases fan satisfaction scores by 30%
+
+OUTREACH MESSAGES:
+Email Subject: nan
+
+Email Body:
+Congrats on AI-powered fan feedback
+
+BEST SEND TIME:
+Tuesday at 1:00 PM
+
+STATUS: Ready to Send
