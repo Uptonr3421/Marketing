@@ -1,0 +1,121 @@
+// Bespoke Ethos CRM Platform - Prisma Schema
+// Database schema for managing contacts, activities, deals, campaigns, and agent logs
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("POSTGRES_PRISMA_URL")
+}
+
+// ============================================================================
+// CAMPAIGN MODEL
+// ============================================================================
+// Represents marketing campaigns that contacts can be associated with
+model Campaign {
+  id         String    @id @default(uuid())
+  name       String
+  tier       String    // e.g., "Tier 1", "Tier 2", "Tier 3"
+  status     String    // e.g., "active", "paused", "completed"
+  created_at DateTime  @default(now())
+
+  // Relations
+  contacts   Contact[] // One campaign can have many contacts
+
+  @@map("campaigns")
+}
+
+// ============================================================================
+// CONTACT MODEL
+// ============================================================================
+// Core model for storing lead/contact information with AI-enhanced data
+model Contact {
+  id            String   @id @default(uuid())
+  rank          Int      @unique // Unique ranking for prioritization
+  company       String
+  contact_name  String
+  email         String
+  phone         String?
+  role          String?
+  industry      String?
+  website       String?
+  linkedin_url  String?
+  lead_score    Int?     // Numerical score for lead quality
+  tier          String?  // e.g., "Tier 1", "Tier 2", "Tier 3"
+  deep_research String?  // Detailed research notes or AI-generated insights
+
+  // JSON fields for structured data
+  pain_points   Json?    // Array or object of identified pain points
+  ai_solutions  Json?    // Array or object of AI-recommended solutions
+
+  // Foreign keys
+  campaign_id   String?
+
+  // Timestamps
+  created_at    DateTime @default(now())
+  updated_at    DateTime @updatedAt
+
+  // Relations
+  campaign      Campaign?  @relation(fields: [campaign_id], references: [id], onDelete: SetNull)
+  activities    Activity[] // One contact can have many activities
+  deals         Deal[]     // One contact can have many deals
+
+  @@map("contacts")
+}
+
+// ============================================================================
+// ACTIVITY MODEL
+// ============================================================================
+// Tracks all activities (calls, emails, meetings, etc.) related to contacts
+model Activity {
+  id            String    @id @default(uuid())
+  contact_id    String
+  activity_type String    // e.g., "call", "email", "meeting", "task", "note"
+  status        String    // e.g., "pending", "completed", "cancelled"
+  notes         String?   // Detailed notes about the activity
+  timestamp     DateTime  @default(now()) // When the activity occurred or was logged
+  due_date      DateTime? // For scheduled activities
+
+  // Relations
+  contact       Contact   @relation(fields: [contact_id], references: [id], onDelete: Cascade)
+
+  @@map("activities")
+}
+
+// ============================================================================
+// DEAL MODEL
+// ============================================================================
+// Represents sales opportunities and their current status
+model Deal {
+  id          String   @id @default(uuid())
+  contact_id  String
+  deal_value  Decimal  @db.Decimal(12, 2) // Maximum 12 digits, 2 decimal places
+  deal_type   String   // e.g., "new_business", "upsell", "renewal"
+  status      String   // e.g., "prospecting", "qualified", "proposal", "negotiation", "closed_won", "closed_lost"
+  created_at  DateTime @default(now())
+
+  // Relations
+  contact     Contact  @relation(fields: [contact_id], references: [id], onDelete: Cascade)
+
+  @@map("deals")
+}
+
+// ============================================================================
+// AGENT LOG MODEL
+// ============================================================================
+// Logs all AI agent actions for debugging, auditing, and analytics
+model AgentLog {
+  id          String   @id @default(uuid())
+  agent_name  String   // Name/identifier of the AI agent
+  action      String   // Action performed (e.g., "research", "email_sent", "lead_scored")
+  status      String   // e.g., "success", "failed", "pending"
+  timestamp   DateTime @default(now())
+
+  // JSON fields for flexible data storage
+  input_data  Json?    // Input parameters or data passed to the agent
+  output_data Json?    // Results or output from the agent action
+
+  @@map("agent_logs")
+}
