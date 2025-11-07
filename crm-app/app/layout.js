@@ -55,6 +55,12 @@ export default function RootLayout({ children }) {
                     >
                       Analytics
                     </Link>
+                    <Link
+                      href="/sales-max"
+                      className="inline-flex items-center px-1 pt-1 text-sm font-medium bg-gradient-to-r from-yellow-400 to-orange-400 text-gray-900 rounded px-3 hover:from-yellow-300 hover:to-orange-300"
+                    >
+                      🚀 Sales Max
+                    </Link>
                   </div>
                 </div>
               </div>
