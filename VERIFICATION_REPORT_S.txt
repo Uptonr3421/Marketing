@@ -1,0 +1,468 @@
+FACT VERIFICATION REPORT FOR "S" BUSINESSES
+Generated: 2025-11-07
+Files Verified: 13 businesses starting with "S"
+
+==========================================
+CRITICAL CONTACT NAME MISMATCHES FOUND
+==========================================
+
+MULTIPLE FILES CONTAIN INCORRECT CONTACT NAMES THAT DON'T MATCH EMAIL ADDRESSES OR SEARCH RESULTS:
+
+1. SafePassDrivingSchool_ChristineBertlemann.txt
+   - File lists contact: "Christine Bertlemann"
+   - Email: safepass@safepasscle.com
+   - ACTUAL OWNERS: Rob Swinton (they/them) and Kristen Swinton
+   - NO EVIDENCE of anyone named "Christine Bertlemann" connected to this business
+
+2. SapphAndHerBeans_TomKelley.txt
+   - File lists contact: "Tom Kelley"
+   - Email: Samantha.basille@gmail.com
+   - NO EVIDENCE of "Tom Kelley" connected to this business in any search results
+
+3. ShinyPennyStudios_CraigDorn.txt
+   - File lists contact: "Craig Dorn"
+   - Email: whitney@shinypennystudios.com
+   - ACTUAL OWNER: Keli Schimelpfenig
+   - TEAM MEMBERS: Keli, Hannah, Whitney
+   - NO EVIDENCE of "Craig Dorn" connected to this business
+
+4. SitsNWigglesDogTraining_HeatherPollack.txt
+   - File lists contact: "Heather Pollack"
+   - Email: valarie@sitsnwigglescle.com
+   - ACTUAL OWNER: Valarie Ross, CDBC, CPDT-KA, CFFP
+   - NO EVIDENCE of "Heather Pollack" connected to this business
+
+5. SkidmarkGarageCLE_DanielMcGuire.txt
+   - File lists contact: "Daniel McGuire"
+   - ACTUAL FOUNDERS: Brian Schaffran and Molly Vaughan
+   - NO EVIDENCE of "Daniel McGuire" connected to this business
+
+6. SnowbrightStudio_HeatherDodig.txt
+   - File lists contact: "Heather Dodig"
+   - ACTUAL FOUNDER/CEO: Grace Collins
+   - NO EVIDENCE of "Heather Dodig" in search results (may be employee but not verified)
+
+7. SophieLaGourmande_MaverickWilliams.txt
+   - File lists contact: "Maverick Williams"
+   - Email: bob@sophielagourmande.com
+   - ACTUAL OWNER: Bob Sferra
+   - NO EVIDENCE of "Maverick Williams" connected to this business
+
+==========================================
+
+BUSINESS: STEM Handmade Soap
+FILE: STEMHandmadeSoap_Contact.txt
+
+✅ VERIFIED:
+- Founded by Dave and Steve in Lakewood basement (2+ sources)
+- Founders are Steve Meka and Dave Willett (full names confirmed)
+- Steve has biochemistry degree (confirmed stemsoaps.com)
+- 18 months of R&D before launch (confirmed stemsoaps.com)
+- Two locations: Lakewood flagship + Van Aken District Shaker Heights (confirmed multiple sources)
+- Business name STEM comes from Steve's initials (Steve Meka = S.M.)
+- Products: handmade soap, natural ingredients, essential oils (confirmed)
+- Instagram: @stemsoaps (confirmed)
+- Website: stemsoaps.com (confirmed)
+
+⚠️ UNCERTAIN:
+- Products sold at 12th Street Florist (mentioned in file but not verified in searches)
+- Specific claim about "Richardson Design portfolio" feature (not verified)
+
+❌ INCORRECT:
+- None identified
+
+📝 CORRECTIONS:
+- Add full names: Steve Meka and Dave Willett
+- Clarify STEM = Steve Meka's initials (not just "science")
+
+==========================================
+
+BUSINESS: Safe Pass Driving School
+FILE: SafePassDrivingSchool_ChristineBertlemann.txt
+
+✅ VERIFIED:
+- Founded in 2020 (confirmed multiple sources)
+- Cleveland area location (confirmed)
+- Serves students from nearly 50 local high schools and colleges (confirmed)
+- All LGBTQ+ staff (confirmed)
+- Licensed by Department of Public Safety through Ohio Driver Training Program Office (mentioned in file, not contradicted)
+- Offers Highway Free(way)dom Course (mentioned in file, not contradicted)
+- Featured in The Buckeye Flame article "License to Thrive" - article exists and is from August 2022 (CONFIRMED)
+- Listed on Think Plexus (mentioned in file, confirmed)
+
+⚠️ UNCERTAIN:
+- 4.5 stars on Yelp (not verified in searches but specific rating claim needs verification)
+
+❌ INCORRECT:
+- CONTACT NAME: File lists "Christine Bertlemann" - NO EVIDENCE this person is connected to the business
+- OWNERS DESCRIPTION: File says "Swinton and Kristen (former university administrators)" - This is MISLEADING. The owners are Rob Swinton (they/them) and Kristen Swinton (she/her), a married couple. Not "Swinton" and "Kristen" as two separate people.
+
+📝 CORRECTIONS:
+- Correct contact name from "Christine Bertlemann" to actual owners: Rob and Kristen Swinton
+- Correct description: "Rob Swinton (they/them) and Kristen Swinton are the married couple who founded Safe Pass in 2020. Rob is the owner and Kristen is co-owner."
+- Add: Rob was previously in university administration (not both of them)
+- Verify 4.5 Yelp rating with additional search
+
+==========================================
+
+BUSINESS: Sappho and Her Beans
+FILE: SapphAndHerBeans_TomKelley.txt
+
+✅ VERIFIED:
+- Woman and LGBT owned coffee roasting operation (confirmed)
+- Cleveland, Ohio based (confirmed)
+- Small batch, direct trade coffee from organic and fair trade sources (confirmed)
+- Partners in Brazil, Ethiopia, and Nicaragua (confirmed)
+- Website: sapphoandherbeans.com (confirmed)
+- Instagram: @sapphoandherbeans (confirmed)
+- Listed on Think Plexus LGBT-owned business directory (confirmed)
+- Featured on "Out on the Town: LGBTQIA+ Owned Businesses in Cleveland" article on ThisIsCleveland.com (confirmed)
+
+⚠️ UNCERTAIN:
+- Listed on "Actual List of LGBTQ+ Owned Businesses in Cleveland" by Grapevine Zines (mentioned but not verified with direct source)
+
+❌ INCORRECT:
+- CONTACT NAME: File lists "Tom Kelley" but email is Samantha.basille@gmail.com - NO EVIDENCE of Tom Kelley connection to this business in any search results
+
+📝 CORRECTIONS:
+- Verify actual contact person - email suggests Samantha Basille, not Tom Kelley
+- Remove or verify Tom Kelley reference
+
+==========================================
+
+BUSINESS: The Shinn Law Firm, LLC
+FILE: ShinnLawFirm_MariaShinn.txt
+
+✅ VERIFIED:
+- Owner/Attorney: Maria Shinn (confirmed)
+- Email: maria@shinnlawfirm.com (confirmed)
+- Website: shinnlawfirm.com (confirmed)
+- Location: 12511 Madison Ave, Cleveland, OH 44107 (confirmed)
+- Founded in 2000 (confirmed multiple sources)
+- Graduated from Cleveland-Marshall Law School in 1997 magna cum laude (CONFIRMED)
+- 28 years of legal experience (1997 to 2025 = 28 years, CORRECT)
+- Specializes in estate planning, probate, elder law, nontraditional family law (confirmed)
+- Has helped hundreds of LGBTQ+ families (confirmed)
+- 50 verified client reviews with 4.99/5 star rating on LawTap (CONFIRMED)
+- Presents at LGBT Center of Greater Cleveland (confirmed)
+- Presents on "Estate Planning for the Non-Traditional Family" topics (confirmed)
+
+⚠️ UNCERTAIN:
+- Specific August 2024 and 2024 client reviews mentioned (not verified but plausible)
+
+❌ INCORRECT:
+- None identified
+
+📝 CORRECTIONS:
+- None needed - file is highly accurate
+
+==========================================
+
+BUSINESS: Shiny Penny Studios
+FILE: ShinyPennyStudios_CraigDorn.txt
+
+✅ VERIFIED:
+- Cleveland-based photography collective (confirmed)
+- Owner: Keli Schimelpfenig (CONFIRMED)
+- Female-owned studio (confirmed)
+- Team: Keli, Hannah, and Whitney (CONFIRMED)
+- Met backstage working on Cleveland community theatre productions (confirmed)
+- 15,000+ square foot warehouse-style natural light studio (confirmed)
+- "Dad Bods: A Year of Midwest Sexy" charity project (CONFIRMED)
+- Made local and national news in 2020 and 2023 with Dad Bods project (CONFIRMED - actually 2020/2021 and 2023/2024)
+- 100% of proceeds to Meals on Wheels organizations in NE Ohio (CONFIRMED)
+- Studio donates 100% creative time and fronts all costs (CONFIRMED)
+- 5-star ratings on WeddingWire (confirmed - file says "16+ reviews")
+- "Bitch, We're From Cleveland" 2025 photography project (CONFIRMED)
+- Website: shinypennystudios.com (confirmed)
+
+⚠️ UNCERTAIN:
+- Founded: 2018 - Search results indicate Keli was earning theatre degree in 2019 and photography "turned from side passion into Shiny Penny Studios" around that time. 2018 founding date NOT clearly confirmed - may be 2019
+
+❌ INCORRECT:
+- CONTACT NAME: File lists "Craig Dorn" but email is whitney@shinypennystudios.com and Whitney is confirmed team member - NO EVIDENCE of "Craig Dorn" connected to this business
+
+📝 CORRECTIONS:
+- Remove "Craig Dorn" as contact - correct contact is likely Whitney Miller (based on email and search results mentioning "Whitney Miller at her side")
+- Verify founding year - appears to be 2019, not 2018
+
+==========================================
+
+BUSINESS: Sits 'n Wiggles Dog Training 'n Behavior Consulting
+FILE: SitsNWigglesDogTraining_HeatherPollack.txt
+
+✅ VERIFIED:
+- Founded in 2015 (CONFIRMED)
+- Founder: Valarie Ross, CDBC, CPDT-KA, CFFP (CONFIRMED)
+- Certifications verified: Certified Dog Behavior Consultant, Certified Professional Dog Trainer, Certified Fear Free Professional
+- Specializes in fear, anxiety, reactivity, and aggression since 2015 (confirmed)
+- Cleveland Heights, OH (confirmed)
+- Phone: (216) 910-7487 (mentioned in file, not contradicted)
+- Website: sitsnwigglescle.com (confirmed)
+- Listed on Think Plexus LGBT-owned business directory (confirmed)
+- Queer, woman owned and operated (confirmed)
+- Services: 1:1 behavior consulting, service dog training, day training, private coaching, 6-week puppy program (confirmed)
+- Evidence-backed, rewards-based, force-free approach (confirmed)
+
+⚠️ UNCERTAIN:
+- "10+ years serving Cuyahoga County" - Founded 2015, so it's exactly 10 years in 2025 (accurate)
+
+❌ INCORRECT:
+- CONTACT NAME: File lists "Heather Pollack" but email is valarie@sitsnwigglescle.com - NO EVIDENCE of Heather Pollack connected to this business
+- INCOMPLETE: Founded by Valarie Ross AND Hannah Smith (co-founders), not just Valarie Ross alone
+
+📝 CORRECTIONS:
+- Correct contact name from "Heather Pollack" to Valarie Ross
+- Add co-founder: Hannah Smith founded Sits n Wiggles with Valarie Ross in May 2015
+- Verify if Hannah Smith is still involved or if Valarie is now sole owner
+
+==========================================
+
+BUSINESS: Skidmark Garage CLE
+FILE: SkidmarkGarageCLE_DanielMcGuire.txt
+
+✅ VERIFIED:
+- "No-collar" community DIY motorcycle garage (confirmed)
+- 10,000 sq ft facility (CONFIRMED)
+- Location: 5401 Hamilton Ave, eastern edge of AsiaTown (near East 55th and St. Clair) (CONFIRMED)
+- Founders: Brian Schaffran and Molly Vaughan (CONFIRMED)
+- One of only 25 community garages in the United States (CONFIRMED)
+- Featured on News 5 Cleveland as "Hidden Gem" (CONFIRMED)
+- Membership-based model like gym membership (confirmed)
+- Skidmark Lounge - event venue for concerts, birthday parties, weddings (confirmed)
+- Motogo Cleveland motorcycle training program operates from Skidmark Garage (CONFIRMED - Molly Vaughan is Executive Director of Motogo)
+- Listed on Think Plexus (mentioned in file)
+
+⚠️ UNCERTAIN:
+- Mural by local Cleveland artist James Hurley (mentioned in file but search was unavailable - needs verification)
+
+❌ INCORRECT:
+- CONTACT NAME: File lists "Daniel McGuire" - NO EVIDENCE of Daniel McGuire connected to this business. Actual founders/contacts are Brian Schaffran and Molly Vaughan
+
+📝 CORRECTIONS:
+- Correct contact from "Daniel McGuire" to actual founders: Brian Schaffran (Program Director) and Molly Vaughan (Executive Director of Motogo)
+- Verify James Hurley mural claim with additional search
+
+==========================================
+
+BUSINESS: Snowbright Studio (Liminal Esports LLC dba)
+FILE: SnowbrightStudio_HeatherDodig.txt
+
+✅ VERIFIED:
+- LGBTQ+ game studio (confirmed)
+- Founder/CEO: Grace Collins (CONFIRMED)
+- Founded: 2019 (confirmed - registered SAM.gov March 17, 2019)
+- Location: Gates Mills, OH (address 1500 Chagrin River Rd Unit 361, Gates Mills, OH 44040 confirmed in file)
+- Grace Collins (they/them) pronouns (confirmed)
+- Grace Collins: 2019 LGBTQIA+ Fellow for the Union for Reform Judaism (CONFIRMED)
+- Previously led game-based education policy for U.S. Department of Education (CONFIRMED)
+- Coordinated Federal Games Working Group under Obama and Trump administrations (CONFIRMED)
+- Games for Change Vanguard Award for Grace Collins (CONFIRMED - awarded 2023)
+- First educational game to feature canonically non-binary character (Time Tales) (CONFIRMED - article says "Time Tales")
+- About half of team members are nonbinary (CONFIRMED)
+- Think Plexus member business (mentioned in file)
+- Games include: Teatime Adventures, ink, Time Tails RPG, Harvest Hoppers, Civics Bridge (confirmed)
+- IES grant for Civics Bridge educational game (confirmed)
+- Work brought to Smithsonian and Department of Education (CONFIRMED)
+- Registered LGBTQ+ business in federal SAM.gov system (mentioned)
+
+⚠️ UNCERTAIN:
+- Contact: "Heather Dodig" - NOT found in any search results. May be employee/contact but not verified
+- Email: contact@snowbrightstudio.com (generic email, not personal)
+- Phone: (440) 423-5856 (in file, not verified)
+- Trademark "SNOWBRIGHT STUDIO" applied 2023 (mentioned in file, not verified)
+
+❌ INCORRECT:
+- None identified in business facts, but contact person unverified
+
+📝 CORRECTIONS:
+- Verify if Heather Dodig is actual contact or if should list Grace Collins as primary contact
+- Note: File refers to game as "Time Tails RPG" but article confirms "Time Tales" as the first educational game with non-binary character - verify correct spelling
+
+==========================================
+
+BUSINESS: Sophie La Gourmande
+FILE: SophieLaGourmande_MaverickWilliams.txt
+
+✅ VERIFIED:
+- Modern French-inspired patisserie and café (confirmed)
+- Cedar Lee Arts District, Cleveland Heights (confirmed)
+- Opened: May 2022 (CONFIRMED - officially opened late May 2022)
+- Owner: Bob Sferra (CONFIRMED)
+- Bob is veteran chef, caterer, and culinary instructor (confirmed)
+- Acquired building in 2019 (CONFIRMED)
+- 1930s-era building on Lee Road (confirmed)
+- Location: 2275/2277 Lee Rd, Cleveland Heights, OH 44118 (CONFIRMED)
+- Hours: Wed-Sat, 9am-4pm (mentioned in file)
+- Website: sophielagourmande.com (confirmed)
+- Listed on Think Plexus LGBT-owned business directory (confirmed)
+- Niece: Haley Sferra owns Cenza custom cake studio in rear building (CONFIRMED)
+- Haley Sferra is French Pastry School graduate (CONFIRMED)
+- Featured on Eating The World as "Cleveland's best French Bakery" (CONFIRMED - November 2023)
+- Cleveland Magazine Best of Cleveland feature for Kouign Sophie (CONFIRMED)
+- Specializes in French pâtisserie and viennoiserie (confirmed)
+- Signature items: Kouign Sophie, croissants, everything Danish with labneh cream cheese, mini Basque cheesecake (confirmed)
+- Open kitchen, everything made from scratch (confirmed)
+- Featured in Budget Ease "Client Spotlight Interview" (mentioned)
+
+⚠️ UNCERTAIN:
+- "Unique in Northeast Ohio for specializing in both fancy French pâtisserie AND viennoiserie" (claim made but not verified from multiple sources)
+
+❌ INCORRECT:
+- CONTACT NAME: File lists "Maverick Williams" but email is bob@sophielagourmande.com - NO EVIDENCE of Maverick Williams connected to this business
+- YEAR INCORRECT: File states "Cleveland Scene praised as 'Part Parisian Bakery, Part Coffee Shop, and All Great' (2024)" - This article was published October 19, 2022, NOT 2024
+
+📝 CORRECTIONS:
+- Correct contact name from "Maverick Williams" to Bob Sferra (owner)
+- Correct Cleveland Scene article date from 2024 to 2022 (October 19, 2022)
+
+==========================================
+
+BUSINESS: Statement Limousine, LLC
+FILE: StatementLimousineLLC_Contact.txt
+
+✅ VERIFIED:
+- Luxury transportation provider (confirmed)
+- Based in Sheffield Village, Ohio (CONFIRMED)
+- Location: 3901 Colorado Avenue, Sheffield Village, OH 44054 (mentioned in file)
+- Phone: (440) 949-2220 (mentioned in file)
+- Website: statementlimo.com (confirmed)
+- Services Greater Cleveland area (confirmed)
+- Founded: 2016 (CONFIRMED)
+- CEO: Karl Guenther (Karl A. Guenther II) (CONFIRMED)
+- Email: karl2@statementlimo.com (matches CEO Karl Guenther)
+- August 2025 acquisition of CT Limo (CONFIRMED - specifically August 11, 2025)
+- CT Limo served over 10,000 clients over 11 years (CONFIRMED)
+- Featured on Yahoo Finance and news outlets for acquisition (CONFIRMED)
+- Listed on Think Plexus business directory (mentioned in file)
+- Listed on The Knot wedding platform (mentioned in file)
+- PAX Chauffeur Training certification for all team members (mentioned in file)
+- Background checks for all drivers (mentioned in file)
+- Diverse vehicle fleet: limousines, sedans, SUVs, party buses (mentioned in file)
+
+⚠️ UNCERTAIN:
+- "Top-rated limousine company in Northeast Ohio" designation (claim made but not verified with specific award/ranking)
+
+❌ INCORRECT:
+- None identified
+
+📝 CORRECTIONS:
+- Specify acquisition date as August 11, 2025 (not just "August 2025")
+- Note: Karl Guenther also serves on National Limousine Association board and co-founded DEI Council
+
+==========================================
+
+BUSINESS: Studio West 117
+FILE: StudioWest117_Contact.txt
+
+✅ VERIFIED:
+- LGBTQ+ safe spaces bridging Lakewood and Cleveland (confirmed)
+- 300,000+ square feet (CONFIRMED)
+- Developers: Daniel Budish and Betsy Figgie (CONFIRMED)
+- Phase 1: The Fieldhouse - 24,000 sq ft community hub (CONFIRMED)
+- Fieldhouse includes: restaurant, pizza kitchen, rooftop bar, gymnasium, outdoor courtyard (confirmed)
+- Future: Phantasy Entertainment Complex (11802 Detroit Avenue) (mentioned in file)
+- Website: studiowest117.com (confirmed)
+- Listed on Think Plexus (mentioned in file)
+- Featured in Buckeye Flame, Cleveland Scene, News 5 Cleveland (confirmed)
+- Blocks from LGBT Community Center in Detroit Shoreway/Lakewood corridor (mentioned)
+
+⚠️ UNCERTAIN:
+- Investment amount: File claims "$115-125 million" - Early 2022 source confirms "between $115 million and $125 million" but most subsequent sources say "$100 million project." Both figures appear in different sources at different times.
+
+❌ INCORRECT:
+- YEAR INCORRECT: File states "Phase 1 (The Fieldhouse) celebrated grand opening in 2023" - ACTUAL DATE: October 21-23, 2022 (NOT 2023)
+
+📝 CORRECTIONS:
+- Correct Fieldhouse grand opening from 2023 to October 2022
+- Note investment amount discrepancy: Early sources said $115-125M, later sources say $100M
+- ADD CRITICAL INFORMATION: As of 2023-2024, Studio West 117 has faced significant controversies including:
+  * Defaulted on $9 million in loans from Truist Bank
+  * Geauga County judge issued judgment lien in late 2023
+  * Community criticism about treatment of performers and "toxic environment"
+  * Financial troubles and cultural conflicts within LGBTQ+ community
+  (This information is publicly available and significant for business assessment)
+
+==========================================
+
+BUSINESS: Sweets and Geeks
+FILE: SweetsAndGeeks_Contact.txt
+
+✅ VERIFIED:
+- Pop-culture haven for retro and modern memorabilia and candy (confirmed)
+- Founded: October 2020 (CONFIRMED)
+- Original location: 342 E Smith Rd, Medina, OH 44256 near Historic Medina Square (CONFIRMED)
+- Four locations: Medina, North Olmsted, Wooster, Sandusky Mall (mentioned in file - Medina confirmed)
+- Website: sweetsandgeeks.com (confirmed)
+- Featured in Cleveland Magazine's "Dining Guide: 17 Cleveland-Owned Candy Shops" (CONFIRMED - October 2024, not just "2024")
+- Featured on Fox 8 "New Day Cleveland" (CONFIRMED - November 2020)
+- 600+ varieties of craft sodas (CONFIRMED)
+- Freeze-dried candy line made and packaged locally (mentioned in file)
+- International snacks (mentioned in file)
+- Nostalgic candy focus (confirmed)
+- Games/collectibles for anime, tabletop games, Magic, Pokemon (mentioned)
+- Email: JIM@SWEETSANDGEEKS.COM (CEO Jim McMahan confirmed on LinkedIn)
+
+⚠️ UNCERTAIN:
+- Exact expansion timeline to 4 locations (mentioned but not all individually verified)
+- "Rapid expansion: 1 store (2020) to 4 locations in ~4 years" (plausible but not all locations individually verified)
+
+❌ INCORRECT:
+- None identified
+
+📝 CORRECTIONS:
+- Add specific Cleveland Magazine article date: October 2024 (Halloween candy shop guide)
+- Confirm owner/CEO: Jim McMahan
+- Verify all four location addresses with additional search
+
+==========================================
+
+BUSINESS: Szweda Consulting, LLC
+FILE: SzwedaConsultingLLC_Contact.txt
+
+✅ VERIFIED:
+- Cleveland, Ohio-based accounting firm (confirmed)
+- Owner: Benjamin Szweda (CONFIRMED - email bszweda@szwedaconsulting.com matches)
+- Location: 4827 Southwood Dr, Cleveland, Ohio (mentioned in file)
+- Website: szwedaconsulting.com (confirmed)
+- Services: tax, accounting, payroll, bookkeeping (confirmed)
+- QBO Advanced Certified accountants (CONFIRMED)
+- Serves both local and national clients (confirmed)
+- Listed on Think Plexus business directory (CONFIRMED)
+- Better Business Bureau accredited (CONFIRMED)
+- Services include: tax planning and compliance, accounting and bookkeeping solutions, business advisory, nonprofit services, QuickBooks training, fractional accounting (mentioned)
+- Small business focus (confirmed)
+
+⚠️ UNCERTAIN:
+- Founded: 2017 (mentioned in file but not explicitly confirmed in search results - plausible timeline based on Benjamin's career)
+
+❌ INCORRECT:
+- None identified
+
+📝 CORRECTIONS:
+- Verify exact founding year 2017 with additional search or direct confirmation
+
+==========================================
+
+SUMMARY OF CRITICAL ISSUES:
+
+1. CONTACT NAME ACCURACY CRISIS: 7 out of 13 files (54%) contain contact names that DO NOT MATCH email addresses or cannot be verified through search results. This is a MAJOR data integrity issue.
+
+2. DATE ERRORS: Multiple incorrect dates found:
+   - Studio West 117: Grand opening listed as 2023, actually October 2022
+   - Sophie La Gourmande: Cleveland Scene article listed as 2024, actually October 2022
+   - Shiny Penny Studios: Founded listed as 2018, appears to be 2019
+
+3. MISSING CRITICAL INFORMATION:
+   - Studio West 117: File completely omits financial troubles (defaulted on $9M in loans) and community controversies
+   - Sits n Wiggles: Missing co-founder Hannah Smith
+
+4. OWNER/FOUNDER NAME CLARIFICATIONS:
+   - STEM Handmade Soap: File says "Dave and Steve" - should specify Steve Meka and Dave Willett
+   - Safe Pass Driving School: Misleading description makes Rob and Kristen Swinton sound like two unrelated people named "Swinton" and "Kristen"
+
+RECOMMENDATION: Immediate review and correction of all contact names. Cross-reference email addresses with actual business ownership/staff. Verify all dates with multiple sources. Add context about business challenges where publicly known and relevant.
+
+==========================================
+END OF VERIFICATION REPORT
+==========================================

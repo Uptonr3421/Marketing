@@ -1,0 +1,401 @@
+═══════════════════════════════════════════════════════════════════════════════
+VERIFICATION REPORT: D-E BUSINESSES
+Date: 2025-11-07
+Verifier: Systematic multi-source web verification conducted
+Total Businesses Verified: 15
+═══════════════════════════════════════════════════════════════════════════════
+
+BUSINESS: Dale Dong Photography
+Contact: Dale Dong | Email: daledongphoto@gmail.com
+✅ VERIFIED (2+ sources):
+  - Website exists: daledongphoto.com
+  - Email: daledongphoto@gmail.com
+  - Specialization in performing arts (dance, theatre, music)
+  - Cleveland/Akron area coverage
+  - Wedding photography services
+  - Plexus LGBTQ+ Chamber member (confirmed via business.thinkplexus.org)
+  - Professional photography work featured in Akron area events
+
+⚠️ UNCERTAIN (1 source only):
+  - "Over 20 years of experience" - mentioned but not independently verified with dates
+
+❌ PHONE NUMBER DISCREPANCY:
+  - File states: 330-606-3297
+  - One web source shows: 330-606-3279
+  - Majority of sources confirm: 330-606-3297
+
+📝 CORRECTIONS: Phone number appears correct as stated (330-606-3297)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+BUSINESS: Declutter with Devon LLC
+Contact: Devon Fegen-Herdman | Email: devon.fegen@gmail.com
+✅ VERIFIED (2+ sources):
+  - Founded in 2022
+  - Devon Fegen-Herdman is founder and owner
+  - 17+ years as licensed social worker
+  - Featured in Shoutout Ohio magazine
+  - Based in Avon, OH serving Cleveland area
+  - Website: declutterwithdevon.com
+  - Social work background brought to organizing business
+  - Plexus LGBTQ+ Chamber member (confirmed via business.thinkplexus.org)
+  - Cofounder and board president of Upcycle Parts Shop
+
+⚠️ UNCERTAIN (could not verify with multiple sources):
+  - Case Western Reserve University Master's Degree in Social Work (2005) - NOT confirmed
+  - Worked at Hospice of the Western Reserve - Only found on declutterwithdevon.com, not independently verified
+  - Advanced certified hospice and palliative care social worker (2010-2016) - Only found on her own website
+
+📝 CORRECTIONS: Educational background (CWRU MSW 2005) and Hospice employment need independent verification. Only source is business's own website.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+BUSINESS: Denise Astorino - Realtor - Howard Hanna
+Contact: Denise Astorino | Email: deniseastorino@howardhanna.com
+✅ VERIFIED (2+ sources):
+  - Community Engagement and Volunteer Coordinator at The LGBT Community Center of Greater Cleveland
+  - Involved in organizing Cleveland's Heritage Day Awards
+  - Heritage Day Awards occur second Saturday of October (LGBTQ+ History Month)
+  - 2021 involvement confirmed via Buckeye Flame article
+  - Email: dastorino@lgbtcleveland.org (Center email)
+  - Phone: (216)243-7488 (Center phone)
+
+⚠️ UNCERTAIN (1 source only):
+  - Howard Hanna realtor affiliation - Could NOT verify through Howard Hanna website or independent sources
+
+❌ INCORRECT:
+  - File states title as "community engagement coordinator"
+  - Correct title: "Community Engagement and Volunteer Coordinator"
+
+📝 CORRECTIONS:
+  1. Update title to full "Community Engagement and Volunteer Coordinator"
+  2. Howard Hanna realtor claim CANNOT be verified - may be outdated or incorrect
+  3. Email deniseastorino@howardhanna.com cannot be verified
+
+═══════════════════════════════════════════════════════════════════════════════
+
+BUSINESS: Dezfox, LLC
+❌ CRITICAL CONTACT DISCREPANCY:
+  - File lists Contact: "Toya Jordan"
+  - File lists Email: "james@dezfox.com"
+  - These do NOT match - contact name and email are inconsistent
+
+⚠️ UNCERTAIN (no verification possible):
+  - No website found
+  - No social media presence found
+  - No online business listings found
+  - Cannot verify business type, industry, or services
+  - Cannot verify if Toya Jordan or James is correct contact
+
+📝 CORRECTIONS: CRITICAL ERROR - Resolve contact name vs email discrepancy. Business has no verifiable online presence.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+BUSINESS: Dixon Officiant Services
+❌ CRITICAL CONTACT DISCREPANCY:
+  - File lists Contact: "Amanda Helinski"
+  - File lists Email: "dixonmichelle2011@yahoo.com"
+  - These do NOT match - name is Amanda but email contains "Michelle"
+
+⚠️ UNCERTAIN (no verification possible):
+  - No website found
+  - No social media presence found
+  - No online reviews or business listings found
+  - Cannot verify services or business details
+
+📝 CORRECTIONS: CRITICAL ERROR - Resolve whether contact is Amanda Helinski or Michelle Dixon. Consider the email "dixonmichelle2011" suggests Michelle Dixon may be the actual business owner/contact.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+BUSINESS: DJM Digital Consulting
+Contact: David J. Matheny (they/he/she) | Email: david@djmdigital.net
+✅ VERIFIED (2+ sources):
+  - David J. Matheny uses they/he/she pronouns
+  - 8+ years of PR and digital marketing experience
+  - Website: djmdigital.net confirmed
+  - Works with LGBTQ+ organizations
+  - Based in Northeast Ohio
+  - Services: PR, digital marketing, social media
+  - Affiliated with 989 Creative Group
+  - Works with nonprofits, political campaigns, advocacy groups
+
+⚠️ UNCERTAIN (1 source only):
+  - Cleveland International Film Festival client with "20% ticket sales increase" - mentioned on website but not independently verified
+  - Stonewall Columbus and Trevor Project as specific clients - only mentioned on business website
+  - These claims only appear on djmdigital.net, no external verification found
+
+📝 CORRECTIONS: CIFF 20% increase and specific client names (Stonewall Columbus, Trevor Project) need independent verification. Only source is business's own marketing materials.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+BUSINESS: DJ Nick Duvé
+Contact: Nick Duvé | Email: nick@djnickduve.com
+✅ VERIFIED (2+ sources):
+  - 22+ years of professional DJ/hosting experience
+  - Website: djnickduve.com
+  - Based in Cleveland/Akron, Ohio
+  - Former DJ and Host at Walt Disney World in Orlando, Florida
+  - "Contracted DJ - Walt Disney World" confirmed
+  - Founded Elite Entertainment of Florida in 2012 (confirmed)
+  - Moved to Orlando in 2012 (confirmed)
+  - Moved back to Northeast Ohio in 2014
+  - Worked with Orlando Magic, major Orlando venues
+  - Disney Fairytale Weddings experience confirmed
+  - MLB events including MLB All-Star Game 2019
+  - Plexus LGBTQ+ Chamber member (confirmed)
+  - Phone: (407) 362-8936
+
+⚠️ UNCERTAIN (wording discrepancy):
+  - File states: "Master Entertainer Contract with The Walt Disney Company"
+  - Sources confirm: "Contracted DJ - Walt Disney World"
+  - "Master Entertainer Contract" specific terminology not verified
+
+📝 CORRECTIONS: Consider revising "Master Entertainer Contract" to more verifiable "Contracted DJ - Walt Disney World" unless specific Disney contract terminology can be verified.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+BUSINESS: DMS - Diversity Management Solutions
+Contact: Donna | Email: donna@diversitymanagementsolutions.com
+⚠️ UNCERTAIN (no verification possible):
+  - No website found
+  - No LinkedIn company page found
+  - No media coverage found
+  - No online presence located
+  - Cannot verify services, experience, or business details
+  - Assumed to be DEI consulting based on name only
+
+📝 CORRECTIONS: Entire business profile needs verification. No independent sources found. All claims are speculative based on business name.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+BUSINESS: Dorian Gray Galleries / Dorian Gray Youth Foundation
+Contact: DGrayGalleries@gmail.com
+✅ VERIFIED (2+ sources):
+  - 501(c)(3) nonprofit status confirmed
+  - Address: 2379 Professor Avenue, Cleveland, OH 44113
+  - Online art gallery model selling donated artwork
+  - 100% of donations go directly to LGBTQ+ youth
+  - Works with Dorian Gray Youth Foundation
+  - 2022 annual project confirmed
+  - Focus: homeless/housing insecure LGBTQ+ youth in Northeast Ohio
+  - Ages served: 12-24
+  - Plexus LGBTQ+ Chamber member
+  - Website: doriangraycle.org confirmed
+  - Co-founders: Dan Tyson and Matt Huffman
+
+⚠️ ACTIVITY STATUS CONCERN:
+  - Search results indicate organization was "mainly active from 2021 to 2023"
+  - May no longer be actively operating
+  - File does not indicate if organization is currently active
+
+📝 CORRECTIONS: VERIFY CURRENT OPERATIONAL STATUS. Evidence suggests organization may have concluded operations or significantly reduced activity after 2023.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+BUSINESS: Emma Parker Photography
+Contact: Lorna Wisham | Email: eparker.photo1@gmail.com
+✅ VERIFIED (2+ sources):
+  - Based in Columbus, OH (NOT Cleveland) - correctly stated in file
+  - Started photography business in 2012 after backpacking through Europe
+  - Trans Visibility Project launched in 2021
+  - Stonewall Columbus Leader of Pride 2022 (June 5, 2022)
+  - Wild Goose Creative exhibition September 17-18, 2021 - SOLD OUT (two days)
+  - Columbus Metropolitan Library Carnegie Gallery April-June 2022
+  - Stonewall Columbus exhibition June 3-July 12, 2022
+  - Courtright Memorial Library at Otterbein exhibition confirmed
+  - WBE, EDGE, LGBTBE, DRONE certified (confirmed via LinkedIn)
+  - Woman-owned LGBTQIA+ photographer
+  - Columbus CEO Future 50 Class of 2020
+  - Dale E. Heydlauff Community Arts Innovation Award (November 2022)
+  - Master's in Education from The Ohio State University
+
+⚠️ UNCERTAIN:
+  - File states "close to 40 people" photographed for Trans Visibility Project with goal of 100
+  - Search results show "over 26 individuals" and "27 portraits" - numbers don't match
+
+❌ RATING DISCREPANCY:
+  - File states: "5-star rating with 96 reviews"
+  - Sources show: "4.9 star rating" (not 5-star)
+  - Review count not verified
+
+📝 CORRECTIONS:
+  1. Change "5-star rating" to "4.9-star rating"
+  2. Verify exact number of Trans Visibility Project participants (27 vs 40)
+  3. Update review count or remove specific number
+
+═══════════════════════════════════════════════════════════════════════════════
+
+BUSINESS: Energetic Awakenings
+Contact: Becky Cross | Email: david@energeticawakenings.com
+❌ CRITICAL CONTACT DISCREPANCY:
+  - File lists Contact: "Becky Cross"
+  - File lists Email: "david@energeticawakenings.com"
+  - Email clearly belongs to David deBardelaben-Phillips, NOT Becky Cross
+
+✅ VERIFIED (2+ sources):
+  - Founder/Owner: David deBardelaben-Phillips
+  - Cleveland State University Master of Education (Adult Learning & Development)
+  - Advanced Certified Core Energetics Practitioner
+  - Senior faculty member at Institute of Core Energetics (NYC)
+  - Located in North Ridgeville, OH
+  - Reiki Master
+  - Certified Imago Relationship Facilitator
+  - Certified Exceptional Relationship Mentor
+  - Founder of Gay Counseling
+  - LGBTQ cultural competency facilitation/workshops
+  - Organizational development consulting
+  - Crain's Notable LGBTQ Executives recognition
+
+⚠️ UNCERTAIN:
+  - "LGBT-certified business" mentioned in file but not directly verified
+  - Strongly implied by LGBTQ+ focus but specific certification not confirmed
+
+📝 CORRECTIONS: CRITICAL ERROR - Contact name is wrong. Contact should be "David deBardelaben-Phillips" NOT "Becky Cross". Unclear who Becky Cross is or why listed.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+BUSINESS: Engage! Cleveland
+Contact: Tom Diller | Email: Michael@engagecleveland.org
+❌ CONTACT DISCREPANCY:
+  - File lists Contact: "Tom Diller"
+  - File lists Email: "Michael@engagecleveland.org"
+  - Email suggests Michael is primary contact, not Tom Diller
+
+✅ VERIFIED (2+ sources):
+  - 12th Annual Young Professionals Week June 7-14, 2025 (confirmed)
+  - Michael joined team in March 2025 (confirmed)
+  - Michael's title: Associate Director
+  - Michael's background: student services and higher education
+  - Michael's education: BA from Baldwin Wallace University, MEd from Kent State University
+  - Nonprofit organization attracting/retaining diverse talent to Greater Cleveland
+  - "Fall in love with Cleveland" tagline
+  - Generation NEXT Awards program confirmed
+  - Next Generation of Women program confirmed
+  - Over 1,000 attendees annually at YP Week
+  - 25+ events during YP Week
+  - Sponsors include Sherwin-Williams, Greater Cleveland Partnership, Carnegie Companies
+
+⚠️ UNCERTAIN:
+  - "115+ employer members/partners" - mentioned in file but not independently verified in search results
+  - Tom Diller's specific role not confirmed
+
+📝 CORRECTIONS:
+  1. Clarify contact discrepancy - is Tom Diller or Michael primary contact?
+  2. Verify "115+ employer partners" claim with independent source
+
+═══════════════════════════════════════════════════════════════════════════════
+
+BUSINESS: Equality Ohio
+Multiple Contacts | Primary Email: info@equalityohio.org
+✅ VERIFIED (2+ sources):
+  - Founded in 2005 (confirmed) = 20 years in 2025
+  - 20th Anniversary in 2025 confirmed
+  - 20th Anniversary Gala held (confirmed)
+  - Staff layoffs announced October 31, 2025 (confirmed)
+  - Legal clinic served 1,000+ LGBTQ+ families (confirmed)
+  - 200% increase in legal clinic client intakes since presidential election (confirmed)
+  - Statewide LGBTQ+ advocacy organization
+  - Positions eliminated: director of advocacy, communications manager, regional organizers (3), at least one attorney
+  - "Bold new vision" announced despite restructuring
+  - Layoffs came less than a week after 20th Anniversary Gala
+
+⚠️ GALA DATE DISCREPANCY:
+  - File states: "20th Anniversary Gala (October 17, 2025)"
+  - Could not independently verify October 17 as specific date
+  - Confirmed gala occurred before October 31, 2025 layoffs
+
+✅ LEGISLATION VERIFIED:
+  - HB 96: Anti-LGBTQ+ state budget proposal (confirmed - passed, effective June/Sept 2025)
+  - SB 104: Bathroom ban (confirmed - signed Nov 27, 2024, effective Feb 25, 2025)
+  - HB 8: Forced outing law (confirmed - passed Dec 18, 2024, signed Jan 2025)
+  - U.S. v. Skrmetti Supreme Court ruling (confirmed as relevant to Ohio advocacy)
+
+📝 CORRECTIONS: October 17, 2025 gala date needs independent verification. All other major facts confirmed.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+BUSINESS: Equitas Health
+Multiple Contacts | Primary Email: info@equitashealth.com
+✅ VERIFIED (2+ sources):
+  - Regional non-profit health system
+  - 22 locations in 13 cities in Midwest (Ohio, Kentucky, West Virginia, Texas)
+  - One of the largest LGBTQ+ and HIV/AIDS serving healthcare organizations in US
+  - Founded in 1984
+  - After-hours line: (833) 378-4827 - VERIFIED
+  - Website: equitashealth.com - VERIFIED
+  - Services: primary care, gender-affirming care, HIV care, PrEP/PEP, mental health, dental, pharmacy
+  - No-barrier approach to gender-affirming care (no psychiatric approval required)
+  - PrEP access programs for most Ohioans
+  - Survivor support for LGBTQ+ people targeted by violence
+  - Federally-designated Community Health Center
+  - Comprehensive, integrated care model
+  - Provider Guide publication for LGBTQ+-affirming providers
+
+📝 CORRECTIONS: None. All major claims verified.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+BUSINESS: Everybody Cycle
+Contact: Emily Lundgard | Email: nathan@everybodycycle.com
+❌ CONTACT DISCREPANCY:
+  - File lists Contact: "Emily Lundgard"
+  - File lists Email: "nathan@everybodycycle.com"
+  - These do NOT match - contact name is Emily but email is Nathan
+
+✅ VERIFIED (2+ sources):
+  - Location: 11606 Detroit Avenue, Cleveland, OH 44102 (confirmed)
+  - Edgewater Neighborhood (confirmed)
+  - Locally owned and queer managed (confirmed)
+  - Indoor cycling studio (confirmed)
+  - Phone: (216) 352-5490 (confirmed)
+  - Website: everybodycycle.com (confirmed)
+  - Stonewall Sports Cleveland charity partner December 2024 (confirmed)
+  - Mirror-free studio (confirmed)
+  - Health At Every Size training for staff (confirmed)
+  - Gender-inclusive facilities (restrooms, lockers) (confirmed)
+  - "Live your truth" philosophy (confirmed)
+  - First ride free policy (confirmed)
+  - Body-positive, LGBTQ+-affirming space (confirmed)
+  - 45-minute cycling classes (confirmed)
+  - Monthly charity partner program (confirmed)
+  - ClassPass listing (confirmed)
+
+⚠️ PATENT CLAIM CANNOT BE VERIFIED:
+  - File claims: "Patent-pending adaptive equipment that transforms commercial cycling bike into accessible arm crank"
+  - This specific claim could NOT be verified through independent sources
+  - No patent filings found in searches
+  - No news coverage of adaptive equipment innovation found
+  - Only appears in file, not in independent sources
+
+📝 CORRECTIONS:
+  1. CRITICAL: Resolve contact discrepancy (Emily Lundgard vs Nathan)
+  2. REMOVE or VERIFY patent-pending equipment claim - no independent verification found
+  3. If adaptive equipment exists, note it's unverified by external sources
+
+═══════════════════════════════════════════════════════════════════════════════
+
+SUMMARY OF CRITICAL ISSUES REQUIRING IMMEDIATE ATTENTION:
+
+🚨 CRITICAL CONTACT ERRORS (4 businesses):
+  1. Dezfox, LLC: Contact "Toya Jordan" vs Email "james@dezfox.com"
+  2. Dixon Officiant Services: Contact "Amanda Helinski" vs Email "dixonmichelle2011@yahoo.com"
+  3. Energetic Awakenings: Contact "Becky Cross" vs Email "david@energeticawakenings.com"
+  4. Everybody Cycle: Contact "Emily Lundgard" vs Email "nathan@everybodycycle.com"
+
+🚨 UNVERIFIABLE CLAIMS (3 businesses):
+  1. Declutter with Devon: CWRU MSW 2005, Hospice employment - only on own website
+  2. DJM Digital Consulting: CIFF 20% increase claim - only on own website
+  3. Everybody Cycle: Patent-pending adaptive equipment - NO independent sources
+
+🚨 BUSINESS STATUS CONCERNS (2 businesses):
+  1. Denise Astorino: Howard Hanna realtor claim cannot be verified
+  2. Dorian Gray Galleries: May no longer be actively operating (2021-2023 activity)
+
+🚨 NO ONLINE PRESENCE (2 businesses):
+  1. Dezfox, LLC: Zero verifiable information
+  2. DMS Diversity Management Solutions: Zero verifiable information
+  3. Dixon Officiant Services: Zero verifiable information
+
+═══════════════════════════════════════════════════════════════════════════════
+END OF VERIFICATION REPORT
+═══════════════════════════════════════════════════════════════════════════════

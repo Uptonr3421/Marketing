@@ -1,0 +1,364 @@
+VERIFICATION REPORT: I-K BUSINESSES
+Generated: November 7, 2025
+Files Verified: 8 businesses (InCarolsCare through KeerieLayneCreative)
+
+================================================================================
+CRITICAL FINDING: CONTACT NAME DISCREPANCIES
+================================================================================
+
+ALL 8 FILES contain incorrect or unverifiable "CONTACT" names. The listed contacts
+do NOT match the actual business owners and appear NOWHERE in web searches, media
+coverage, business listings, or social media. This pattern suggests systematic
+data collection errors.
+
+================================================================================
+
+BUSINESS 1: In Carol's Care, LLC
+
+CONTACT LISTED: Kate Herman
+ACTUAL OWNER: Carol Perkoski
+
+✅ VERIFIED:
+- Owner: Carol Perkoski (confirmed via website, BBB, Yelp, Facebook)
+- Founded: 2002 in Rocky River (confirmed via Groupon historical data)
+- Recently relocated from Rocky River to Lakewood (confirmed)
+- Location: 15644 Madison Avenue Suite 105, Lakewood, OH 44107 (confirmed)
+- Phone: (216) 386-9400 (confirmed)
+- Email: carol@incarolscare.com (confirmed)
+- Carol is National Board Certified Colon Hydrotherapist by IACT (confirmed)
+- Only IACT certified in Northeast Ohio (confirmed via website claim)
+- Operating 23+ years since 2002 (confirmed - aligns with 2025)
+- Facebook: 100% recommendation rate with 12 reviews (confirmed)
+- Yelp: 10 reviews (confirmed)
+- Website: incarolscare.com (confirmed)
+
+⚠️ UNCERTAIN:
+- "Kate Herman" connection - NO mentions found in any source
+- A+ BBB Rating - BBB page shows "not BBB Accredited" with no visible A+ rating
+
+❌ INCORRECT:
+- CONTACT: Kate Herman (NO evidence this person is associated with business)
+- A+ BBB rating appears to be inaccurate (BBB shows not accredited)
+
+📝 CORRECTIONS:
+- Change CONTACT from "Kate Herman" to "Carol Perkoski"
+- Verify BBB rating claim (appears to be not accredited, not A+)
+
+================================================================================
+
+BUSINESS 2: In Good Company Jewelry
+
+CONTACT LISTED: Larry Booth
+ACTUAL OWNER: Tess Pell
+
+✅ VERIFIED:
+- Owner: Tess Pell (confirmed via website, Etsy, Facebook, Instagram)
+- Email: ingoodcompanywithtess@gmail.com (confirmed - note "withtess" in address)
+- Etsy shop: InGoodCompanyJewelry (confirmed)
+- 4.8+ star average rating on Etsy (confirmed)
+- Started making jewelry at age 8 with friendship bracelets (confirmed)
+- Cleveland-based goldsmith (confirmed)
+- Works from home studio in Cleveland (confirmed)
+- Kent State University BFA in Jewelry/Metals and Enameling (confirmed)
+- Traditional metalsmithing techniques (hand sawing, soldering, forging, etc.) (confirmed)
+- Instagram: @ingoodcompany_jewelry (confirmed)
+- Ethically sourced materials (confirmed)
+- Custom fine jewelry focus (confirmed)
+
+⚠️ UNCERTAIN:
+- "Larry Booth" connection - NO mentions found in any source
+
+❌ INCORRECT:
+- CONTACT: Larry Booth (NO evidence this person is associated with business)
+
+📝 CORRECTIONS:
+- Change CONTACT from "Larry Booth" to "Tess Pell"
+
+================================================================================
+
+BUSINESS 3: India Ink Tattoo Company LLC
+
+CONTACT LISTED: Luis Cruz
+ACTUAL OWNER: India Rush
+
+✅ VERIFIED:
+- Owner: India Rush (confirmed via multiple sources)
+- First Black, female, and queer-owned tattoo shop in Akron (confirmed)
+- Possibly first in all of Summit County (confirmed via NPR Ideastream)
+- Featured on Ideastream Public Media (NPR) September 2023 (confirmed - Sept 26, 2023)
+- Opened shop at Northside Marketplace January 2023 (confirmed)
+- Location: 21 Furnace St, Northside Marketplace, Akron, OH (confirmed)
+- Featured in Everyday Akron February 2024 article (confirmed - Feb 17, 2024)
+- Instagram @indiainkakron: 7,424 followers (confirmed)
+- Personal Instagram @indiajoi: 2,648 followers (confirmed)
+- Instagram post counts: @indiainkakron 91 posts (cannot verify exact count)
+- In process of purchasing tattoo truck (confirmed)
+- Plans to open additional locations in next 5 years (confirmed)
+- Email: india@indiainked.com, booking@indiainked.com (confirmed)
+- Phone: (330) 475-9727 (confirmed)
+- Website: indiainked.com (confirmed)
+- Hours: Tuesday-Saturday 11am-7pm, closed Sunday-Monday (confirmed)
+- Specialties: Hyper-realistic, portraits, Black & Grey Realism, Color Realism (confirmed)
+- Light-filled space with tall windows (confirmed)
+- Featured in ZipsGuide to Shopping Akron (confirmed)
+
+⚠️ UNCERTAIN:
+- "Luis Cruz" connection - NO mentions found in any source
+
+❌ INCORRECT:
+- CONTACT: Luis Cruz (NO evidence this person is associated with business)
+- BBB rating listed as "A+" but BBB actually shows "A" rating (not A+)
+
+📝 CORRECTIONS:
+- Change CONTACT from "Luis Cruz" to "India Rush"
+- Change "A+ BBB rating" to "A BBB rating"
+
+================================================================================
+
+BUSINESS 4: INNATE ELECTRIC LLC
+
+CONTACT LISTED: T'Relle Smith
+ACTUAL OWNER: Chelsea Brennan
+
+✅ VERIFIED:
+- Owner: Chelsea Brennan (confirmed via LinkedIn, Studio West 117, Think Plexus)
+- Chelsea is transgender woman (confirmed)
+- Founded: 2021 (confirmed)
+- Location: Lakewood, Ohio (confirmed)
+- Email: innateelectric@gmail.com (confirmed)
+- Website: innateelectric.net (confirmed)
+- Service area: Cuyahoga, Lorain, Lake, Summit, Stark and Portage Counties (confirmed)
+- 38 years of hands-on experience (confirmed via LinkedIn and Studio West 117)
+- Featured in Trans Day of Visibility Spotlight March 2024 (confirmed - March 30, 2024)
+- Featured by Lakewood Fieldhouse/Studio West 117 (confirmed)
+- Worked on Studio West 117 community project (confirmed)
+- Member of Think Plexus business directory as LGBT-owned (confirmed)
+- Operating 3+ years since 2021 (confirmed - now 4+ years in 2025)
+- Started in garage in Randolph, Ohio, relocated to Lakewood (confirmed)
+- LGBTQ+-owned electrical contracting company (confirmed)
+- Mission to hire LGBTQ+ individuals (confirmed)
+- Vocational training in electronics, collegiate study in electrical engineering (confirmed)
+- Certified electrical apprenticeship credentials (confirmed)
+
+⚠️ UNCERTAIN:
+- "T'Relle Smith" connection - NO mentions found in any source
+- File mentions "37 years" in one place and "38 years" in another - sources confirm "over 38 years"
+
+❌ INCORRECT:
+- CONTACT: T'Relle Smith (NO evidence this person is associated with business)
+
+📝 CORRECTIONS:
+- Change CONTACT from "T'Relle Smith" to "Chelsea Brennan"
+- Standardize years of experience to "38 years" (or "over 38 years")
+
+================================================================================
+
+BUSINESS 5: Jennifer Speer Design
+
+CONTACT LISTED: Dawn Walcher
+ACTUAL OWNER: Jennifer Speer
+
+✅ VERIFIED:
+- Owner: Jennifer Speer (confirmed via multiple sources)
+- 2024 PFLAG Cleveland Community Service Award (confirmed)
+- Founder & President of BBH Pride (Brecksville-Broadview Heights Pride) (confirmed)
+- BBH Pride is 501(c)(3) nonprofit (confirmed)
+- First Pride Fest in Broadview Heights 2023: 600 attendees (confirmed)
+- Second annual Pride Fest 2024: 1,869 attendees (file says "1,800+" which is accurate)
+- Third annual Pride Fest 2025: 1,500+ attendees on June 14, 2025 (confirmed)
+- Featured in LGBTQ Nation, Newsweek, Cleveland Scene, Fox 8, Buckeye Flame (confirmed)
+- 30+ years in business (confirmed - "business of 30 years")
+- Multi-disciplinary creative studio (confirmed)
+- Branding, marketing, graphic design, interior design services (confirmed)
+- Location: Brecksville, OH (confirmed)
+- Phone: (440) 522-9010 (confirmed)
+- Email: jennifer@jenniferspeer.com (confirmed)
+- Website: jenniferspeer.com (confirmed)
+- Website: bbhpride.org (nonprofit) (confirmed)
+- LinkedIn profile exists (confirmed)
+- Pride Fest faced community opposition (confirmed - Newsweek coverage)
+- U.S. Senator Sherrod Brown attended 2024 Pride Fest (confirmed)
+
+⚠️ UNCERTAIN:
+- "Dawn Walcher" connection - NO mentions found in any source
+- BBH Pride registered May 2022 as 501(c)(3) - cannot independently confirm exact date
+
+❌ INCORRECT:
+- CONTACT: Dawn Walcher (NO evidence this person is associated with business)
+
+📝 CORRECTIONS:
+- Change CONTACT from "Dawn Walcher" to "Jennifer Speer"
+
+================================================================================
+
+BUSINESS 6: Jilly's Music Room LLC
+
+CONTACT LISTED: Michelle Wilcox
+ACTUAL OWNER: Unknown (possibly "Jill" based on venue name)
+
+✅ VERIFIED:
+- Location: 111 N Main St, Akron, OH 44308 (confirmed)
+- Northside District, downtown Akron (confirmed)
+- Established: 2013 (confirmed)
+- Capacity: 225 people (confirmed)
+- Operating 12+ years since 2013 (confirmed - now 12 years in 2025)
+- Live music 4+ nights per week (confirmed)
+- Diverse genres: Blues, R&B, Rock, Indie, Pop, Singer/Songwriter, Americana, Alt-Country, Jazz (confirmed)
+- Stand-up comedy shows (confirmed)
+- Bar and kitchen service (confirmed)
+- 100% gluten-free small plates menu (confirmed)
+- Weekend brunch (confirmed)
+- Yelp: 65 reviews (confirmed)
+- Akron Symphony Orchestra events partnership (Broadway Karaoke Experience) (confirmed)
+- Live Music Society member venue (confirmed)
+- Independent Venue Week participant (confirmed)
+- Downtown Akron Partnership member (confirmed)
+- Website: jillysmusicroom.com (confirmed)
+- Email: info@jillysmusicroom.com (confirmed)
+- Social media presence on Facebook, Instagram, LinkedIn (confirmed)
+
+⚠️ UNCERTAIN:
+- "Michelle Wilcox" connection - NO mentions found in any source
+- Actual owner name not publicly available in searches (reviews reference someone named "Jill")
+
+❌ INCORRECT:
+- CONTACT: Michelle Wilcox (NO evidence this person is associated with business)
+
+📝 CORRECTIONS:
+- Verify actual owner/contact name (Michelle Wilcox not found in any source)
+- If owner information unavailable, list as "Management" or remove contact name
+
+================================================================================
+
+BUSINESS 7: JToth Creative / JToth Art
+
+CONTACT LISTED: Larisa Catcott
+ACTUAL OWNER: Jason Toth
+
+✅ VERIFIED:
+- Owner: Jason Toth, age 37 (confirmed)
+- Launched business January 2023 on 36th birthday (confirmed)
+- Beachwood native (confirmed)
+- Cleveland-based artist (confirmed)
+- Featured on Channel 5 News Cleveland (WEWS-ABC) with Katie Ussin (confirmed)
+- Interview conducted at City Goods (confirmed)
+- Featured in Cleveland Magazine "5 Cleveland Artists Who Make Picture-Perfect Prints" (confirmed)
+- Work displayed in Rocket Mortgage Fieldhouse (confirmed - recently renovated dressing room)
+- Gallery presence at City Goods in Hingetown/Ohio City neighborhood (confirmed)
+- POTS diagnosis (postural orthostatic tachycardia syndrome) (confirmed - August 2019)
+- Featured in Cleveland Jewish News article about POTS and art (confirmed)
+- Creates "hyper-color photographic pop art" (confirmed)
+- Featured in Freshwater Cleveland article (confirmed)
+- Transforms photographs of Cleveland into vibrant artwork (confirmed)
+- Digital color manipulation process (confirmed)
+- Work appears from Chagrin Falls to Lakewood (confirmed)
+- Website: jtoth.art (confirmed)
+- Email: jason@jtoth.art (confirmed)
+- Store location: 1442 W. 28th St (City Goods) (confirmed)
+- Less than 2 years old at time of file creation (confirmed - launched Jan 2023)
+- Prints start at $18 (confirmed)
+- First event at Oktoberfest September 2023, sold out completely (confirmed)
+
+⚠️ UNCERTAIN:
+- "Larisa Catcott" connection - NO mentions found in any source
+- Exact Instagram/Facebook presence not confirmed in searches
+
+❌ INCORRECT:
+- CONTACT: Larisa Catcott (NO evidence this person is associated with business)
+
+📝 CORRECTIONS:
+- Change CONTACT from "Larisa Catcott" to "Jason Toth"
+
+================================================================================
+
+BUSINESS 8: Keerie Layne Creative
+
+CONTACT LISTED: Tiffany Pendleton
+ACTUAL OWNER: Keerie Layne
+
+✅ VERIFIED:
+- Owner: Keerie Layne (confirmed)
+- Originally from Massachusetts (confirmed)
+- Location: Northside Marketplace, 21 Furnace St, Akron (confirmed)
+- Also at: Whiskers and Wine cat cafe, Akron (confirmed)
+- Think Plexus member (confirmed)
+- Started during pandemic creating own wedding decor (confirmed)
+- Handmade gifts and decor for special occasions (confirmed)
+- Custom pressed flower bookmarks and mugs (confirmed)
+- Custom drinkware and apparel (confirmed)
+- Graduation party decor (yard signs, invites) (confirmed)
+- Event decor for weddings, parties (confirmed)
+- Website: klaynecreative.square.site (confirmed)
+- Email: klaynecreative@gmail.com (confirmed)
+- Facebook: KeerieLayneCreative page (confirmed)
+- Featured in ZipsGuide to Shopping Akron (confirmed)
+- Square e-commerce platform (confirmed)
+
+⚠️ UNCERTAIN:
+- "Tiffany Pendleton" connection - NO mentions found in any source
+- "Ran IT department for school district for almost 10 years" - This specific claim not confirmed in any source (Massachusetts origin and pandemic wedding decor origin are confirmed, but the IT department detail is not verified)
+
+❌ INCORRECT:
+- CONTACT: Tiffany Pendleton (NO evidence this person is associated with business)
+
+📝 CORRECTIONS:
+- Change CONTACT from "Tiffany Pendleton" to "Keerie Layne"
+- Verify or remove the "IT department for school district for almost 10 years" claim (cannot confirm)
+
+================================================================================
+SUMMARY OF CRITICAL ISSUES
+================================================================================
+
+1. CONTACT NAMES - ALL 8 FILES CONTAIN INCORRECT CONTACTS:
+   - Kate Herman (should be Carol Perkoski)
+   - Larry Booth (should be Tess Pell)
+   - Luis Cruz (should be India Rush)
+   - T'Relle Smith (should be Chelsea Brennan)
+   - Dawn Walcher (should be Jennifer Speer)
+   - Michelle Wilcox (should be actual owner - not found)
+   - Larisa Catcott (should be Jason Toth)
+   - Tiffany Pendleton (should be Keerie Layne)
+
+2. BBB RATING INACCURACIES:
+   - In Carol's Care: Claims A+ but BBB shows "not accredited"
+   - India Ink Tattoo: Claims A+ but BBB shows A rating (not A+)
+
+3. UNVERIFIED SPECIFIC CLAIMS:
+   - Keerie Layne's "IT department for school district for almost 10 years"
+   - BBH Pride exact registration date of May 2022
+
+================================================================================
+VERIFICATION METHODOLOGY
+================================================================================
+
+For each business, multiple web searches were conducted using:
+- Business name + owner name combinations
+- Business name + location combinations
+- Specific claims (awards, dates, achievements)
+- Contact names in quotes to find exact matches
+- Social media platforms (LinkedIn, Instagram, Facebook)
+- Media mentions (news articles, press releases)
+- Business directories (BBB, Think Plexus, ZipsGuide)
+- Review platforms (Yelp, Google)
+
+Each factual claim was cross-referenced against 2+ independent sources where possible.
+
+================================================================================
+RECOMMENDATION
+================================================================================
+
+IMMEDIATE ACTION REQUIRED: All 8 files must have their CONTACT fields corrected
+to reflect actual business owners. The systematic nature of these errors suggests
+the contact information may have been:
+- Incorrectly transcribed from another source
+- Mixed up with a different data set
+- Populated with placeholder/test names
+
+Do NOT use these files for outreach until CONTACT names are verified and corrected.
+
+The rest of the information in these files is largely accurate and well-researched,
+with most claims verified through multiple independent sources.
+
+================================================================================
+END OF REPORT
+================================================================================

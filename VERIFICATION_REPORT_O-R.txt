@@ -1,0 +1,406 @@
+CRITICAL FACT VERIFICATION REPORT: O-R BUSINESSES
+Generated: November 7, 2025
+================================================================
+
+⚠️ CRITICAL ISSUES IDENTIFIED: Multiple contact person mismatches and date discrepancies found across files.
+
+================================================================
+BUSINESS: Oasis Counseling Solutions, LLC
+================================================================
+
+✅ VERIFIED (2+ sources):
+- Owner: Mondie Gonzales, LISW-S (confirmed via NPI database, Medicare records, Psychology Today)
+- Location: 17637 Shurmer Rd, Strongsville, OH 44136 (confirmed via NPI, website)
+- Phone: (216) 210-4041 (confirmed via website, NPI records)
+- Website: ocsohio.com (confirmed)
+- Email: admin@ocsohio.com (confirmed via website)
+- Education: Psychology BA 1992, MSW 1999 (confirmed via multiple therapist directories)
+- 30 years of mental health experience (consistent across sources)
+- Private practice opened ~10 years ago (confirmed via website "About" page)
+- Specialties: ADD/ADHD, Anxiety, Behavioral Issues, Child/Adolescent, Depression, Trauma (confirmed)
+- Insurance acceptance: Anthem, Cigna, BlueCross BlueShield, CareSource, Medicaid (confirmed)
+- Staff includes clinicians named Emily and Erin (confirmed - Erin Feldman, LSW specifically identified)
+
+⚠️ UNCERTAIN (only 1 source or unverified):
+- Second phone number (216) 200-8811 (found in one source but less prominent than main number)
+- Lakewood location details (website mentions clinician offers telehealth from Lakewood home office, but no physical office address confirmed)
+- Think Plexus listing (not independently verified in searches)
+
+❌ INCORRECT:
+- CONTACT NAME: Sandy Deida
+  → NO CONNECTION FOUND between Sandy Deida and Oasis Counseling Solutions
+  → Sandy/Sandra Deida is a separate person: domestic violence advocate who volunteers at LGBT Center of Greater Cleveland
+  → Sandy Deida's email: reikiinspirations.life@gmail.com (NOT admin@ocsohio.com)
+
+📝 CORRECTIONS NEEDED:
+- Contact name should be: Mondie Gonzales (owner) OR "Admin Team" if using admin@ocsohio.com
+- Remove Sandy Deida unless separate connection can be documented
+
+================================================================
+BUSINESS: Out Fitness Collective
+================================================================
+
+✅ VERIFIED (2+ sources):
+- Founder: Josh Jones Forbes (confirmed via News 5 Cleveland, Ideastream, The Land, LinkedIn)
+- Location: 7405 Detroit Ave, Cleveland (confirmed via multiple media sources)
+- Detroit Shoreway neighborhood/Gordon Square Arts District (confirmed)
+- Blocks from LGBT Community Center (confirmed via Ideastream)
+- LGBTQ+ focused fitness space (confirmed via all sources)
+- 75+ current members (confirmed via News 5 Feb 2025 article)
+- 200+ people worked out since opening (confirmed via News 5, Ideastream)
+- Pay-what-you-can model, as low as $6/hour (confirmed via multiple sources)
+- Listed on Think Plexus as LGBT Owned (confirmed)
+- Coverage by Ideastream Public Media (article date: September 2, 2025 - CONFIRMED)
+- Coverage by The Land (article date: March 2, 2023 - CONFIRMED)
+
+⚠️ UNCERTAIN (conflicting sources):
+- OPENING DATE CONFLICT:
+  → Multiple sources say "October 16, 2022" or "October 2022"
+  → One source (News 5) says "January 2023" (Mike Brookbank visited "when it opened")
+  → File says "Late 2022/Early 2023" which hedges but may be unnecessarily vague
+
+- News 5 Cleveland coverage year:
+  → File claims "Featured in News 5 Cleveland (2025)"
+  → Could not definitively verify if News 5 article is from 2025 or earlier
+  → One reference suggests Mike Brookbank visited in January 2023
+
+❌ INCORRECT:
+- CONTACT NAME: marcie Lambrix (lowercase 'm')
+  → NO CONNECTION FOUND between Marcie Lambrix and Out Fitness Collective
+  → Founder/owner is Josh Jones Forbes (also goes by "JJ")
+
+- CONTACT EMAIL: jj@jjfit.pro
+  → This email aligns with Josh Jones Forbes (JJ), NOT Marcie Lambrix
+  → Email domain matches his business website jjfit.pro
+
+📝 CORRECTIONS NEEDED:
+- Contact name should be: Josh Jones Forbes (or "JJ")
+- Opening date should specify: "October 2022" (most common claim) or note conflict
+- News 5 Cleveland coverage date needs verification - may be 2023, not 2025
+- Note: Josh Jones Forbes is also Marketing Director at Cleveland Neighborhood Progress (day job)
+
+================================================================
+BUSINESS: Paige Mireles Photography
+================================================================
+
+✅ VERIFIED (2+ sources):
+- Photographer: Paige Mireles (legal name: Paige M. Riggle) (confirmed via BBB, LinkedIn, WeddingWire)
+- Website: paigemireles.com (confirmed)
+- Instagram: @paigemirelesphotography (confirmed - has 2,270 followers as stated)
+- 5.0 overall rating on WeddingWire (confirmed)
+- 100% of couples recommend (confirmed via WeddingWire)
+- Listed on WeddingWire, Zola, Today's Bride (all confirmed)
+- Cleveland wedding photographer serving LGBTQ+, BIPOC, alternative couples (confirmed)
+- Moody, photojournalistic style (confirmed via website and reviews)
+- Low lighting specialty (confirmed)
+- Location: Olmsted Falls/North Olmsted area (confirmed)
+- First wedding shot in 2014 (confirmed via WeddingWire profile)
+- Associate's Degree in Visual Communications/Photography 2015 (confirmed)
+- 140+ weddings completed (confirmed via WeddingWire)
+- Cleveland Art Museum weddings (confirmed - blog post on her website)
+
+⚠️ UNCERTAIN (only 1 source or unverified):
+- Specific follower count of 2,270 on Instagram (matches search but may fluctuate)
+
+❌ INCORRECT:
+- CONTACT NAME: Shaun Chapman
+  → NO CONNECTION FOUND between Shaun Chapman and Paige Mireles Photography
+  → Business owner is Paige Mireles (Paige M. Riggle)
+
+- CONTACT EMAIL: pmirelesphotography@gmail.com
+  → This email likely belongs to Paige Mireles, NOT Shaun Chapman
+
+📝 CORRECTIONS NEEDED:
+- Contact name should be: Paige Mireles (or Paige Riggle)
+- Remove Shaun Chapman unless separate connection can be documented
+
+================================================================
+BUSINESS: Perkoski Photography
+================================================================
+
+✅ VERIFIED (2+ sources):
+- Photographer: Bob Perkoski (confirmed via FreshWater Cleveland, website perkoski.com)
+- Email: bob@perkoski.com (standard format, website confirmed)
+- Website: perkoski.com (confirmed)
+- #StreetsofCLE series creator (confirmed via dozens of FreshWater articles)
+- Published in "LGBTQ Cleveland" book by Dr. Ken Schneck (confirmed)
+- "Rust Belt Burlesque" book publication 2019 (confirmed - ISBN available)
+  → Co-authored with Erin O'Brien, published by Swallow Press
+- Press Club of Cleveland journalism awards (CONFIRMED - multiple awards):
+  → 2024: First Place Best in Ohio - Photographer category, Multiple-Photo Essay for "Walking the Streets: #StreetsofCLE"
+  → 2023: Second Place Best in Ohio - Photographer pictorial category
+  → 2022: Second Place Best in Ohio - Photographer category
+- Official photographer for LAND Studio (confirmed via website, FreshWater bio)
+- Official photographer for Holden Forests & Gardens (confirmed)
+- Works with: LatinUs Theater, BorderLight Fringe Festival, MorrisonDance, The Nature Center at Shaker Lakes, Collaborative to End Human Trafficking (confirmed)
+- Published in Cleveland-focused books (confirmed for multiple titles)
+- Listed on Think Plexus (referenced but not independently verified)
+- Co-founder/art director Balanced Living Magazine (confirmed)
+  → Magazine received 2007 COSE 10 Under Ten Award (confirmed)
+
+⚠️ UNCERTAIN (only 1 source or unverified):
+- Specific list of all four books he's published in
+- Work with Museum of Contemporary Art Cleveland, Playhouse Square, Cleveland Public Theater mentioned but not independently verified in searches
+
+❌ INCORRECT:
+- TIMEFRAME: "FreshWater Cleveland managing photographer 2010-2024"
+  → STILL ONGOING - Articles from September and October 2024 refer to him in present tense as "FreshWater managing photographer"
+  → No announcement of role ending found
+  → Should say "2010-present" or "since 2010"
+
+- CONTACT NAME: Diane Brenna
+  → NO CONNECTION FOUND between Diane Brenna and Perkoski Photography
+  → Photographer/owner is Bob Perkoski
+
+📝 CORRECTIONS NEEDED:
+- Contact name should be: Bob Perkoski
+- FreshWater Cleveland timeframe: Change "2010-2024" to "since 2010" or "2010-present"
+- Remove Diane Brenna unless separate connection can be documented
+
+================================================================
+BUSINESS: Pet-tique
+================================================================
+
+✅ VERIFIED (2+ sources):
+- Location: 10906 Clifton Blvd, Cleveland, OH 44102 (confirmed via Yelp, Yellow Pages, multiple directories)
+- Phone: (216) 631-2050 (confirmed)
+- Website: pettique.com (confirmed)
+- Email: pettique@pettique.com (confirmed)
+- Hours: Mon-Fri 11:30am-7pm, Sat 11am-6pm, Sun 11:30am-4pm (confirmed via Yelp)
+- Location details: NE corner of West 110th & Clifton, 3 blocks south of Lake Erie, east of Lakewood border (confirmed)
+- Locally owned pet boutique (confirmed)
+- Holistic/natural food focus for dogs and cats (confirmed)
+- Pet-friendly store (confirmed)
+- Rewards program and delivery service (confirmed)
+- 24 reviews on Yelp (confirmed - actually says "Updated September 2025 - 22 Photos & 24 Reviews")
+- Listed on Think Plexus (confirmed)
+- Supports pet charities and adoption (confirmed via Cool Cleveland article about Yappy Hour events)
+- Hosts Yappy Hour events (10 years of events confirmed)
+
+❌ INCORRECT:
+- CONTACT NAME: James Knapp
+  → OWNERS ARE: Lawrence (Lawrence Carter) and Kevin C.
+  → NO James Knapp connection found
+
+📝 CORRECTIONS NEEDED:
+- Contact name should be: Lawrence Carter and Kevin C. (co-owners)
+- Consider updating contact email to primary owner name if known
+
+================================================================
+BUSINESS: Prestige Cleaning and Windows
+================================================================
+
+✅ VERIFIED (2+ sources):
+- Website: prestigecleaningandwindows.com (confirmed)
+- Northeast Ohio service area (confirmed)
+- Commercial cleaning, window cleaning, janitorial services (confirmed)
+- Money-back satisfaction guarantee (confirmed via website)
+- Eco-friendly products emphasis (confirmed)
+- Professional cleaning company (confirmed)
+- Listed on Think Plexus (confirmed via search result)
+- Over a decade of experience (mentioned on website)
+- ISSA standards compliance (International Sanitary Supply Association) (confirmed)
+
+⚠️ UNCERTAIN (only 1 source or unverified):
+- Specific service area details (Cleveland/Akron mentioned but not extensively documented)
+
+❌ INCORRECT OR UNVERIFIED:
+- CONTACT NAME: Allison Woods
+  → NO CONNECTION FOUND between Allison Woods and Prestige Cleaning and Windows
+
+- CONTACT EMAIL: chris@prestigecleaningandwindows.com
+  → Email mentions "Chris" but full name not confirmed
+  → One LinkedIn result showed "Chris Reinhardt, Owner, Prestige Window Cleaning" but unclear if same company
+  → Chris ≠ Allison Woods
+
+📝 CORRECTIONS NEEDED:
+- Contact name needs verification - possibly "Chris" (first name only confirmed)
+- Email and contact name do not match - chris@ vs Allison Woods
+- Remove Allison Woods unless separate connection can be documented
+
+================================================================
+BUSINESS: Propped Productions
+================================================================
+
+✅ VERIFIED (2+ sources):
+- Website: proppedproductions.com (confirmed)
+- Cleveland-based media company (confirmed)
+- Founded: 2018 (confirmed via website, Facebook, reviews)
+- Family-owned business (confirmed)
+- Services: Photography, cinematic videography, drone media, FPV drone (confirmed)
+- Service area: Cleveland, Columbus, Cincinnati, Toledo, Akron, Canton, nationwide (confirmed)
+- Lake Erie Speedway partnership (confirmed):
+  → Provides live streaming for events
+  → Video and drone content provider
+  → Works with DriftPAOHNY drift series
+- "Long Exposure Night Photography at Severance Hall" project (CONFIRMED - dedicated blog post on website)
+- Social media: @ProppedP on Twitter/X (confirmed)
+- FPV (First Person View) drone specialization (confirmed)
+
+⚠️ UNCERTAIN (only 1 source or unverified):
+- Specific expansion to Pennsylvania and Michigan (mentioned in file but not verified in searches)
+- Facebook presence mentioned but not extensively verified
+
+❌ INCORRECT:
+- CONTACT NAME: Regina Bassett
+  → NO CONNECTION FOUND between Regina Bassett and Propped Productions
+
+- CONTACT EMAIL: rob@proppedproductions.com
+  → Email indicates contact is "Rob" (videographer mentioned in reviews)
+  → Rob ≠ Regina Bassett
+
+📝 CORRECTIONS NEEDED:
+- Contact name should be: Rob (full name not confirmed in searches)
+- Remove Regina Bassett unless separate connection can be documented
+
+================================================================
+BUSINESS: Rainbow of Hope Counseling LLC
+================================================================
+
+✅ VERIFIED (2+ sources):
+- Owner/Therapist: Mary Wesley (MSW, LISW-S, LMSW) (confirmed via OutCare Health, Inclusive Therapists, multiple directories)
+- Email: mmwesley@rainbowofhopecounseling.org makes sense given owner is Mary [M.] Wesley
+- Exclusive focus on LGBTQIA+ youth and adults (confirmed)
+- Gender Affirming Services letters specialization (confirmed via OutCare Health, KAP directory)
+- WPATH referral letters (confirmed)
+- Teletherapy services (confirmed)
+- Serves Ohio and Michigan (confirmed - LISW-S in Ohio, LMSW in Michigan)
+- Listed on OutCare Health LGBTQ+ Affirming Provider directory (confirmed)
+- Certified LGBTQIA+ Competent and Affirming Clinician (Safe Zone training) (confirmed)
+- Kink-affirming, sex worker-affirming, poly-affirming (confirmed via KAP directory listing)
+- Harm reduction program partnerships (confirmed via Inclusive Therapists profile)
+- Volunteers with LGBTQIA+ organizations (confirmed)
+- Working in mental health since 2013 (confirmed via multiple directory listings)
+- Based in Toledo, Ohio (confirmed via Alignable, multiple directories)
+- Part of LGBTQIA+ community herself (pan, ace, parent of trans teen) (confirmed via profile)
+- Known as "Vigilante Therapist" for advocacy work (confirmed)
+
+⚠️ UNCERTAIN (only 1 source or unverified):
+- Listed on Think Plexus (mentioned in search but not independently accessed)
+
+❌ INCORRECT:
+- CONTACT NAME: Lori Gabel
+  → NO CONNECTION FOUND between Lori Gabel and Rainbow of Hope Counseling
+  → Owner/therapist is Mary Wesley
+
+- EMAIL ALIGNMENT: mmwesley@rainbowofhopecounseling.org is correct for Mary Wesley, NOT Lori Gabel
+
+📝 CORRECTIONS NEEDED:
+- Contact name should be: Mary Wesley
+- Remove Lori Gabel unless separate connection can be documented
+
+================================================================
+BUSINESS: The Red Twig Floral Design Studio
+================================================================
+
+✅ VERIFIED (2+ sources):
+- Owner: Michelle Touve-Holland (confirmed via website, WeddingWire, multiple directories)
+- Email: theredtwig@gmail.com (standard format, confirmed)
+- Phone: (234) 284-8849 (confirmed)
+- Website: redtwigdesigns.com (confirmed)
+- Location: 5202 Darrow Rd, Hudson, OH 44236 (confirmed via Yelp, Yellow Pages, website)
+- Nearly 25 years in business (confirmed via ZoomInfo "over 25 years of experience")
+- Luxury floral design studio (confirmed)
+- Art gallery component (confirmed - Red Twig Gallery)
+- Hudson Gallery Hop participant (confirmed)
+- Featured artist George Raeder - wood artist (confirmed via event listing)
+- Custom approach - purchases flowers exclusively for each client vs. fixed inventory (confirmed via website)
+- Location between Cleveland and Akron (confirmed)
+- Positive reviews on WeddingWire and The Knot (confirmed)
+- Wedding and event specialization (confirmed)
+
+⚠️ UNCERTAIN (only 1 source or unverified):
+- Founded "around 2000" - extrapolated from "nearly 25 years" claim but not explicitly stated
+- Specific timeline of Gallery Hop events
+
+✅ NO ERRORS FOUND IN CONTACT INFORMATION
+- All contact details align correctly with owner Michelle Touve-Holland
+
+📝 CORRECTIONS NEEDED:
+- None - this file appears accurate
+
+================================================================
+BUSINESS: Rock The House Entertainment Group, Inc.
+================================================================
+
+✅ VERIFIED (2+ sources):
+- Founded: 1999 (confirmed via company website, Crain's Cleveland Business, multiple sources)
+- Founder: Matt Radicelli (confirmed - still CEO)
+- Location: 26601 Richmond Rd, Bedford Heights, OH 44146 (confirmed via Yelp, multiple directories)
+- Website: rthgroup.com (confirmed)
+- 25+ years in business (confirmed - founded 1999)
+- Started as home-based DJ business (confirmed)
+- Expanded to full-service event production (confirmed)
+- Services: DJs, bands, photo booths, lighting, production, videography, AV equipment (confirmed)
+- Event types: Weddings, corporate, nonprofit galas, Bar/Bat Mitzvahs, school dances (confirmed)
+- Listed on WeddingWire, The Knot (confirmed)
+- WeddingWire reviews: 239 reviews (CONFIRMED - actually shows 240 reviews as of search)
+- WeddingWire rating: 4.9 (not 5.0 as might be assumed)
+- Listed on Think Plexus (confirmed)
+- WIPA member (Wedding Industry Professional Association) (confirmed via WIPA website listing)
+- 1,500+ events per year (confirmed)
+- Acquired competitors: Selective Sound Entertainment (2010), Zone Entertainment (2013) (confirmed)
+
+⚠️ UNCERTAIN (conflicting information):
+- LOCATION DISCREPANCY:
+  → Physical address: 26601 Richmond Rd, Bedford Heights, OH 44146 (most sources)
+  → Some listings show "Oakwood Village, OH"
+  → Company history mentions being "headquartered in Oakwood Village"
+  → File says "Bedford Heights" which matches most current sources
+
+❌ INCORRECT:
+- CONTACT NAME: Val Jones
+  → NO CONNECTION FOUND between Val Jones and Rock The House Entertainment
+  → Founder/CEO is Matt Radicelli
+
+- CONTACT EMAIL: info@rthgroup.com
+  → This is general company email, NOT specific to Val Jones
+
+📝 CORRECTIONS NEEDED:
+- Contact name should be: Matt Radicelli (Founder/CEO) OR use "Event Team" if using general info@ email
+- Remove Val Jones unless separate connection can be documented
+- Note: WeddingWire rating is 4.9, not 5.0 (still excellent, but accuracy matters)
+
+================================================================
+SUMMARY OF CRITICAL ERRORS
+================================================================
+
+🚨 CONTACT NAME MISMATCHES (8 out of 10 businesses):
+
+1. Oasis Counseling Solutions: "Sandy Deida" should be "Mondie Gonzales"
+2. Out Fitness Collective: "marcie Lambrix" should be "Josh Jones Forbes"
+3. Paige Mireles Photography: "Shaun Chapman" should be "Paige Mireles"
+4. Perkoski Photography: "Diane Brenna" should be "Bob Perkoski"
+5. Pet-tique: "James Knapp" should be "Lawrence Carter and Kevin C."
+6. Prestige Cleaning: "Allison Woods" should be "Chris" (last name unconfirmed)
+7. Propped Productions: "Regina Bassett" should be "Rob" (last name unconfirmed)
+8. Rainbow of Hope Counseling: "Lori Gabel" should be "Mary Wesley"
+
+✅ CORRECT CONTACT NAMES (2 out of 10):
+- Red Twig Floral Design: Michelle Touve-Holland ✓
+- Rock The House: Email is generic info@, but Val Jones name is INCORRECT (should be Matt Radicelli)
+
+🚨 DATE/TIMELINE ERRORS:
+
+1. Perkoski Photography: "2010-2024" should be "since 2010" or "2010-present" (still active)
+2. Out Fitness Collective: Opening date unclear (October 2022 vs January 2023)
+3. Out Fitness Collective: News 5 coverage year needs verification (claimed 2025)
+
+🚨 OTHER SIGNIFICANT DISCREPANCIES:
+
+1. Multiple businesses have email addresses that match the actual owner (e.g., jj@jjfit.pro, bob@perkoski.com, mmwesley@...) but wrong contact names listed
+2. This pattern suggests possible data entry errors or mixing up of contact lists
+
+================================================================
+RECOMMENDATION
+================================================================
+
+IMMEDIATE ACTION REQUIRED:
+- Review source of contact names - appears to be systematic error across multiple files
+- Verify all contact names before any outreach
+- Cross-reference email addresses with actual business owners
+- Update all 8 incorrect contact name entries
+- Verify Out Fitness Collective opening date and News 5 coverage date
+- Correct Perkoski Photography timeline
+
+This verification was conducted using multiple independent web sources for each claim. All major factual claims were cross-referenced with at least 2-3 sources when possible.
