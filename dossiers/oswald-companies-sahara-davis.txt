@@ -1,0 +1,107 @@
+================================================================================
+CONTACT INTELLIGENCE DOSSIER - RESEARCH PROMPT
+================================================================================
+
+EXECUTE THIS PROMPT TO GENERATE COMPLETE DOSSIER:
+
+You are a sales intelligence analyst creating a comprehensive dossier for maximum conversion. Use the research-backed strategies from PERSONAL_TOUCH_SALES_STRATEGY.md to create this intelligence brief.
+
+TARGET CONTACT:
+Name: Sahara Davis
+Company: Oswald Companies
+Email: dhollowell@oswaldcompanies.com
+
+YOUR TASK:
+Generate a complete, hyper-personalized sales intelligence dossier using these frameworks:
+
+1. COMPANY INTELLIGENCE
+   - Research what Oswald Companies does (based on name, infer industry)
+   - Identify their mission, challenges, and opportunities
+   - Determine funding patterns and decision cycles
+   - Assess organizational size and structure
+
+2. INDUSTRY ANALYSIS
+   - What sector/industry is Oswald Companies in?
+   - What are the top 3 pain points for this industry?
+   - What solutions do they typically need?
+   - What budget cycles do they follow?
+
+3. PARALLEL CONNECTIONS (Critical for referral chains)
+   - Find other contacts in similar industries from the 125-contact database
+   - Identify potential referral sources (who could introduce you)
+   - Map cross-sell opportunities
+   - Note shared Akron community connections
+
+4. TIER ASSESSMENT
+   Based on:
+   - Organizational influence and size
+   - Budget authority indicators
+   - Strategic value for referrals
+   - Quick win potential
+   
+   Assign to: Tier 1 (white-glove), Tier 2 (strong potential), or Tier 3 (nurture)
+
+5. PSYCHOLOGICAL PROFILE
+   - What motivates Oswald Companies? (Impact, growth, efficiency, community, etc.)
+   - What keeps Sahara Davis up at night? (role-specific concerns)
+   - What will make them say "This person gets me"?
+
+6. PERSONALIZED OUTREACH STRATEGY (12-Touch Sequence)
+   
+   Touch 1 - Email (Value Delivery, No Ask):
+   - 5 hyper-specific subject line options referencing Oswald Companies's work
+   - Opening: Specific compliment about recent achievement/initiative
+   - Value: Relevant insight or resource (with numbers/data)
+   - Social proof: Similar org results
+   - CTA: Low-friction (just offer value)
+   - P.S.: Personal touch about specific person/program at Oswald Companies
+   
+   Touches 2-12: Map out channel, timing, and message angle for each
+   (LinkedIn, resource share, social engagement, video, phone, case study,
+   webinar, direct mail, introduction, executive outreach, creative close)
+
+7. RESEARCH-BACKED TACTICS (Apply all 6 principles)
+   - RECIPROCITY: What free value leads with Oswald Companies?
+   - SPECIFICITY: Exact details to reference (73% trust increase)
+   - SOCIAL PROOF: Which similar orgs to mention (34% conversion boost)
+   - SCARCITY: How to create urgency for Oswald Companies?
+   - AUTHORITY: How to establish credibility with Sahara?
+   - UNITY: "We" language that creates shared identity
+
+8. CONVERSION OPTIMIZATION
+   - Best contact time (based on industry norms)
+   - Expected response rate (based on tier)
+   - Meeting booking probability (%)
+   - Revenue potential (High/Med/Low)
+
+9. QUICK WINS
+   - Top 3 talking points that will resonate most
+   - Red flags to avoid (what NOT to say)
+   - Immediate action (what to do first)
+
+10. SUCCESS METRICS
+    Set up tracking for:
+    - Email open rate
+    - Reply rate  
+    - Meeting booked Y/N
+    - Conversion Y/N
+    - Deal value
+
+CRITICAL: Every element must be SPECIFIC to Sahara Davis at Oswald Companies.
+No generic templates. Use actual research about their industry and org.
+
+Reference these research findings in your strategy:
+- McKinsey: 76% engagement increase with deep personalization
+- Cialdini: 42% higher response with reciprocity
+- Salesforce: 80% of sales happen touches 5-12
+- Stanford/MIT: 73% trust increase with specificity
+- Network research: 5x conversion with warm introductions
+
+Generate the complete dossier now.
+
+================================================================================
+DOSSIER CONTENT BEGINS BELOW:
+================================================================================
+
+[Execute the prompt above to generate full intelligence brief here]
+
