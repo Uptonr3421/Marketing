@@ -1,0 +1,111 @@
+================================================================================
+CAPITALIZATION ISSUE: MAC/MC SURNAMES
+================================================================================
+
+ISSUE IDENTIFIED:
+The automated validation script applied standard title case to all names,
+which incorrectly changed surnames like "McDonald" to "Mcdonald" and
+"MacLeod" to "Macleod".
+
+AFFECTED CONTACTS: 25 contacts with Mac/Mc surnames
+
+================================================================================
+WHAT HAPPENED
+================================================================================
+
+Original:     MacNamara, McLeod, McPherson, McCabe
+Auto-Fixed:   Macnamara, Mcleod, Mcpherson, Mccabe
+
+The script changed:
+- "McLeod" → "Mcleod" (incorrect)
+- "MacNamara" → "Macnamara" (may be incorrect)
+- "McCabe" → "Mccabe" (incorrect)
+
+================================================================================
+WHY THIS IS COMPLEX
+================================================================================
+
+Traditional Scottish/Irish surnames have specific capitalization rules:
+- McDonald (not Mcdonald)
+- MacLeod (not Macleod)
+- McCarthy (not Mccarthy)
+
+HOWEVER:
+- Some families prefer "Macdonald" over "MacDonald"
+- Personal preference varies
+- No universal automated rule exists
+
+================================================================================
+RECOMMENDATION
+================================================================================
+
+OPTION 1: REVERT TO ORIGINAL (RECOMMENDED)
+Keep the original capitalization from the source data, as it likely
+reflects how each person prefers their name to be written.
+
+OPTION 2: MANUAL REVIEW
+Review each of the 25 Mac/Mc names individually and verify correct
+capitalization with the person or through LinkedIn/company website.
+
+OPTION 3: APPLY STANDARD MAC/MC RULE
+Automatically capitalize the letter after Mac/Mc:
+- Mcdonald → McDonald
+- Macleod → MacLeod
+- Mccabe → McCabe
+
+However, this may still be incorrect for some individuals.
+
+================================================================================
+AFFECTED CONTACTS (25 total)
+================================================================================
+
+Row   First Name    Current in FIXED    Original          Suggested
+---------------------------------------------------------------------------
+54    Maria         Macnamara          MacNamara          MacNamara
+55    Erin          Mcleod             McLeod             McLeod
+68    Erin          Mcleod             Mcleod             McLeod (verify)
+76    Deidre        Mcpherson          McPherson          McPherson
+77    Lindsey       Mclaughlin         Mclaughlin         McLaughlin
+92    Kelsey        Mccabe             McCabe             McCabe
+336   Kate          Mccreary           McCreary           McCreary
+337   David         Mcnally            McNally            McNally
+357   Allyson       Mcdonnell          McDonnell          McDonnell
+403   Mindi         Mccormick          McCormick          McCormick
+445   Molly         Mccarthy           McCarthy           McCarthy
+793   Magan         Mclaughlin         McLaughlin         McLaughlin
+813   Izzie         Mcclain            McClain            McClain
+853   McKenzie      Mcconaha           McConaha           McConaha
+910   Kait          Mcneely            McNeely            McNeely
+973   Abigail       Mcnutt             McNutt             McNutt
+986   Katie         Mackedanz          Mackedanz          Mackedanz (verify)
+1021  Gina          Mccarthy           McCarthy           McCarthy
+1167  Carolyn       Mcmullen           McMullen           McMullen
+1241  Jennifer      Mccall             McCall             McCall
+
+... and 5 more
+
+================================================================================
+DECISION REQUIRED
+================================================================================
+
+Choose one approach:
+
+[ ] Keep original capitalization (safest option)
+[ ] Apply standard Mac/Mc rule (mostly correct)
+[ ] Manual review each name (most accurate)
+[ ] Leave as-is in FIXED file (not recommended)
+
+================================================================================
+IMPACT ON DATA QUALITY SCORE
+================================================================================
+
+Current assessment: Listed as "capitalization issues" in report
+However: This is a stylistic/preference issue, not a data quality error
+
+These 44 "capitalization issues" could be reclassified as "acceptable
+variations" if original capitalization is preserved, which would:
+- Reduce reported issues
+- Increase data quality score
+- Better reflect actual data accuracy
+
+================================================================================

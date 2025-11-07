@@ -1,0 +1,106 @@
+================================================================================
+DATA QUALITY VALIDATION REPORT
+================================================================================
+
+File: /home/user/Marketing/plexus_contacts - Sheet1.csv
+Analysis Date: 2025-11-07
+
+--------------------------------------------------------------------------------
+SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Contacts Analyzed: 1676
+Valid Emails: 1675
+Invalid Emails: 1
+Missing Data Fields: 611
+Capitalization Issues: 44
+Special Character Issues: 93
+Potential Duplicates: 29
+
+OVERALL DATA QUALITY SCORE: 79.15/100
+Quality Grade: C (Fair)
+
+--------------------------------------------------------------------------------
+DETAILED ISSUES BY CATEGORY
+--------------------------------------------------------------------------------
+
+1. INVALID EMAILS (1 found)
+   ----------------------------------------------------------------------------
+   Row 877: Brendan Reynolds - 'michaelo'brien@jackentertainment.com'
+
+2. MISSING DATA (611 fields)
+   ----------------------------------------------------------------------------
+   Last Name: 310 missing values
+   First Name: 301 missing values
+
+3. CAPITALIZATION ISSUES (44 found)
+   ----------------------------------------------------------------------------
+   Row 54 - Last Name: 'MacNamara' → 'Macnamara'
+   Row 55 - Last Name: 'McLeod' → 'Mcleod'
+   Row 70 - Last Name: 'VanPelt' → 'Vanpelt'
+   Row 76 - Last Name: 'McPherson' → 'Mcpherson'
+   Row 79 - Last Name: 'de' → 'De'
+   Row 92 - Last Name: 'McCabe' → 'Mccabe'
+   Row 123 - Last Name: 'de' → 'De'
+   Row 151 - First Name: 'LarKesha' → 'Larkesha'
+   Row 156 - Last Name: 'LaConte' → 'Laconte'
+   Row 293 - Last Name: 'DeFelice' → 'Defelice'
+   Row 336 - Last Name: 'McCreary' → 'Mccreary'
+   Row 337 - Last Name: 'McNally' → 'Mcnally'
+   Row 348 - Last Name: 'DeJesus' → 'Dejesus'
+   Row 356 - Last Name: 'LaGuardia' → 'Laguardia'
+   Row 357 - Last Name: 'McDonnell' → 'Mcdonnell'
+   ... and 29 more
+
+5. POTENTIAL DUPLICATES (29 groups found)
+   ----------------------------------------------------------------------------
+   Duplicate group:
+      - Harvir Kang | nicole@artsnow.org | ArtsNow
+      - Kelsey McCabe | Nicole@ArtsNow.org | ArtsNow
+
+   Duplicate group:
+      - Susan Bookshar | bobbi@BFimaging.com | B. Frohman Imaging and Design
+      - Katie Hills | bobbi@bfimaging.com | B. Frohman Imaging and Design
+
+   Duplicate group:
+      - Ayron Evans | b.rileysoberhonestliving@gmail.com | B.Riley Sober House
+      - Yazmin Maldonado | B.Rileysoberhonestliving@gmail.com | B.Riley Sober House
+
+   Duplicate group:
+      - Heidi Anthonsen | Marilynk@brileysoberhome.org | B.Riley Sober House
+      - Anthony Coffman | marilynk@brileysoberhome.org | B.Riley Sober House
+
+   Duplicate group:
+      - Jabri Johnson | blong@cavs.com | Cleveland Cavaliers
+      - Jennifer Shepard | Blong@cavs.com | Cleveland Cavaliers
+
+
+6. SPECIAL CHARACTER ISSUES (93 found)
+   ----------------------------------------------------------------------------
+   Row 314 - Company: 'Cleveland State University - LGBTQ+ Student Services'
+   Row 315 - Company: 'Cleveland State University - LGBTQ+ Student Services'
+   Row 316 - Company: 'Cleveland State University - LGBTQ+ Student Services'
+   Row 317 - Company: 'Cleveland State University - LGBTQ+ Student Services'
+   Row 318 - Company: 'Cleveland State University - LGBTQ+ Student Services'
+   Row 333 - Company: 'Colors+ Counseling'
+   Row 334 - Company: 'Colors+ Counseling'
+   Row 335 - Company: 'Colors+ Youth Center'
+   Row 336 - Company: 'Colors+ Youth Center'
+   Row 337 - Company: 'Colors+ Youth Center'
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+• CRITICAL: Manually review and correct all invalid email addresses
+  These contacts cannot be reached via email campaigns
+• HIGH: Fill in missing data fields where possible
+  Complete records improve CRM functionality and targeting
+• HIGH: Review and merge duplicate contacts
+  Duplicates can cause confusion and inflate contact counts
+• LOW: Fix capitalization for professional appearance
+  The script has automatically corrected these in the fixed version
+• MEDIUM: Review special characters for data integrity
+  Some characters may cause issues in imports/exports
+
+================================================================================
+END OF REPORT
+================================================================================

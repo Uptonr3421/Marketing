@@ -1,0 +1,127 @@
+================================================================================
+DATA QUALITY - QUICK ACTION CHECKLIST
+================================================================================
+
+Use this checklist to track your progress on data quality improvements.
+
+================================================================================
+IMMEDIATE ACTIONS (Do Today)
+================================================================================
+
+[ ] 1. FIX INVALID EMAIL
+        Contact: Brendan Reynolds (JACK Entertainment)
+        Current: michaelo'brien@jackentertainment.com
+        Action: Verify and correct email format
+
+[ ] 2. DELETE TRUE DUPLICATE
+        Row 1669 & 1670: Steven Licciardi (Morgan Stanley)
+        Action: Keep one record, delete the other
+
+[ ] 3. FIX MISSING NAMES (5 critical cases)
+        Row 1511, 1514: daveryheart@metrohealth.org (MetroHealth)
+        Row 1489: dhamilton@lgbtcleveland.org (LGBT Center)
+        Row 1572, 1573: troybratz@kw.com (Name is: Troy Bratz)
+        Action: Research and add names
+
+================================================================================
+HIGH PRIORITY (This Week)
+================================================================================
+
+[ ] 4. RESOLVE DUPLICATE EMAIL GROUPS (Top 10)
+        Priority organizations to contact:
+        [ ] ArtsNow - Get emails for Harvir Kang & Kelsey McCabe
+        [ ] Cleveland Cavaliers - Jabri Johnson & Jennifer Shepard
+        [ ] Cleveland Sex Therapy - Elizabeth Day & Antalene Hunter
+        [ ] B. Frohman Imaging - Susan Bookshar & Katie Hills
+        [ ] B.Riley Sober House - 4 contacts, 2 email issues
+        [ ] Cuyahoga Community College - Johan Goosen
+        [ ] Greater Cleveland Partnership - Ruby Felton & Amber Keene
+        [ ] GLSEN NEO - KayLyn Garrett & Mark Berry
+        [ ] Harrison Latham - Michelle Fretwell & Father Alex
+        [ ] Oasis Counseling - Hunter Evans & Gulnar Feerasta
+
+[ ] 5. DECIDE ON MAC/MC CAPITALIZATION
+        Options:
+        [ ] A: Revert to original (recommended)
+        [ ] B: Apply standard Mac/Mc rule
+        [ ] C: Manual review each of 25 names
+
+================================================================================
+MEDIUM PRIORITY (Next 2 Weeks)
+================================================================================
+
+[ ] 6. COMPLETE REMAINING DUPLICATE EMAILS (12 more groups)
+        See DUPLICATE_CONTACTS_DETAILED.txt for full list
+
+[ ] 7. ADDRESS MISSING DATA
+        [ ] Identify high-value contacts with missing names
+        [ ] Research using LinkedIn, company sites, email signatures
+        [ ] Update CRM with complete information
+        Target: Reduce missing names from 611 to <100
+
+[ ] 8. REVIEW AND IMPORT FIXED DATA
+        [ ] Verify all critical issues resolved
+        [ ] Test import in staging environment
+        [ ] Backup original data
+        [ ] Import plexus_contacts_FIXED.csv
+
+================================================================================
+ONGOING IMPROVEMENTS (Next 30 Days)
+================================================================================
+
+[ ] 9. STANDARDIZE COMPANY NAMES
+        [ ] Review company name variations in report
+        [ ] Create master company name list
+        [ ] Update all variations to standard names
+
+[ ] 10. IMPLEMENT PREVENTION MEASURES
+        [ ] Add email validation in CRM
+        [ ] Make First Name & Last Name required fields
+        [ ] Add duplicate detection on entry
+        [ ] Create data entry style guide
+        [ ] Schedule monthly data quality audits
+
+================================================================================
+VERIFICATION
+================================================================================
+
+After completing fixes, re-run validation:
+    python3 data_quality_validator.py
+
+Target Metrics:
+[ ] Quality Score: 90+ (currently 79.15)
+[ ] Invalid Emails: 0 (currently 1)
+[ ] Missing Names: <100 (currently 611)
+[ ] Duplicates: 0 (currently 22 groups)
+
+================================================================================
+RESOURCES
+================================================================================
+
+Detailed Information:
+- EXECUTIVE_SUMMARY.md          - Start here for overview
+- FIXES_AND_MANUAL_REVIEW.md    - Complete issue breakdown
+- DUPLICATE_CONTACTS_DETAILED.txt - All duplicate groups
+- data_quality_report.txt        - Technical analysis
+- CAPITALIZATION_NOTE.txt        - Mac/Mc name issue
+
+Files to Use:
+- plexus_contacts_FIXED.csv      - Import this after fixes
+- data_quality_validator.py      - Re-run for verification
+
+================================================================================
+PROGRESS TRACKING
+================================================================================
+
+Current Quality Score: 79.15/100 (Grade C)
+
+After Immediate Actions:        Expected: ~80/100
+After High Priority Actions:    Expected: ~85/100
+After Medium Priority Actions:  Expected: ~90/100
+After Ongoing Improvements:     Expected: ~95/100 (Grade A)
+
+Started: ____________
+Last Updated: ____________
+Completed: ____________
+
+================================================================================

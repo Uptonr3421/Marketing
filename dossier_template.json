@@ -1,0 +1,184 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "title": "Contact Dossier Template",
+  "description": "Complete structure for a contact dossier based on CRM app patterns",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "company",
+    "email",
+    "role",
+    "tier",
+    "status",
+    "research",
+    "painPoints",
+    "linkedInMessage",
+    "emailMessage",
+    "activities"
+  ],
+  "properties": {
+    "id": {
+      "type": "number",
+      "description": "Unique identifier for the contact"
+    },
+    "name": {
+      "type": "string",
+      "description": "Full name of the contact",
+      "example": "Sarah Chen"
+    },
+    "company": {
+      "type": "string",
+      "description": "Company name where the contact works",
+      "example": "Adobe Acrobat"
+    },
+    "email": {
+      "type": "string",
+      "format": "email",
+      "description": "Primary email address for the contact",
+      "example": "cit46532@adobe.com"
+    },
+    "role": {
+      "type": "string",
+      "description": "Job title or role of the contact within their organization",
+      "example": "Director of Marketing"
+    },
+    "tier": {
+      "type": "number",
+      "enum": [1, 2, 3],
+      "description": "Priority tier (1 = highest priority, 3 = lowest priority)"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["active", "contacted", "prospect", "inactive"],
+      "description": "Current engagement status with the contact"
+    },
+    "research": {
+      "type": "string",
+      "description": "Comprehensive research about the company and contact, including recent news, company focus areas, and strategic initiatives. Should be 2-4 sentences providing context for outreach.",
+      "example": "Adobe Acrobat is a leading document management and PDF solutions company. They are focused on digital transformation and workflow automation. Recent company news indicates they are expanding their enterprise solutions division and investing heavily in AI-powered document processing."
+    },
+    "painPoints": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 6,
+      "items": {
+        "type": "string",
+        "description": "Specific business challenge or need the contact/company is facing"
+      },
+      "description": "Array of 3-6 specific pain points or business challenges the contact is facing",
+      "example": [
+        "Managing document workflows across distributed teams",
+        "Need for better integration with existing CRM systems",
+        "Seeking automation solutions for repetitive tasks",
+        "Looking to improve customer engagement through personalized communications"
+      ]
+    },
+    "linkedInMessage": {
+      "type": "string",
+      "description": "Personalized LinkedIn connection or outreach message (150-250 words). Should reference specific company initiatives, demonstrate value proposition, and include a clear call-to-action. Format: greeting, context/hook, value proposition, call-to-action, closing.",
+      "example": "Hi Sarah,\n\nI noticed Adobe Acrobat is expanding its enterprise solutions division. I've been working with similar companies in the document management space to streamline their workflow automation and CRM integration.\n\nWould love to share some insights on how we've helped companies reduce manual processes by 40% while improving customer engagement.\n\nAre you open to a brief conversation next week?\n\nBest regards"
+    },
+    "emailMessage": {
+      "type": "string",
+      "description": "Complete email outreach message including subject line (300-500 words). Should include: subject line, personalized greeting, context/research hook, bulleted value propositions, case study reference, clear call-to-action, professional closing. More detailed than LinkedIn message.",
+      "example": "Subject: Streamlining Document Workflows at Adobe Acrobat\n\nHi Sarah,\n\nI hope this email finds you well. I've been following Adobe Acrobat's recent expansion in enterprise solutions and am impressed by your focus on AI-powered document processing.\n\nI work with companies in the document management space to optimize their workflow automation and CRM integration. We've helped similar organizations:\n\n• Reduce manual document processing by 40%\n• Improve cross-team collaboration efficiency\n• Enhance customer engagement through personalized communications\n• Seamlessly integrate with existing CRM systems\n\nI'd love to share some specific case studies that might be relevant to Adobe Acrobat's current initiatives.\n\nWould you be available for a 15-minute call next week?\n\nBest regards"
+    },
+    "activities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "type", "content", "date", "user"],
+        "properties": {
+          "id": {
+            "type": "number",
+            "description": "Unique identifier for the activity"
+          },
+          "type": {
+            "type": "string",
+            "enum": ["note", "email", "call", "meeting", "linkedin"],
+            "description": "Type of activity"
+          },
+          "content": {
+            "type": "string",
+            "description": "Description of the activity or note content"
+          },
+          "date": {
+            "type": "string",
+            "format": "date",
+            "description": "Date of the activity (YYYY-MM-DD format)"
+          },
+          "user": {
+            "type": "string",
+            "description": "Name of the user who created the activity or 'System' for automated entries"
+          }
+        }
+      },
+      "description": "Chronological log of all interactions and activities with the contact",
+      "example": [
+        {
+          "id": 1,
+          "type": "note",
+          "content": "Initial outreach sent via LinkedIn",
+          "date": "2025-11-01",
+          "user": "John Smith"
+        },
+        {
+          "id": 2,
+          "type": "email",
+          "content": "Follow-up email sent with case studies",
+          "date": "2025-11-02",
+          "user": "John Smith"
+        }
+      ]
+    }
+  },
+  "example": {
+    "id": 1,
+    "name": "Sarah Chen",
+    "company": "Adobe Acrobat",
+    "email": "cit46532@adobe.com",
+    "role": "Director of Marketing",
+    "tier": 1,
+    "status": "active",
+    "research": "Adobe Acrobat is a leading document management and PDF solutions company. They are focused on digital transformation and workflow automation. Recent company news indicates they are expanding their enterprise solutions division and investing heavily in AI-powered document processing.",
+    "painPoints": [
+      "Managing document workflows across distributed teams",
+      "Need for better integration with existing CRM systems",
+      "Seeking automation solutions for repetitive tasks",
+      "Looking to improve customer engagement through personalized communications"
+    ],
+    "linkedInMessage": "Hi Sarah,\n\nI noticed Adobe Acrobat is expanding its enterprise solutions division. I've been working with similar companies in the document management space to streamline their workflow automation and CRM integration.\n\nWould love to share some insights on how we've helped companies reduce manual processes by 40% while improving customer engagement.\n\nAre you open to a brief conversation next week?\n\nBest regards",
+    "emailMessage": "Subject: Streamlining Document Workflows at Adobe Acrobat\n\nHi Sarah,\n\nI hope this email finds you well. I've been following Adobe Acrobat's recent expansion in enterprise solutions and am impressed by your focus on AI-powered document processing.\n\nI work with companies in the document management space to optimize their workflow automation and CRM integration. We've helped similar organizations:\n\n• Reduce manual document processing by 40%\n• Improve cross-team collaboration efficiency\n• Enhance customer engagement through personalized communications\n• Seamlessly integrate with existing CRM systems\n\nI'd love to share some specific case studies that might be relevant to Adobe Acrobat's current initiatives.\n\nWould you be available for a 15-minute call next week?\n\nBest regards",
+    "activities": [
+      {
+        "id": 1,
+        "type": "note",
+        "content": "Initial outreach sent via LinkedIn",
+        "date": "2025-11-01",
+        "user": "John Smith"
+      },
+      {
+        "id": 2,
+        "type": "email",
+        "content": "Follow-up email sent with case studies",
+        "date": "2025-11-02",
+        "user": "John Smith"
+      },
+      {
+        "id": 3,
+        "type": "note",
+        "content": "Connection accepted on LinkedIn",
+        "date": "2025-11-03",
+        "user": "System"
+      },
+      {
+        "id": 4,
+        "type": "call",
+        "content": "Brief intro call scheduled for next week",
+        "date": "2025-11-04",
+        "user": "John Smith"
+      }
+    ]
+  }
+}

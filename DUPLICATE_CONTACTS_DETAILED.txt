@@ -1,0 +1,154 @@
+================================================================================
+DUPLICATE EMAIL ADDRESSES - PRIORITY ACTION LIST
+================================================================================
+
+TOTAL DUPLICATES: 22 unique emails shared by 44 contacts
+ACTION REQUIRED: Obtain individual email addresses for each person
+
+================================================================================
+CRITICAL: CONTACTS WITH COMPLETELY MISSING NAMES
+================================================================================
+
+These records have NO names - only email addresses. High priority to research:
+
+1. Row 1511 & 1514: daveryheart@metrohealth.org
+   Company: The MetroHealth System
+   → Research who these contacts are
+
+2. Row 1489: dhamilton@lgbtcleveland.org
+   Company: The LGBT Community Center of Greater Cleveland
+   → Get contact name
+
+3. Row 1572 & 1573: troybratz@kw.com
+   Company: Troy Bratz, REALTOR Keller Williams Elevate
+   → Clearly should be "Troy Bratz" - company name has the person's name
+
+================================================================================
+TRUE DUPLICATE: EXACT SAME PERSON ENTERED TWICE
+================================================================================
+
+Row 1669 & 1670: Steven Licciardi | steven.licciardi@morganstanley.com
+Company: Morgan Stanley
+→ ACTION: DELETE one of these records (true duplicate)
+
+================================================================================
+SHARED/ROLE-BASED EMAIL ADDRESSES
+================================================================================
+
+The following are legitimate business emails shared by multiple people.
+GET INDIVIDUAL EMAIL ADDRESSES for each person if possible:
+
+1. ArtsNow (nicole@artsnow.org)
+   - Row 90: Harvir Kang
+   - Row 92: Kelsey McCabe
+   → Contact company for individual emails
+
+2. B. Frohman Imaging (bobbi@bfimaging.com)
+   - Row 136: Susan Bookshar
+   - Row 137: Katie Hills
+   → Get individual emails or personal emails
+
+3. B.Riley Sober House (b.rileysoberhonestliving@gmail.com)
+   - Row 139: Ayron Evans
+   - Row 143: Yazmin Maldonado
+   → Request individual contact information
+
+4. B.Riley Sober House (marilynk@brileysoberhome.org)
+   - Row 145: Heidi Anthonsen
+   - Row 146: Anthony Coffman
+   → This appears to be Marilyn K's email - neither contact matches
+
+5. Cleveland Cavaliers (blong@cavs.com)
+   - Row 242: Jabri Johnson
+   - Row 243: Jennifer Shepard
+   → Contact HR for individual work emails
+
+6. Cleveland Sex Therapy (matt@clevelandsextherapy.com)
+   - Row 310: Elizabeth Day
+   - Row 312: Antalene Hunter
+   → This is Matt's email - get correct emails for Elizabeth & Antalene
+
+7. Cuyahoga Community College / Tri-C (toni.johnson@tri-c.edu)
+   - Row 385: Johan Goosen
+   - Row 1565: Toni Johnson
+   → This is Toni Johnson's email - get correct email for Johan Goosen
+
+8. Cuyahoga County BDD (yoo.christina@cuyahogabdd.org)
+   - Row 393: Jörg Kawert
+   - Row 407: Mechelle Montesclaros
+   → This is Christina Yoo's email - fix both contacts
+
+9. Denise Astorino/LGBT Center (dhamilton@lgbtcleveland.org)
+   - Row 438: Elise Kuklinca
+   - Row 1489: (no name)
+   → This is D. Hamilton's email - correct both records
+
+10. Geauga/Howling Print (ed@howlingforbusiness.com)
+    - Row 710: Lisa Jackman (Geauga SOGI Support Network)
+    - Row 834: Natalie Martin (Howling Print & Promo)
+    → Get correct emails for both
+
+11. GLSEN NEO (gary@glsennortheastohio.org)
+    - Row 732: KayLyn Garrett
+    - Row 733: Mark Berry
+    → This is Gary's email - get correct contacts
+
+12. Greater Cleveland Partnership (eriffle@greatercle.com)
+    - Row 746: Ruby Felton
+    - Row 757: Amber Keene
+    → This is E. Riffle's email - correct both
+
+13. Harrison Latham (aimee@harrisonlatham.com)
+    - Row 817: Michelle Fretwell
+    - Row 818: Father Alex
+    → This is Aimee's email - get correct contacts
+
+14. Kim Karbon Photography (kimkarbonphotography@gmail.com)
+    - Row 956: Hope Fierro
+    - Row 957: Connor Gail
+    → Get individual emails or confirm if business contacts
+
+15. LEMS Group (marialloyd@lemsgroup.net)
+    - Row 981: Zack Herdeson
+    - Row 983: Shannon Hunt
+    → This is Maria Lloyd's email - correct both
+
+16. Margie's Hope (treasurer@margieshope.org)
+    - Row 1027: Susan Kuilder
+    - Row 1028: Maria Flo
+    → Role-based email - determine who is treasurer or get individual emails
+
+17. Marigold Catering (j.r@marigoldcatering.com)
+    - Row 1033: Stephanie Swain
+    - Row 1037: Shawn Wolfe
+    → This appears to be J.R.'s email - correct both
+
+18. Northeast Ohio Regional Sewer (olmedaangelo@neorsd.org)
+    - Row 1137: Stephanie Heller
+    - Row 1146: Jordan Kachmarik
+    → This is Olmeda Angelo's email - correct both
+
+19. Oasis Counseling (kbussert@ocsohio.com)
+    - Row 1182: Hunter Evans
+    - Row 1183: Gulnar Feerasta
+    → This is K. Bussert's email - correct both
+
+================================================================================
+SUMMARY OF REQUIRED ACTIONS
+================================================================================
+
+IMMEDIATE:
+1. Fix 5 contacts with completely missing names
+2. Delete 1 true duplicate (Steven Licciardi)
+3. Correct 17 wrong email assignments (people assigned to other people's emails)
+
+HIGH PRIORITY:
+4. Contact 19 organizations to get individual email addresses
+5. Update all 44 affected contact records
+
+ESTIMATED IMPACT:
+- 44 contact records need correction
+- ~30-35 new individual email addresses needed
+- Will improve data quality score by ~5-7 points
+
+================================================================================

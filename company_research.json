@@ -1,0 +1,646 @@
+{
+  "FirstEnergy": {
+    "overview": "FirstEnergy is a major electric utility company serving customers across Ohio, Pennsylvania, and other states. As one of the largest investor-owned utilities in the US, they focus on reliable power transmission and distribution while navigating the energy transition.",
+    "industry": "Energy & Utilities",
+    "employee_count": "~13,000",
+    "revenue_scale": "$12B+ annual revenue",
+    "pain_points": [
+      "Grid modernization and infrastructure aging requiring massive capital investment",
+      "Regulatory compliance across multiple states with varying requirements",
+      "Integration of renewable energy sources into traditional grid systems",
+      "Customer service at scale with increasing expectations for digital experiences",
+      "Workforce management and safety protocols for field operations",
+      "Cybersecurity threats to critical infrastructure"
+    ],
+    "opportunities": [
+      "AI-powered predictive maintenance for grid infrastructure to prevent outages",
+      "Automated customer service chatbots for billing inquiries and outage reporting",
+      "Machine learning for demand forecasting and load balancing",
+      "Computer vision for drone-based infrastructure inspection",
+      "RPA for regulatory compliance reporting and documentation",
+      "Smart grid analytics for real-time monitoring and optimization"
+    ],
+    "outreach_strategy": "Position as infrastructure modernization partner focused on operational efficiency and customer experience enhancement. Lead with case studies from other utilities that achieved 30-40% reduction in outage response times through AI-powered grid monitoring. Emphasize ROI through reduced truck rolls and improved customer satisfaction scores."
+  },
+  "Diebold Nixdorf": {
+    "overview": "Global leader in banking and retail technology, providing ATMs, point-of-sale systems, and software solutions. Recently emerged from restructuring and focused on digital transformation and cloud-based services.",
+    "industry": "Financial Technology & Retail Solutions",
+    "employee_count": "~21,000",
+    "revenue_scale": "$3.5B+ annual revenue",
+    "pain_points": [
+      "Transformation from hardware-focused to software/services business model",
+      "Competition from fintech startups and mobile payment solutions",
+      "Legacy systems maintenance while developing next-gen products",
+      "Global supply chain complexity and component sourcing",
+      "Customer transition from on-premise to cloud solutions",
+      "Need for faster innovation cycles to compete with tech-native companies"
+    ],
+    "opportunities": [
+      "AI-powered fraud detection and transaction monitoring systems",
+      "Predictive maintenance for ATM fleet management reducing downtime",
+      "Natural language processing for customer support automation",
+      "Computer vision for enhanced security and facial recognition",
+      "Automated software testing and deployment pipelines (DevOps AI)",
+      "Machine learning for inventory optimization in retail solutions"
+    ],
+    "outreach_strategy": "Focus on accelerating their digital transformation journey. Highlight how AI/ML can differentiate their products in competitive market. Lead with innovation enablement - how automation can free engineering resources to focus on product development rather than maintenance. Target both internal operations and product enhancement opportunities."
+  },
+  "Greater Cleveland Regional Transit Authority": {
+    "overview": "RTA is the public transit agency serving Greater Cleveland, operating bus, light rail, and rapid transit services. Facing typical public transit challenges of ridership recovery post-pandemic and modernization needs.",
+    "industry": "Public Transportation",
+    "employee_count": "~2,000",
+    "revenue_scale": "$300M+ annual operating budget",
+    "pain_points": [
+      "Ridership recovery post-pandemic with changing commuter patterns",
+      "Aging fleet and infrastructure requiring capital investment",
+      "Driver shortage and workforce recruitment challenges",
+      "Real-time service reliability and schedule adherence",
+      "Public safety and security concerns on vehicles and at stations",
+      "Limited operational budget constraining service expansion"
+    ],
+    "opportunities": [
+      "AI-powered route optimization based on real-time demand patterns",
+      "Predictive maintenance for vehicles to reduce breakdowns and service disruptions",
+      "Automated passenger counting and crowding analysis",
+      "Computer vision for safety and security monitoring",
+      "Chatbot for trip planning and real-time service updates",
+      "Machine learning for workforce scheduling optimization"
+    ],
+    "outreach_strategy": "Emphasize cost savings and operational efficiency in budget-constrained environment. Focus on grant-eligible technology improvements (federal infrastructure funding). Lead with safety and reliability improvements that directly impact rider experience. Position as partner for smart city initiatives and data-driven decision making."
+  },
+  "Kent State LGBTQ+ Center": {
+    "overview": "Campus resource center dedicated to supporting LGBTQ+ students, faculty, and staff at Kent State University. Provides programming, advocacy, education, and safe space for the campus community.",
+    "industry": "Higher Education / Non-Profit",
+    "employee_count": "~10-20 staff",
+    "revenue_scale": "University-funded department",
+    "pain_points": [
+      "Limited staff resources to serve growing student population",
+      "Event planning and program coordination with manual processes",
+      "Outreach and communication across diverse campus community",
+      "Data collection and reporting for university administration",
+      "Tracking engagement and measuring program impact",
+      "Managing volunteer coordination and peer education programs"
+    ],
+    "opportunities": [
+      "Automated event registration and attendance tracking systems",
+      "AI-powered chatbot for 24/7 resource information and crisis support",
+      "Social media automation for consistent community engagement",
+      "CRM system for student outreach and follow-up",
+      "Automated survey distribution and sentiment analysis",
+      "Digital workflow automation for program applications and approvals"
+    ],
+    "outreach_strategy": "Focus on maximizing impact with limited resources. Emphasize tools that allow small team to serve more students effectively. Position as equity issue - ensuring all students have access to support regardless of staff availability. Highlight cost-effective solutions and potential for student success metrics improvement. Consider grant-funded or discounted pricing models."
+  },
+  "Avery Dennison": {
+    "overview": "Global materials science and manufacturing company specializing in labeling, packaging materials, and RFID solutions. Leading innovator in smart packaging and supply chain visibility technologies.",
+    "industry": "Materials Science & Manufacturing",
+    "employee_count": "~35,000",
+    "revenue_scale": "$9B+ annual revenue",
+    "pain_points": [
+      "Global supply chain complexity and raw material sourcing",
+      "Manufacturing quality control at scale across facilities",
+      "Innovation pipeline development for sustainable materials",
+      "Competition from low-cost manufacturers in commodity segments",
+      "Integration of IoT/RFID technologies into traditional product lines",
+      "Sustainability pressures and circular economy initiatives"
+    ],
+    "opportunities": [
+      "Computer vision for automated quality inspection on production lines",
+      "AI-powered demand forecasting and inventory optimization",
+      "Predictive maintenance for manufacturing equipment",
+      "Machine learning for new materials R&D and testing",
+      "RPA for order processing and supply chain documentation",
+      "NLP for customer insights analysis and trend detection"
+    ],
+    "outreach_strategy": "Position as Industry 4.0 enablement partner. Focus on quality improvement and waste reduction ROI. Highlight how AI can accelerate innovation cycles in materials development. Target both manufacturing operations efficiency and product innovation. Emphasize competitive advantage through data-driven decision making."
+  },
+  "American Greetings": {
+    "overview": "One of the world's largest greeting card companies, transforming from traditional cards to digital content, licensing, and celebrations platform. Competing with digital communication and seeking to remain relevant in evolving market.",
+    "industry": "Consumer Products & Entertainment",
+    "employee_count": "~3,000",
+    "revenue_scale": "$2B+ annual revenue",
+    "pain_points": [
+      "Declining physical card sales in digital communication age",
+      "Need for rapid content creation to stay culturally relevant",
+      "E-commerce and digital channel transformation",
+      "Personalization at scale for diverse customer segments",
+      "Supply chain and retail distribution optimization",
+      "Competition from digital-native platforms and social media"
+    ],
+    "opportunities": [
+      "AI-generated content and design assistance for faster card creation",
+      "Machine learning for trend prediction and cultural moment identification",
+      "Personalization engines for customized card recommendations",
+      "NLP for sentiment analysis of customer reviews and feedback",
+      "Automated social media content creation and scheduling",
+      "Computer vision for image search and design similarity matching"
+    ],
+    "outreach_strategy": "Focus on creative augmentation not replacement - AI as tool to empower designers. Emphasize speed to market for trending content and personalization at scale. Position as competitive differentiation in crowded market. Highlight successful case studies from other creative industries (music, publishing) using AI tools."
+  },
+  "The LGBT Community Center of Greater Cleveland": {
+    "overview": "Northeast Ohio's leading LGBTQ+ community center providing health services, support groups, advocacy, and community programming. Serves diverse population across greater Cleveland region.",
+    "industry": "Non-Profit / Community Services",
+    "employee_count": "~30-50 staff",
+    "revenue_scale": "$3M-5M annual budget",
+    "pain_points": [
+      "Limited staff and volunteer capacity vs. community needs",
+      "Donor management and fundraising efficiency",
+      "Program coordination across multiple service areas",
+      "Mental health and crisis support availability",
+      "Outreach to underserved populations and rural areas",
+      "Data collection for grant reporting and impact measurement"
+    ],
+    "opportunities": [
+      "AI chatbot for 24/7 resource information and initial support",
+      "Automated donor CRM and personalized communication",
+      "Social media automation for community engagement",
+      "Predictive analytics for fundraising campaign optimization",
+      "Automated appointment scheduling for health services",
+      "NLP for sentiment analysis of community feedback and needs assessment"
+    ],
+    "outreach_strategy": "Emphasize mission amplification - serving more people with same resources. Focus on donor engagement automation for sustainability. Position technology as accessibility tool - reaching people who can't visit in person. Highlight impact measurement for grant compliance. Explore subsidized or donated services model."
+  },
+  "Cleveland Cavaliers": {
+    "overview": "NBA franchise and entertainment company operating Rocket Mortgage FieldHouse. Part of larger Rock Entertainment Group portfolio. Focus on fan experience, premium seating sales, and year-round venue programming.",
+    "industry": "Sports & Entertainment",
+    "employee_count": "~300+ full-time, thousands part-time",
+    "revenue_scale": "$300M+ annual revenue",
+    "pain_points": [
+      "Fan engagement during off-season and between games",
+      "Premium ticket and suite sales in competitive corporate market",
+      "Personalized fan experience at scale during events",
+      "Concession and merchandise revenue optimization",
+      "Staffing and operational efficiency for game day operations",
+      "Competition for entertainment dollars from other venues and streaming"
+    ],
+    "opportunities": [
+      "AI-powered dynamic pricing for tickets and concessions",
+      "Personalized fan engagement and content recommendations",
+      "Computer vision for crowd analytics and flow optimization",
+      "Predictive analytics for sales forecasting and inventory management",
+      "Chatbot for ticket inquiries and customer service",
+      "Automated social media content creation and fan interaction"
+    ],
+    "outreach_strategy": "Focus on revenue optimization and fan experience differentiation. Emphasize proven ROI from other sports teams using AI (particularly dynamic pricing case studies). Target corporate partnerships and sponsorship activation opportunities. Position as competitive advantage in Cleveland sports market. Highlight game day operational efficiency and staff productivity gains."
+  },
+  "Westfield": {
+    "overview": "Major insurance company offering auto, home, business, and specialty insurance products. Focus on independent agent distribution channel and customer service excellence.",
+    "industry": "Insurance / Financial Services",
+    "employee_count": "~4,000",
+    "revenue_scale": "$5B+ in premiums",
+    "pain_points": [
+      "Claims processing speed and accuracy at scale",
+      "Fraud detection and investigation efficiency",
+      "Customer service response times and quality",
+      "Agent support and enablement in competitive market",
+      "Risk assessment accuracy for pricing optimization",
+      "Digital transformation while maintaining agent relationships"
+    ],
+    "opportunities": [
+      "AI-powered claims processing and damage assessment via photos",
+      "Machine learning for fraud detection and anomaly identification",
+      "Chatbots for policy inquiries and first notice of loss",
+      "Predictive analytics for risk assessment and pricing",
+      "Automated underwriting for standard policies",
+      "NLP for document processing and data extraction"
+    ],
+    "outreach_strategy": "Lead with claims transformation - faster resolution improves customer satisfaction and reduces costs. Emphasize fraud detection ROI with specific dollar impact. Position as agent enablement tools, not replacement. Highlight regulatory compliance and audit trail benefits. Focus on competitive positioning in insurance market where AI adoption is accelerating."
+  },
+  "Cuyahoga Community College": {
+    "overview": "Largest community college in Ohio, serving diverse student population across multiple campuses. Focus on workforce development, transfer pathways, and accessible education.",
+    "industry": "Higher Education",
+    "employee_count": "~2,000 staff/faculty",
+    "revenue_scale": "$300M+ annual budget",
+    "pain_points": [
+      "Student retention and completion rates below targets",
+      "Advising capacity insufficient for student population size",
+      "Administrative burden on faculty and staff",
+      "Financial aid and enrollment processes complexity",
+      "Career services and job placement support at scale",
+      "Budget constraints requiring operational efficiency"
+    ],
+    "opportunities": [
+      "AI-powered chatbot for 24/7 student advising and FAQs",
+      "Predictive analytics for at-risk student identification and intervention",
+      "Automated degree audit and graduation pathway planning",
+      "Personalized learning recommendations based on student data",
+      "RPA for financial aid processing and enrollment workflows",
+      "NLP for resume review and career guidance automation"
+    ],
+    "outreach_strategy": "Focus on student success metrics improvement - retention and completion directly tied to funding. Emphasize equity implications of scaled support services. Position as workforce development enhancement aligned with employer needs. Highlight cost savings from automation redirected to student services. Align with state higher education initiatives and potential grant funding."
+  },
+  "The MetroHealth System": {
+    "overview": "Cuyahoga County's public health system and Level I trauma center, serving diverse urban population. Recently completed major campus transformation. Focus on health equity and community health.",
+    "industry": "Healthcare",
+    "employee_count": "~8,000",
+    "revenue_scale": "$1.5B+ annual revenue",
+    "pain_points": [
+      "Staff burnout and workforce shortages post-pandemic",
+      "Patient access and appointment scheduling bottlenecks",
+      "Emergency department overcrowding and wait times",
+      "Population health management for underserved communities",
+      "Revenue cycle and billing complexity",
+      "Clinical documentation burden on providers"
+    ],
+    "opportunities": [
+      "AI-powered clinical documentation and ambient scribing",
+      "Predictive analytics for patient deterioration and readmission risk",
+      "Automated appointment scheduling and patient communication",
+      "Chatbot for symptom checking and care navigation",
+      "Machine learning for diagnostic imaging analysis support",
+      "RPA for prior authorization and insurance verification"
+    ],
+    "outreach_strategy": "Lead with provider burnout reduction - documentation automation gives time back to patient care. Emphasize health equity angle - AI tools democratizing access to specialist-level insights. Focus on operational efficiency in resource-constrained public hospital environment. Highlight quality metrics improvement and patient satisfaction gains. Position as innovation leader in Cleveland healthcare market."
+  },
+  "OverDrive": {
+    "overview": "Leading digital reading platform providing ebooks and audiobooks to libraries and schools worldwide. Part of library technology ecosystem enabling digital content access.",
+    "industry": "Education Technology / Digital Media",
+    "employee_count": "~500",
+    "revenue_scale": "$200M+ annual revenue",
+    "pain_points": [
+      "Library budget constraints limiting content acquisition",
+      "User discovery and recommendation in vast digital catalog",
+      "Competition from consumer platforms (Kindle, Audible)",
+      "Technical support for diverse user base (all ages, tech literacy levels)",
+      "Publisher relationships and licensing complexity",
+      "Platform performance and user experience optimization"
+    ],
+    "opportunities": [
+      "AI-powered book recommendations and personalized discovery",
+      "Machine learning for collection development and acquisition recommendations",
+      "Chatbot for user support and troubleshooting",
+      "NLP for improved search and content tagging",
+      "Predictive analytics for usage forecasting and license optimization",
+      "Automated content metadata enrichment and categorization"
+    ],
+    "outreach_strategy": "Focus on user engagement improvement - better discovery increases circulation and justifies library spending. Emphasize library partner enablement with data-driven collection decisions. Position as competitive differentiation vs consumer platforms. Highlight operational efficiency for support team. Target both internal operations and user-facing product enhancements."
+  },
+  "Destination Cleveland": {
+    "overview": "Convention and visitors bureau promoting Cleveland as tourism and meetings destination. Economic development organization focused on hospitality industry growth and city promotion.",
+    "industry": "Tourism & Economic Development",
+    "employee_count": "~50",
+    "revenue_scale": "$15M-20M annual budget",
+    "pain_points": [
+      "Competition from other Midwest cities for conventions and tourists",
+      "Limited staff to manage sales, marketing, and visitor services",
+      "Measuring tourism impact and ROI of promotional activities",
+      "Personalized visitor recommendations at scale",
+      "Hotel and attraction partner coordination",
+      "Content creation for diverse audience segments"
+    ],
+    "opportunities": [
+      "AI-powered personalized trip planning and itinerary generation",
+      "Chatbot for visitor inquiries and concierge services",
+      "Predictive analytics for convention booking probability",
+      "Automated social media content creation and scheduling",
+      "Machine learning for visitor segmentation and targeted marketing",
+      "NLP for sentiment analysis of visitor feedback and reviews"
+    ],
+    "outreach_strategy": "Focus on competitive positioning - technology as differentiator in convention sales process. Emphasize staff productivity with small team. Position visitor services automation as experience enhancement. Highlight measurable impact on hotel bookings and visitor spending. Target both B2B (convention sales) and B2C (tourist) opportunities."
+  },
+  "Cuyahoga County Public Library": {
+    "overview": "One of the busiest library systems in the country, serving suburban Cuyahoga County with 27 branches. Known for innovation and community engagement programs.",
+    "industry": "Public Libraries / Community Services",
+    "employee_count": "~900",
+    "revenue_scale": "$100M+ annual budget",
+    "pain_points": [
+      "Staff capacity to provide reference and technical assistance",
+      "Program registration and event management across 27 locations",
+      "Digital divide support and technology education",
+      "Collection management and purchasing decisions",
+      "Outreach to underserved populations",
+      "Demonstrating community value and impact for levy campaigns"
+    ],
+    "opportunities": [
+      "AI chatbot for reference questions and library services information",
+      "Automated program registration and waitlist management",
+      "Predictive analytics for collection development and weeding decisions",
+      "Personalized reading recommendations for patrons",
+      "RPA for interlibrary loan and cataloging workflows",
+      "Sentiment analysis for community needs assessment"
+    ],
+    "outreach_strategy": "Emphasize community impact amplification - serving more people with same resources. Focus on staff empowerment to focus on high-value interactions. Position as innovation leadership in library sector. Highlight improved patron experience metrics. Address equity implications of 24/7 automated services. Consider grant funding opportunities for technology initiatives."
+  },
+  "The J.M. Smucker Company": {
+    "overview": "Iconic American food company with portfolio including Jif, Folgers, Uncrustables, and pet food brands. Focus on brand building, innovation, and operational excellence in competitive CPG market.",
+    "industry": "Consumer Packaged Goods / Food Manufacturing",
+    "employee_count": "~8,000",
+    "revenue_scale": "$8B+ annual revenue",
+    "pain_points": [
+      "Consumer preference shifts toward health and sustainability",
+      "Retail consolidation and e-commerce disruption",
+      "Supply chain complexity and commodity price volatility",
+      "Manufacturing efficiency and quality control at scale",
+      "Innovation pipeline development and speed to market",
+      "Marketing ROI measurement across channels"
+    ],
+    "opportunities": [
+      "AI-powered demand sensing and inventory optimization",
+      "Computer vision for quality control in manufacturing",
+      "Machine learning for new product development and testing",
+      "Predictive maintenance for production equipment",
+      "NLP for consumer insights from social media and reviews",
+      "Automated trade promotion optimization and pricing"
+    ],
+    "outreach_strategy": "Focus on operational excellence and margin improvement in competitive market. Emphasize innovation acceleration for product development. Position as supply chain resilience enablement. Highlight sustainability benefits from waste reduction. Target both manufacturing operations and commercial/marketing functions. Leverage CPG industry case studies and benchmarks."
+  },
+  "Northwest Neighborhoods": {
+    "overview": "Community development corporation serving Cleveland's near west side neighborhoods. Focus on affordable housing, economic development, and community engagement.",
+    "industry": "Community Development / Non-Profit",
+    "employee_count": "~20-30",
+    "revenue_scale": "$5M-10M annual budget",
+    "pain_points": [
+      "Limited staff managing multiple development projects",
+      "Donor and funder relationship management",
+      "Community engagement and outreach capacity",
+      "Property management and tenant services",
+      "Grant reporting and compliance requirements",
+      "Impact measurement and data collection"
+    ],
+    "opportunities": [
+      "CRM automation for donor and community stakeholder management",
+      "RPA for grant reporting and financial documentation",
+      "Automated tenant communication and maintenance requests",
+      "GIS and predictive analytics for development opportunity identification",
+      "Social media automation for community engagement",
+      "Document processing for housing applications and approvals"
+    ],
+    "outreach_strategy": "Emphasize mission efficiency - more community impact with limited resources. Focus on administrative burden reduction freeing time for community work. Position as capacity building for small non-profit. Highlight improved grant compliance and reporting. Consider subsidized pricing or phased implementation. Align with community development financial institution (CDFI) priorities."
+  },
+  "Cleveland Public Library": {
+    "overview": "Urban library system serving City of Cleveland with Main Library downtown and neighborhood branches. Historical collections, maker spaces, and community programming.",
+    "industry": "Public Libraries / Community Services",
+    "employee_count": "~500",
+    "revenue_scale": "$60M+ annual budget",
+    "pain_points": [
+      "Serving diverse populations with varying needs and languages",
+      "Staff safety and security concerns in urban branches",
+      "Digital divide bridging and technology access",
+      "Limited staff for specialized reference and research services",
+      "Building maintenance and capital needs with constrained budget",
+      "Demonstrating value to justify public funding"
+    ],
+    "opportunities": [
+      "Multilingual AI chatbot for basic reference and library information",
+      "Automated language translation services for diverse patrons",
+      "Computer vision for building security monitoring",
+      "Predictive analytics for branch staffing optimization",
+      "Digitization workflows for special collections",
+      "Personalized program and resource recommendations"
+    ],
+    "outreach_strategy": "Focus on accessibility and equity - technology enabling service to all residents. Emphasize safety enhancements for staff and patrons. Position as digital inclusion enablement. Highlight special collections preservation and access. Address budget constraints with clear ROI. Target urban library-specific challenges with relevant solutions."
+  },
+  "Summa Health": {
+    "overview": "Integrated healthcare delivery system with hospitals, outpatient facilities, and physician network across Summit County. Recently combined with University Hospitals system.",
+    "industry": "Healthcare",
+    "employee_count": "~7,000",
+    "revenue_scale": "$1.2B+ annual revenue",
+    "pain_points": [
+      "System integration challenges post-merger with University Hospitals",
+      "Staff retention and recruiting in competitive market",
+      "Patient experience and satisfaction scores",
+      "Revenue cycle optimization and claim denials",
+      "Clinical documentation and coding accuracy",
+      "Population health management and value-based care"
+    ],
+    "opportunities": [
+      "AI-powered clinical documentation improvement and coding assistance",
+      "Predictive analytics for patient flow optimization",
+      "Automated prior authorization and insurance verification",
+      "Chatbot for appointment scheduling and wayfinding",
+      "Machine learning for sepsis prediction and clinical decision support",
+      "RPA for claims processing and denial management"
+    ],
+    "outreach_strategy": "Lead with integration enablement - technology smoothing system merger transitions. Focus on revenue cycle improvement with measurable ROI. Emphasize provider satisfaction through documentation burden reduction. Position quality metrics improvement for value-based care success. Highlight competitive positioning in Akron market. Address both clinical and operational opportunities."
+  },
+  "Cleveland Foundation": {
+    "overview": "One of the oldest and largest community foundations in the nation, managing endowments and distributing grants to improve lives in Greater Cleveland.",
+    "industry": "Philanthropy / Non-Profit",
+    "employee_count": "~100",
+    "revenue_scale": "$1B+ in assets, $100M+ grants annually",
+    "pain_points": [
+      "Grant evaluation and due diligence at scale",
+      "Donor relationship management and stewardship",
+      "Impact measurement and evaluation of funded initiatives",
+      "Knowledge management and institutional memory",
+      "Community needs assessment and trend identification",
+      "Operational efficiency for overhead management"
+    ],
+    "opportunities": [
+      "AI-powered grant application review and screening",
+      "Predictive analytics for identifying high-impact funding opportunities",
+      "NLP for analyzing program reports and extracting outcomes",
+      "CRM automation for donor engagement and personalization",
+      "Automated research synthesis for issue area deep dives",
+      "Machine learning for matching donors to causes and organizations"
+    ],
+    "outreach_strategy": "Focus on mission amplification - more rigorous analysis enabling better funding decisions. Emphasize donor experience enhancement for competitive positioning. Position as innovation leadership in philanthropy sector. Highlight impact measurement improvement for transparency. Address foundation overhead concerns with efficiency gains. Target both grantmaking and fund development operations."
+  },
+  "The Goodyear Tire & Rubber Company": {
+    "overview": "Global tire manufacturer and one of world's largest tire companies, with operations in manufacturing, retail, and services. Akron headquarters with worldwide footprint.",
+    "industry": "Manufacturing / Automotive",
+    "employee_count": "~70,000 globally",
+    "revenue_scale": "$17B+ annual revenue",
+    "pain_points": [
+      "Raw material cost volatility and supply chain complexity",
+      "Manufacturing quality and yield optimization",
+      "Competition from Asian tire manufacturers",
+      "Transition to electric vehicle tire requirements",
+      "Connected tire and mobility services development",
+      "Retail network optimization and customer experience"
+    ],
+    "opportunities": [
+      "Computer vision for automated tire inspection and quality control",
+      "AI-powered predictive maintenance for manufacturing equipment",
+      "Machine learning for compound formulation and R&D acceleration",
+      "Demand forecasting and inventory optimization across global network",
+      "IoT and AI for connected tire data analytics",
+      "RPA for supply chain documentation and compliance"
+    ],
+    "outreach_strategy": "Position as Industry 4.0 transformation enabler for legacy manufacturer. Focus on quality improvement and waste reduction ROI. Emphasize innovation acceleration for EV and connected mobility markets. Target both manufacturing operations and product development. Highlight competitive positioning against lower-cost manufacturers through technology. Leverage automotive industry trends and benchmarks."
+  },
+  "Huntington Bank": {
+    "overview": "Regional bank with significant Ohio presence, offering consumer and commercial banking, wealth management, and insurance. Known for customer service focus and community involvement.",
+    "industry": "Financial Services / Banking",
+    "employee_count": "~20,000",
+    "revenue_scale": "$7B+ annual revenue",
+    "pain_points": [
+      "Digital banking competition from fintechs and national banks",
+      "Branch optimization and workforce transformation",
+      "Customer service efficiency across channels",
+      "Fraud detection and cybersecurity threats",
+      "Loan underwriting speed and accuracy",
+      "Regulatory compliance and risk management"
+    ],
+    "opportunities": [
+      "AI-powered chatbot for customer service and banking transactions",
+      "Machine learning for fraud detection and anomaly monitoring",
+      "Automated loan underwriting and credit decisioning",
+      "Predictive analytics for customer churn and retention",
+      "RPA for KYC/AML compliance and documentation",
+      "NLP for analyzing earnings calls and commercial credit risk"
+    ],
+    "outreach_strategy": "Lead with customer experience differentiation in competitive market. Focus on operational efficiency and cost-to-income ratio improvement. Emphasize fraud prevention ROI with specific savings examples. Position as enabling branch transformation and banker productivity. Highlight regulatory compliance benefits. Target both retail and commercial banking operations. Align with regional bank technology initiatives."
+  },
+  "Cuyahoga County Board of Developmental Disabilities": {
+    "overview": "County agency providing services and supports to individuals with developmental disabilities, including early intervention, employment, and residential services.",
+    "industry": "Public Service / Healthcare",
+    "employee_count": "~1,500",
+    "revenue_scale": "$300M+ annual budget",
+    "pain_points": [
+      "Service coordination complexity for individual support plans",
+      "Staff scheduling and workforce management",
+      "Regulatory compliance and documentation requirements",
+      "Family and caregiver communication and support",
+      "Employment services and job matching for clients",
+      "Budget constraints with growing service demand"
+    ],
+    "opportunities": [
+      "AI-powered service plan development and care coordination",
+      "Automated scheduling optimization for staff and client appointments",
+      "RPA for compliance documentation and reporting",
+      "Chatbot for family resources and information",
+      "Machine learning for job matching and employment placement",
+      "Predictive analytics for crisis prevention and intervention"
+    ],
+    "outreach_strategy": "Emphasize person-centered care enhancement through better coordination. Focus on compliance burden reduction for staff. Position as capacity building to serve more people with same resources. Highlight family support improvements and communication. Address workforce challenges with scheduling efficiency. Align with state developmental disabilities initiatives and potential funding sources."
+  },
+  "Northeast Ohio Regional Sewer District": {
+    "overview": "Public utility managing wastewater treatment and stormwater systems for Greater Cleveland area. Focus on water quality, infrastructure maintenance, and environmental protection.",
+    "industry": "Public Utilities / Environmental Services",
+    "employee_count": "~1,000",
+    "revenue_scale": "$500M+ annual budget",
+    "pain_points": [
+      "Aging infrastructure requiring rehabilitation and replacement",
+      "Combined sewer overflow management and EPA compliance",
+      "Asset management across vast underground network",
+      "Emergency response and system reliability",
+      "Capital project planning and prioritization",
+      "Public education and customer service"
+    ],
+    "opportunities": [
+      "Predictive maintenance using AI to prevent system failures",
+      "Computer vision for sewer inspection video analysis",
+      "Machine learning for flow prediction and capacity management",
+      "GIS analytics for capital project prioritization",
+      "Automated customer inquiry response and outage notifications",
+      "Sensor data analytics for real-time system monitoring"
+    ],
+    "outreach_strategy": "Lead with infrastructure resilience and failure prevention. Focus on regulatory compliance and consent decree requirements. Emphasize ROI through avoided emergency repairs and system failures. Position as smart utility transformation enabler. Highlight environmental protection outcomes. Target asset management and operations optimization. Align with federal infrastructure funding opportunities."
+  },
+  "Medical Mutual": {
+    "overview": "Ohio's largest health insurance company with over 1.6 million members, offering individual, group, and Medicare Advantage plans. Mutual company focused on member value.",
+    "industry": "Health Insurance",
+    "employee_count": "~2,000",
+    "revenue_scale": "$6B+ in premiums",
+    "pain_points": [
+      "Claims processing accuracy and speed expectations",
+      "Member service quality and call center efficiency",
+      "Provider network management and contracting",
+      "Healthcare cost management and utilization review",
+      "Medicare Stars rating improvement for MA plans",
+      "Regulatory compliance and reporting complexity"
+    ],
+    "opportunities": [
+      "AI-powered claims auto-adjudication and processing",
+      "Predictive analytics for care management and high-risk identification",
+      "Chatbot for member inquiries and benefits explanation",
+      "Machine learning for fraud, waste, and abuse detection",
+      "Automated prior authorization and medical necessity review",
+      "NLP for clinical documentation analysis and coding"
+    ],
+    "outreach_strategy": "Focus on member experience improvement and NPS gains. Lead with claims processing efficiency and cost reduction. Emphasize care management effectiveness for health outcomes. Position as Stars rating enhancement for Medicare business. Highlight provider satisfaction through faster responses. Target both member-facing and back-office operations. Leverage health insurance AI adoption trends."
+  },
+  "Greater Cleveland Partnership": {
+    "overview": "Regional chamber of commerce and economic development organization representing business community. Focus on business growth, talent attraction, and economic competitiveness.",
+    "industry": "Economic Development / Business Association",
+    "employee_count": "~80",
+    "revenue_scale": "$15M-20M annual budget",
+    "pain_points": [
+      "Member engagement and value demonstration",
+      "Event planning and coordination across multiple initiatives",
+      "Business attraction and retention data-driven decision making",
+      "Workforce development and talent pipeline advocacy",
+      "Limited staff managing diverse programming",
+      "Policy research and position development"
+    ],
+    "opportunities": [
+      "CRM automation for member engagement and personalization",
+      "AI-powered business intelligence for economic development targeting",
+      "Automated event registration and management",
+      "NLP for policy research synthesis and analysis",
+      "Predictive analytics for membership retention and growth",
+      "Social media automation for business community communication"
+    ],
+    "outreach_strategy": "Focus on member value enhancement through personalized engagement. Emphasize data-driven economic development strategy. Position as competitive intelligence for regional positioning. Highlight staff productivity with small team. Target both member services and economic development functions. Address chamber/EDO sector-specific needs and benchmarks."
+  },
+  "PNC Bank": {
+    "overview": "Major national bank with significant Cleveland presence, offering retail banking, corporate banking, and asset management. Technology-forward culture and innovation focus.",
+    "industry": "Financial Services / Banking",
+    "employee_count": "~60,000 nationally",
+    "revenue_scale": "$20B+ annual revenue",
+    "pain_points": [
+      "Digital banking competition and customer expectations",
+      "Branch network optimization and cost management",
+      "Fraud detection across multiple channels",
+      "Commercial lending efficiency and risk assessment",
+      "Customer service personalization at scale",
+      "Regulatory compliance and AML/KYC requirements"
+    ],
+    "opportunities": [
+      "Advanced AI chatbot for conversational banking",
+      "Machine learning for fraud detection and transaction monitoring",
+      "Automated loan decisioning and underwriting",
+      "Predictive analytics for customer needs and product recommendations",
+      "RPA for regulatory reporting and compliance",
+      "NLP for commercial credit analysis and risk assessment"
+    ],
+    "outreach_strategy": "Position as competitive differentiation in digital banking race. Focus on customer experience innovation and loyalty. Emphasize operational efficiency and productivity gains. Highlight fraud prevention and risk management sophistication. Target both retail and corporate banking operations. Leverage national bank technology adoption and innovation leadership positioning."
+  },
+  "Equality Ohio": {
+    "overview": "Statewide LGBTQ+ advocacy organization focused on policy change, education, and advancing equality through legislative and grassroots efforts.",
+    "industry": "Non-Profit / Advocacy",
+    "employee_count": "~15-20",
+    "revenue_scale": "$2M-3M annual budget",
+    "pain_points": [
+      "Limited staff managing statewide advocacy efforts",
+      "Grassroots mobilization and volunteer coordination",
+      "Donor relationship management and fundraising",
+      "Legislative tracking and policy analysis",
+      "Communications and media relations at scale",
+      "Coalition building and partner coordination"
+    ],
+    "opportunities": [
+      "CRM automation for donor and activist engagement",
+      "Automated legislative tracking and bill analysis alerts",
+      "Social media scheduling and grassroots mobilization tools",
+      "Predictive analytics for fundraising campaign optimization",
+      "RPA for grant reporting and compliance",
+      "NLP for media monitoring and sentiment analysis"
+    ],
+    "outreach_strategy": "Emphasize mission amplification with small staff. Focus on grassroots organizing efficiency and volunteer empowerment. Position as donor engagement enhancement for sustainability. Highlight rapid response capabilities for legislative action. Address advocacy sector-specific needs. Consider subsidized or donated services. Align with social justice technology initiatives."
+  },
+  "Playhouse Square": {
+    "overview": "Second-largest performing arts center in the US, presenting Broadway tours, resident companies, and special events. Economic driver for downtown Cleveland.",
+    "industry": "Arts & Culture / Entertainment",
+    "employee_count": "~200 full-time, many part-time",
+    "revenue_scale": "$60M+ annual revenue",
+    "pain_points": [
+      "Ticket sales optimization and dynamic pricing",
+      "Audience development and subscriber retention",
+      "Marketing personalization across diverse programming",
+      "Group sales and corporate partnerships",
+      "Operational efficiency for multiple venues",
+      "Competition for entertainment dollars post-pandemic"
+    ],
+    "opportunities": [
+      "AI-powered dynamic pricing and revenue optimization",
+      "Personalized marketing and show recommendations",
+      "Predictive analytics for sales forecasting and inventory management",
+      "Chatbot for ticket inquiries and concierge services",
+      "Automated group sales follow-up and coordination",
+      "Computer vision for audience analytics and venue optimization"
+    ],
+    "outreach_strategy": "Lead with revenue optimization through dynamic pricing and personalization. Focus on subscriber retention and lifetime value growth. Emphasize competitive positioning in entertainment market. Position as audience experience enhancement. Highlight operational efficiency across multiple venues. Target both earned and contributed revenue opportunities. Leverage performing arts sector case studies."
+  }
+}
