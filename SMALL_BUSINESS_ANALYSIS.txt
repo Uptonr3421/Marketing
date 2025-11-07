@@ -1,0 +1,1731 @@
+==========================================================================================
+PLEXUS CONTACTS CSV ANALYSIS - SMALL BUSINESS IDENTIFICATION
+==========================================================================================
+
+EXECUTIVE SUMMARY
+------------------------------------------------------------------------------------------
+Total Contacts in Database:        1,676
+Total Unique Companies:            375
+
+CATEGORIZATION BREAKDOWN:
+  Large Corporations:                64 contacts (  3.8%)
+  Non-Profit Organizations:         201 contacts ( 12.0%)
+  Small/Medium Businesses:         1411 contacts ( 84.2%)
+
+Unique Small Business Companies:  339
+
+INDUSTRY DISTRIBUTION (Small Businesses)
+------------------------------------------------------------------------------------------
+Other Services                 : 238 companies ( 70.2%)
+Technology                     :  34 companies ( 10.0%)
+Healthcare Services            :  14 companies (  4.1%)
+Consulting/Coaching            :  12 companies (  3.5%)
+Marketing/Design               :  11 companies (  3.2%)
+Legal Services                 :   8 companies (  2.4%)
+Beauty/Personal Care           :   5 companies (  1.5%)
+Automotive                     :   4 companies (  1.2%)
+Real Estate                    :   4 companies (  1.2%)
+Insurance                      :   3 companies (  0.9%)
+Food & Beverage                :   3 companies (  0.9%)
+Education/Training             :   1 companies (  0.3%)
+Accounting/Finance             :   1 companies (  0.3%)
+Retail                         :   1 companies (  0.3%)
+
+==========================================================================================
+COMPLETE LIST OF SMALL BUSINESS COMPANIES (SORTED ALPHABETICALLY)
+==========================================================================================
+
+1. A Taste of Excellence
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: rschwieterman@taste-food.com
+
+2. AFox Solutions
+   Industry: Other Services
+   Contact: Steve Arrington
+   Email: ledgington@americanbus.com
+
+3. AURA Venue CLE LLC
+   Industry: Other Services
+   Contact: Alicia Procello
+   Email: hello@auravenuecle.com
+
+4. AfterMath
+   Industry: Other Services
+   Contact: Jodi Henderson-Ross
+   Email: mmccallum@teamaftermath.com
+
+5. Akron AIDS Collaborative
+   Industry: Other Services
+   Contact: Keith Munnerlyn
+   Email: stan1727@gmail.com
+
+6. Akron Pride Custom Tees
+   Industry: Other Services
+   Contact: Akron Public
+   Email: akronpridecustomtees@outlook.com
+
+7. Akron Pride Festival
+   Industry: Other Services
+   Contact: Erin Simonetti
+   Email: info@akronpridefestival.org
+
+8. Akron Soul Train
+   Industry: Other Services
+   Contact: Denaira Campbell
+   Email: Nancy@akronsoultrain.org
+
+9. Allison L. Harrison Law, LLC
+   Industry: Legal Services
+   Contact: Kathy Dow
+   Email: aharrison@alharrisonlaw.com
+
+10. Art by Ali Cleveland
+   Industry: Other Services
+   Contact: Mykel Fisher
+   Email: ArtbyAliCleveland@yahoo.com
+
+11. Art of Sucre
+   Industry: Other Services
+   Contact: Amanda Gallitto
+   Email: hello@artofsucre.com
+
+12. ArtsNow
+   Industry: Other Services
+   Contact: Harvir Kang
+   Email: nicole@artsnow.org
+
+13. Assembly for the Arts
+   Industry: Other Services
+   Contact: Charli Montesino
+   Email: jeremy@assemblycle.org
+
+14. AuF Drug Testing Services
+   Industry: Other Services
+   Contact: Kristina Olson
+   Email: mainoffice@aufdrugtesting.com
+
+15. Avery Dennison
+   Industry: Other Services
+   Contact: Chelsea Sasse
+   Email: megan.shaffer@averydennison.com
+
+16. Axuall
+   Industry: Other Services
+   Contact: Lauranne Scharf
+   Email: hr@axuall.com
+
+17. Azimuth Medical LLC
+   Industry: Healthcare Services
+   Contact: Lisa Weitzman
+   Email: pete@azimuthmedical.com
+
+18. B. Frohman Imaging and Design
+   Industry: Marketing/Design
+   Contact: Susan Bookshar
+   Email: bobbi@BFimaging.com
+
+19. B.Riley Sober House
+   Industry: Other Services
+   Contact: Ayron Evans
+   Email: b.rileysoberhonestliving@gmail.com
+
+20. BE YOU Brands
+   Industry: Other Services
+   Contact: LarKesha Burns
+   Email: BEYOUbrands@americanbus.com
+
+21. Baldwin Wallace LGBT Center
+   Industry: Other Services
+   Contact: Allen Loew
+   Email: lgbt@bw.edu
+
+22. Bamboo Birth
+   Industry: Other Services
+   Contact: Mary Ann
+   Email: Kristen@bamboo-birth.com
+
+23. Beachland Ballroom
+   Industry: Other Services
+   Contact: Megan LaConte
+   Email: cindy@beachlandballroom.com
+
+24. Beck Center for the Arts
+   Industry: Other Services
+   Contact: Justin Lepley
+   Email: jgilliland@beckcenter.org
+
+25. Bellman & Associates, LLC
+   Industry: Other Services
+   Contact: Beth Laurel
+   Email: Lori@MedicareWithLori.com
+
+26. Benjamin Rose
+   Industry: Other Services
+   Contact: Mailey Lorio
+   Email: info@benrose.org
+
+27. Better Business Bureau
+   Industry: Other Services
+   Contact: Darnell Mosses
+   Email: pam@cleveland.bbb.org
+
+28. Big Creek Massotherapy
+   Industry: Healthcare Services
+   Contact: Joni Allen
+   Email: anthony@bigcreekmassotherapy.com
+
+29. Birdtown Strength
+   Industry: Other Services
+   Contact: Hannah Brisson
+   Email: jillian@birdtownstrength.com
+
+30. Black Transmen of Ohio - BTMOhio
+   Industry: Other Services
+   Contact: Marcia Butts
+   Email: info@btmohio.org
+
+31. Blurred Lines Beauty
+   Industry: Beauty/Personal Care
+   Contact: Hansen Coseo
+   Email: blurredlinesbeauty20@gmail.com
+
+32. BorderLight Fringe Festival
+   Industry: Other Services
+   Contact: Cate Crouch
+   Email: info@borderlightcle.org
+
+33. Bosco Consulting, LLC
+   Industry: Consulting/Coaching
+   Contact: Brittany Long
+   Email: jennifer@boscoconsulting.org
+
+34. Boss K9
+   Industry: Other Services
+   Contact: Sean Morgan
+   Email: contact@bossk9cle.com
+
+35. BottleHouse Brewing Company
+   Industry: Other Services
+   Contact: Joanna Radov
+   Email: brianbenchek@gmail.com
+
+36. Brewnuts
+   Industry: Other Services
+   Contact: Michelle Rock
+   Email: brewnutscle@gmail.com
+
+37. Bridgestone Americas, Inc.
+   Industry: Other Services
+   Contact: Carol Routt
+   Email: perryheidi@bfusa.com
+
+38. Burten, Bell, Carr Development, Inc.
+   Industry: Technology
+   Contact: Lucy Veres
+   Email: lburns@bbcdevelopment.org
+
+39. CANAPI
+   Industry: Other Services
+   Contact: Nichole Collins
+   Email: info@canapi.org
+
+40. COSE
+   Industry: Other Services
+   Contact: Rhea Doria
+   Email: mkim@cose.org
+
+41. COSE Council of Small Enterprises
+   Industry: Other Services
+   Contact: Anson Hall
+   Email: info@cose.org
+
+42. CPR Trends
+   Industry: Other Services
+   Contact: Mrs. Shannon
+   Email: melindacook@cprtrends.com
+
+43. CWRU AIDS Clinical Trials Unit
+   Industry: Healthcare Services
+   Contact: Radoslav Tokarcik
+   Email: info@case.edu
+
+44. Call Management Resources
+   Industry: Other Services
+   Contact: Celena Zevnik
+   Email: mriggle@cmrinc.com
+
+45. Camp Lilac
+   Industry: Other Services
+   Contact: Allison Baker
+   Email: info@camplilac.org
+
+46. Candid
+   Industry: Other Services
+   Contact: Leta Obertacz
+   Email: brian.schultz@candid.org
+
+47. Carve Your Own Path, Inc.
+   Industry: Automotive
+   Contact: Brittany Schultz
+   Email: amanda@cyopinc.org
+
+48. Catharsis Counseling CLE, LLC
+   Industry: Other Services
+   Contact: Todd Robinson
+   Email: Kaleigh@CatharsisCLE.com
+
+49. Cilantro Taqueria
+   Industry: Other Services
+   Contact: Kate Rose
+   Email: tacoscilantro@gmail.com
+
+50. City Goods
+   Industry: Technology
+   Contact: Brad Speck
+   Email: LPainter@OhioCity.org
+
+51. City of Akron
+   Industry: Technology
+   Contact: Issa Vybe
+   Email: smarsh@akronohio.gov
+
+52. Claw
+   Industry: Legal Services
+   Contact: Lisa Held
+   Email: Tim.k@clawinfo.org
+
+53. Clean Eatz - Cuyahoga Falls
+   Industry: Other Services
+   Contact: Forest Indra
+   Email: Cfalls@cleaneatz.com
+
+54. Cleveland Cavaliers
+   Industry: Other Services
+   Contact: Rachel Irizarry
+   Email: contactus@cavs.com
+
+55. Cleveland Massotherapy
+   Industry: Healthcare Services
+   Contact: Gina Messina
+   Email: bookings@clevelandmassotherapy.com
+
+56. Cleveland Pride Band
+   Industry: Other Services
+   Contact: Brynn Popa
+   Email: info@clevelandprideband.org
+
+57. Cleveland Public Theatre
+   Industry: Other Services
+   Contact: Scott Latiolais
+   Email: engagement@cptonline.org
+
+58. Cleveland SHRM
+   Industry: Other Services
+   Contact: Quincy Jones
+   Email: admin@clevelandshrm.com
+
+59. Cleveland Sex & Intimacy Counseling
+   Industry: Other Services
+   Contact: Brian Steele
+   Email: admin@clesexandintimacycounseling.com
+
+60. Cleveland Sex Therapy
+   Industry: Healthcare Services
+   Contact: Elizabeth Day
+   Email: matt@clevelandsextherapy.com
+
+61. Cleveland Stonewall Democrats
+   Industry: Other Services
+   Contact: Ky Theophanous
+   Email: president@clevelandstonewalldems.org
+
+62. Cleveland Therapy Group
+   Industry: Healthcare Services
+   Contact: Christina Yoo
+   Email: Info@clevelandtherapygroup.com
+
+63. Cleveland Votes
+   Industry: Other Services
+   Contact: Wendy Bartlett
+   Email: info@clevotes.com
+
+64. Clever Girl Marketing
+   Industry: Marketing/Design
+   Contact: Jessica Brown
+   Email: heather@clevergirlmarketing.com
+
+65. Cloak & Dagger
+   Industry: Other Services
+   Contact: Ty Bruening
+   Email: info@cloakanddaggercle.com
+
+66. Colors+ Counseling
+   Industry: Other Services
+   Contact: Traci Haynes
+   Email: admin@colorscounseling.org
+
+67. Colors+ Youth Center
+   Industry: Other Services
+   Contact: Jessica Kanelos
+   Email: info@colorsplus.org
+
+68. Community Partners Insurance Group, LLC
+   Industry: Technology
+   Contact: Donea Roddy
+   Email: jessica.mccoy@cpiginsurance.com
+
+69. Compass Policy Strategies, LLC
+   Industry: Other Services
+   Contact: Bryanta Spencer
+   Email: kaiser@compasspolicy.com
+
+70. Conservancy for Cuyahoga Valley National Park
+   Industry: Other Services
+   Contact: Hillary Walker
+   Email: info@forcvnp.org
+
+71. Cook Insurance Group
+   Industry: Insurance
+   Contact: Isaiah Barnett
+   Email: rod@cookinsurance.cc
+
+72. Cory Electronics
+   Industry: Other Services
+   Contact: Courtni Began
+   Email: sales@coryelectronics.com
+
+73. County of Summit Alcohol, Drug Addiction and Mental Health Services Board
+   Industry: Healthcare Services
+   Contact: Lexi Hotchkiss
+   Email: adm@admboard.org
+
+74. County of Summit Executive's Office
+   Industry: Technology
+   Contact: Michael LaGuardia
+   Email: celrad@summitoh.net
+
+75. Crack Corn Ltd.
+   Industry: Other Services
+   Contact: Kara Wyrock
+   Email: james@crackcorn.com
+
+76. Creative Solutions Counseling
+   Industry: Marketing/Design
+   Contact: Viraj Bhatt
+   Email: allisontpetty@gmail.com
+
+77. Crowbar
+   Industry: Food & Beverage
+   Contact: David Bingle
+   Email: austin@crowbar.club
+
+78. Cuyahoga County Board of Developmental Disabilities
+   Industry: Technology
+   Contact: Jörg Kawert
+   Email: Yoo.Christina@Cuyahogabdd.org
+
+79. DANCECleveland
+   Industry: Other Services
+   Contact: Devon Watson
+   Email: tremick@dancecleveland.org
+
+80. DJ Nick Duve
+   Industry: Other Services
+   Contact: Tangela Hogue
+   Email: nick@djnickduve.com
+
+81. DJM Consulting
+   Industry: Consulting/Coaching
+   Contact: Faryl Hoover
+   Email: dj.matheny18@gmail.com
+
+82. DMS, Diversity Management Solutions
+   Industry: Technology
+   Contact: Frank Hurley
+   Email: donna@diversitymanagementsolutions.com
+
+83. Dale Dong Photography
+   Industry: Other Services
+   Contact: Adam Wasilczuk
+   Email: daledongphoto@gmail.com
+
+84. Daniel McGuire
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: dmcguirenyc@gmail.com
+
+85. Declutter with Devon LLC
+   Industry: Technology
+   Contact: Mariah Burkes
+   Email: devon.fegen@gmail.com
+
+86. Denise Astorino - Realtor - Howard Hanna
+   Industry: Real Estate
+   Contact: Lena Chapin
+   Email: deniseastorino@howardhanna.com
+
+87. Destination Cleveland
+   Industry: Other Services
+   Contact: Nathan Motta
+   Email: hbelsito@destinationcle.org
+
+88. Dezfox, LLC
+   Industry: Other Services
+   Contact: Toya Jordan
+   Email: james@dezfox.com
+
+89. Diebold Nixdorf
+   Industry: Other Services
+   Contact: Jessica Middlebrook
+   Email: William.Auer@dieboldnixdorf.com
+
+90. Dixon Officiant Services
+   Industry: Other Services
+   Contact: Amanda Helinski
+   Email: dixonmichelle2011@yahoo.com
+
+91. Dobama Theatre
+   Industry: Other Services
+   Contact: Lynda Johnson
+   Email: edolan@dobama.org
+
+92. Dorian Gray Galleries
+   Industry: Other Services
+   Contact: Laurel Mesko
+   Email: DGrayGalleries@gmail.com
+
+93. DoubleTree by Hilton - Tudor Arms Hotel Cleveland
+   Industry: Other Services
+   Contact: Rebecca Miklos
+   Email: Anthony.Cannistra@hilton.com
+
+94. Douglass & Associates Co LPA
+   Industry: Other Services
+   Contact: Kathy Parker
+   Email: d.douglass@douglasslaw.com
+
+95. EDEN:Emerald Development & Economic Network
+   Industry: Technology
+   Contact: Guy Ryno
+   Email: edeninfo@edencle.org
+
+96. ERIEBANK
+   Industry: Other Services
+   Contact: Renee Martinez
+   Email: CustomerServiceCenter@ERIEBANK.bank
+
+97. Economic Community Development Institute (ECDI)
+   Industry: Technology
+   Contact: Amanda Richardson
+   Email: jdixon@ecdi.org
+
+98. Edward Jones - Gina Betti
+   Industry: Other Services
+   Contact: Christine Walker
+   Email: gina.betti@edwardjones.com
+
+99. Emma Parker Photography
+   Industry: Other Services
+   Contact: Lorna Wisham
+   Email: eparker.photo1@gmail.com
+
+100. En@ble Growth LLC
+   Industry: Other Services
+   Contact: Beth Castelucci
+   Email: steve@enablegrowth.consulting
+
+101. Energetic Awakenings
+   Industry: Other Services
+   Contact: Becky Cross
+   Email: david@energeticawakenings.com
+
+102. Engage! Cleveland
+   Industry: Other Services
+   Contact: Tom Diller
+   Email: Michael@engagecleveland.org
+
+103. Equality Ohio
+   Industry: Technology
+   Contact: Ronnie Hubbard
+   Email: info@equalityohio.org
+
+104. Equitas Health
+   Industry: Healthcare Services
+   Contact: Natalie Smith
+   Email: info@equitashealth.com
+
+105. Equius Group LLC
+   Industry: Other Services
+   Contact: Kim Busser
+   Email: erica@equiusgroup.biz
+
+106. Every Angle Photography
+   Industry: Other Services
+   Contact: Halee Gerenday
+   Email: everyangle@att.net
+
+107. Everybody Cycle
+   Industry: Other Services
+   Contact: Emily Lundgard
+   Email: nathan@everybodycycle.com
+
+108. FIT Technologies
+   Industry: Technology
+   Contact: Laura Christner
+   Email: info@FITtechnologies.com
+
+109. Facing History and Ourselves
+   Industry: Other Services
+   Contact: Anna Richards
+   Email: jessica_guerrieri@facinghistory.org
+
+110. Fairmount Insurance Services
+   Industry: Insurance
+   Contact: Sheri Shields
+   Email: steph.hronek@gmail.com
+
+111. Fairway Independent Mortgage Corp.
+   Industry: Other Services
+   Contact: Patrice Blakemore
+   Email: brian.gibson@fairwaymc.com
+
+112. First Federal Savings of Lorain
+   Industry: Other Services
+   Contact: Gina Cheverine
+   Email: drew.leon@fflorain.bank
+
+113. FirstEnergy
+   Industry: Other Services
+   Contact: Marco Grgurevic
+   Email: rfriess@firstenergycorp.com
+
+114. Food for Thought Catering
+   Industry: Other Services
+   Contact: Amy Patton
+   Email: bmatthew@foodforthought-ohio.com
+
+115. Fostering Hope
+   Industry: Other Services
+   Contact: Sean Richardson
+   Email: a.grassiamefia@fosteringhopeohio.org
+
+116. Full Color Printings
+   Industry: Other Services
+   Contact: Amanda Tarnovecky
+   Email: fullcolorprintings@gmail.com
+
+117. GAB INC.
+   Industry: Other Services
+   Contact: Fran Wahrman
+   Email: gabby@thegabinc.com
+
+118. GLSEN NEO
+   Industry: Other Services
+   Contact: Adam Flegal
+   Email: ktollafi@kent.edu
+
+119. Gay Mens Field Guide, LLC
+   Industry: Other Services
+   Contact: Kelly Davis
+   Email: contact@gaymensfieldguide.com
+
+120. Geauga SOGI Support Network
+   Industry: Other Services
+   Contact: Abbey Geib
+   Email: info@GeaugaSOGI.org
+
+121. Giant Eagle Inc
+   Industry: Other Services
+   Contact: Hannah Cessna
+   Email: renee.richardson@gianteagle.com
+
+122. Giardina Capital Management
+   Industry: Technology
+   Contact: Allen Scott
+   Email: miriam@giardinacapitalmanagement.com
+
+123. Gina Nicola Enterprises
+   Industry: Other Services
+   Contact: Lavinia Tighe
+   Email: gina@ginanicola.com
+
+124. Goodwill Industries of Greater Cleveland and East Central Ohio
+   Industry: Other Services
+   Contact: Daleelah Ali
+   Email: info@goodwillgoodskills.org
+
+125. Greater Akron Chamber
+   Industry: Other Services
+   Contact: Lizzie Bihari
+   Email: info@greaterakronchamber.org
+
+126. Greater Cleveland Partnership
+   Industry: Other Services
+   Contact: Ruby Felton
+   Email: eriffle@greatercle.com
+
+127. Greater Cleveland Regional Transit Authority
+   Industry: Technology
+   Contact: AJ Leu
+   Email: ismael.flores@gcrta.org
+
+128. Greene River Consulting
+   Industry: Consulting/Coaching
+   Contact: Brittny Reeves
+   Email: ara@greeneriverconsulting.com
+
+129. HOLISTIC LAKEWOOD
+   Industry: Other Services
+   Contact: Heather Malarcik
+   Email: admin@holisticlakewood.com
+
+130. Harrison Latham
+   Industry: Other Services
+   Contact: Michelle Fretwell
+   Email: aimee@harrisonlatham.com
+
+131. Haus of Transcendent
+   Industry: Other Services
+   Contact: Megan Baechle
+   Email: JLuke@hotcle.org
+
+132. Hearing Science
+   Industry: Other Services
+   Contact: Julie Cowan
+   Email: joe@hearsci.com
+
+133. Helene Can Help LLC
+   Industry: Other Services
+   Contact: Roy Bottiggi
+   Email: hscaniac@gmail.com
+
+134. Hispanic Business Center
+   Industry: Beauty/Personal Care
+   Contact: Lisa Wheller
+   Email: RCedeno@hbcenter.org
+
+135. Honesty for Ohio Education
+   Industry: Education/Training
+   Contact: Benjamin Burney
+   Email: info@honestyforohioeducation.org
+
+136. Howling Print & Promo
+   Industry: Other Services
+   Contact: Natalie Martin
+   Email: ed@howlingforbusiness.com
+
+137. Huntington Bank
+   Industry: Other Services
+   Contact: Karmel Moraco
+   Email: lola.white@huntington.com
+
+138. Hyland
+   Industry: Other Services
+   Contact: Alexandra Hoopes
+   Email: Courtney.Conn@Hyland.com
+
+139. INNATE ELECTRIC LLC
+   Industry: Other Services
+   Contact: T'Relle Smith
+   Email: innateelectric@gmail.com
+
+140. IVRL Inc.
+   Industry: Other Services
+   Contact: Perren Hedderson
+   Email: hello@ivrl.io
+
+141. In Carol's Care
+   Industry: Automotive
+   Contact: Kate Herman
+   Email: carol@incarolscare.com
+
+142. In Good Company
+   Industry: Other Services
+   Contact: Larry Booth
+   Email: ingoodcompanywithtess@gmail.com
+
+143. India Ink Tattoo Company
+   Industry: Other Services
+   Contact: Luis Cruz
+   Email: india@indiainked.com
+
+144. Its The Body For Me, Fitness
+   Industry: Technology
+   Contact: Amani Green
+   Email: tonyevansjr@yahoo.com
+
+145. JACK Entertainment
+   Industry: Other Services
+   Contact: Emily Hehnen
+   Email: jcl-socialmedia@jackentertainment.com
+
+146. JToth Creative / JToth Art
+   Industry: Marketing/Design
+   Contact: Larisa Catcott
+   Email: jason@jtoth.art
+
+147. Janus Small Associates
+   Industry: Other Services
+   Contact: Emily Schon
+   Email: jsmall@janussmallassociates.com
+
+148. Jason Thompson by Dream Vacations
+   Industry: Other Services
+   Contact: Stephanie Holmes
+   Email: Ja.fogarty@dreamvacations.com
+
+149. Jennifer Speer Design
+   Industry: Marketing/Design
+   Contact: Dawn Walcher
+   Email: jennifer@jenniferspeer.com
+
+150. Jilly's Music Room LLC
+   Industry: Other Services
+   Contact: Michelle Wilcox
+   Email: info@jillysmusicroom.com
+
+151. John Frank, MD Hair Clinics
+   Industry: Beauty/Personal Care
+   Contact: Sheyla Aviles
+   Email: johnfrankmd@bridgetgarner.com
+
+152. Jukebox
+   Industry: Other Services
+   Contact: John Conaway
+   Email: jukeboxcle@gmail.com
+
+153. JumpStart Inc.
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: Shanelle.Johnson@jumpstartinc.org
+
+154. Just ACTS LLC
+   Industry: Other Services
+   Contact: Sindy Lopez
+   Email: justacts21@gmail.com
+
+155. K A S A interiors Staging & Home Services
+   Industry: Other Services
+   Contact: Kyle Page
+   Email: karasellscle@gmail.com
+
+156. KW Design
+   Industry: Marketing/Design
+   Contact: Sandy Worona
+   Email: info@kwdesigncle.com
+
+157. Keerie Layne Creative
+   Industry: Marketing/Design
+   Contact: Tiffany Pendleton
+   Email: klaynecreative@gmail.com
+
+158. Keller Williams Living
+   Industry: Other Services
+   Contact: Jason Wheaton
+   Email: carlysablotnyrealtor@gmail.com
+
+159. Kendal at Home
+   Industry: Other Services
+   Contact: Kristin Loveless
+   Email: lpancio@kahome.kendal.org
+
+160. Kendall Communications, LLC
+   Industry: Other Services
+   Contact: Nikole Baringer
+   Email: kyle@kendallcommunications.net
+
+161. Kenneth Cameron LLC
+   Industry: Other Services
+   Contact: Cheryl Tarantino
+   Email: ken@selfmade.life
+
+162. Kent Area Chamber of Commerce
+   Industry: Other Services
+   Contact: Michelle Wolcott
+   Email: dcampbell@kentbiz.com
+
+163. Kent State LGBTQ+ Center
+   Industry: Other Services
+   Contact: Shawn Belt
+   Email: Dali1@kent.edu
+
+164. Kerns Roofing & Restoration
+   Industry: Other Services
+   Contact: Juan Collado
+   Email: dodgie.f@contractorindependence.com
+
+165. Kim Karbon Photography
+   Industry: Other Services
+   Contact: Hope Fierro
+   Email: KimKarbonPhotography@gmail.com
+
+166. Kindred Harbor Behavioral Health
+   Industry: Healthcare Services
+   Contact: Charles Kennick
+   Email: mhussein@kindredharbor.org
+
+167. King Nut Companies
+   Industry: Other Services
+   Contact: Maria Sharp
+   Email: jmkanan@kingnut.com
+
+168. Kingsville Lodge
+   Industry: Other Services
+   Contact: Jessica Timms
+   Email: kingsvillelodgerentals@gmail.com
+
+169. LDR Worldwide
+   Industry: Other Services
+   Contact: Sarah January
+   Email: plewis@ldrworldwide.com
+
+170. LGBTQ+ Allies Lake County
+   Industry: Other Services
+   Contact: Arwen Kathke
+   Email: info@lgbtlakecounty.com
+
+171. LGBTQ+ Lorain County
+   Industry: Other Services
+   Contact: Jess Sellers
+   Email: loraincountylgbtq@gmail.com
+
+172. LGBTQIA Coalition
+   Industry: Technology
+   Contact: Treva Offutt
+   Email: roybottiggi@gmail.com
+
+173. LOVEboldly
+   Industry: Other Services
+   Contact: Charles Grayer
+   Email: admin@loveboldly.net
+
+174. Lady Luck Studio LLC
+   Industry: Other Services
+   Contact: Brendan Zak
+   Email: hello@ladyluck.studio
+
+175. Lago Custom Events
+   Industry: Other Services
+   Contact: Deb Ward
+   Email: events@lagoeastbank.com
+
+176. Lasting Impressions Event Rental
+   Industry: Other Services
+   Contact: Denine Del
+   Email: jacob@lirents.net
+
+177. Lavender & Lace Event Rentals
+   Industry: Other Services
+   Contact: Mike Dresch
+   Email: rachel@lavenderandlacerentals.com
+
+178. Law Enforcement Management Solutions (LEMS)
+   Industry: Legal Services
+   Contact: Zack Herdeson
+   Email: marialloyd@lemsgroup.net
+
+179. Leasurely Crafts
+   Industry: Other Services
+   Contact: Samantha Mobley
+   Email: leasurelycrafts@gmail.com
+
+180. Left of Str8 Media and Consulting
+   Industry: Consulting/Coaching
+   Contact: Samantha Payne
+   Email: scott@leftofstr8.com
+
+181. Legal Aid Society of Cleveland
+   Industry: Legal Services
+   Contact: Carrie Protivnak
+   Email: rquarto@lasclev.org
+
+182. Leigh Bacho Photography LLC
+   Industry: Other Services
+   Contact: Paige Riggle
+   Email: lauren.bacho@gmail.com
+
+183. Lepley & Co
+   Industry: Other Services
+   Contact: Ms. Kandi
+   Email: lepleyandco@gmail.com
+
+184. Licursi Bartending & Event Management Services
+   Industry: Food & Beverage
+   Contact: Eva Rodgers
+   Email: Daryl@licursibartending.com
+
+185. Life Equity LLC
+   Industry: Technology
+   Contact: Logan Baez
+   Email: swillkomm@lifeequity.com
+
+186. Liminal Esports LLC dba Snowbright Studio
+   Industry: Other Services
+   Contact: Heather Dodig
+   Email: contact@snowbrightstudio.com
+
+187. Linear Creative LLC
+   Industry: Marketing/Design
+   Contact: Nicholas Dybo
+   Email: ray@linearcreative.com
+
+188. Little Rose Tavern
+   Industry: Technology
+   Contact: Brendan Foreman
+   Email: rks0076@yahoo.com
+
+189. Lorain County Chamber of Commerce
+   Industry: Other Services
+   Contact: Lisa Goss
+   Email: agallo@loraincountychamber.com
+
+190. Lowe Scott Fisher Co., LPA
+   Industry: Other Services
+   Contact: Gina McCarthy
+   Email: marketing@lsflaw.com
+
+191. MB Detailing
+   Industry: Other Services
+   Contact: Molly Vaughan
+   Email: molliebitting@gmail.com
+
+192. MDTX Logistics, LLC
+   Industry: Other Services
+   Contact: Dan Brennan
+   Email: mdtxlogistics@gmail.com
+
+193. MJB Immigration
+   Industry: Other Services
+   Contact: Chloe Wingard
+   Email: stacy@mjbimmigration.com
+
+194. MOD Network LLC
+   Industry: Other Services
+   Contact: Zac Boyer
+   Email: sbartlett@mod.network
+
+195. Main Street Kent
+   Industry: Other Services
+   Contact: Shane Scarbrough
+   Email: info@mainstreetkent.org
+
+196. Manic Pixie Dream Market
+   Industry: Other Services
+   Contact: Christopher Strnad
+   Email: morgan@midnightrainbow.com
+
+197. Margie's Hope
+   Industry: Other Services
+   Contact: Coleen Biehl
+   Email: President@margieshope.org
+
+198. Maria’s Permanent Hair Removal, LLC
+   Industry: Beauty/Personal Care
+   Contact: Sadé Sparks
+   Email: Mariashairremoval@yahoo.com
+
+199. Marigold Catering
+   Industry: Other Services
+   Contact: Stephanie Swain
+   Email: j.r@marigoldcatering.com
+
+200. Marissa Patsey LPCC
+   Industry: Other Services
+   Contact: Kristen Swinton
+   Email: marissa@marissapatsey.com
+
+201. Marquez Development
+   Industry: Technology
+   Contact: Mx. Max
+   Email: laceibacleveland@yahoo.com
+
+202. Masuda Law, LLC
+   Industry: Legal Services
+   Contact: Kim Fetty
+   Email: todd@masudalawllc.com
+
+203. Matt Rolf Attorney LLC
+   Industry: Legal Services
+   Contact: Ms. Christine
+   Email: m-rolf@mattrolfattorneyllc.com
+
+204. Mavuno of Ohio
+   Industry: Other Services
+   Contact: Keli Schimelpfenig
+   Email: jeane@mavunoofoh.com
+
+205. Medical Mobile of Ohio
+   Industry: Healthcare Services
+   Contact: William Crozier
+   Email: Dr.monica@medicalmobileohio.com
+
+206. Medical Mutual
+   Industry: Healthcare Services
+   Contact: Bryce Smetana
+   Email: maggie.cappello@medmutual.com
+
+207. Modern Real Estate Services LLC dba Modern Title
+   Industry: Real Estate
+   Contact: Kathy Crowe
+   Email: mike@moderntitleohio.com
+
+208. Mullen Insurance Solutions LLC
+   Industry: Insurance
+   Contact: Densil Porteous
+   Email: nate@mulleninsurancesolutions.com
+
+209. My Noble Path
+   Industry: Other Services
+   Contact: Joe Bass
+   Email: mercedes@mynoblepath.com
+
+210. NOAS
+   Industry: Other Services
+   Contact: Jerome Sheriff
+   Email: kevans@noas.com
+
+211. Nadas Law, LLC
+   Industry: Legal Services
+   Contact: Jason-David Evans
+   Email: tnadas@nadaslaw.com
+
+212. National Gay & Lesbian Chamber of Commerce (NGLCC)
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: accounting@nglcc.org
+
+213. Navigate Counseling and Consultation Services
+   Industry: Other Services
+   Contact: Karen Carson
+   Email: operations@navigatecounseling.org
+
+214. Near West Theatre
+   Industry: Other Services
+   Contact: Traci Kalpac
+   Email: info@nearwesttheatre.org
+
+215. Neighborhood Family Practice
+   Industry: Other Services
+   Contact: Dr. Katherine
+   Email: jcastellano@nfpmedcenter.org
+
+216. Next Level Therapy
+   Industry: Healthcare Services
+   Contact: Noelle Celeste
+   Email: Lisa@nextleveltherapy.net
+
+217. Nightsweats & T-cells
+   Industry: Other Services
+   Contact: Adam Crawford
+   Email: deegm@aol.com
+
+218. Nomz, LLC
+   Industry: Other Services
+   Contact: Mr. Wren
+   Email: info@nomzeatz.com
+
+219. North Coast Men's Chorus
+   Industry: Other Services
+   Contact: Ms. Quinn
+   Email: info@ncmchorus.org
+
+220. Northeast Ohio Regional Sewer District
+   Industry: Other Services
+   Contact: Stephanie Heller
+   Email: olmedaangelo@neorsd.org
+
+221. Northside Marketplace
+   Industry: Other Services
+   Contact: Tara Szilagyi
+   Email: akronnorthsidemarketplace@gmail.com
+
+222. Northwest Bank
+   Industry: Other Services
+   Contact: Stephanie Underwood
+   Email: Caren.Totleben@Northwest.com
+
+223. Northwest Neighborhoods
+   Industry: Other Services
+   Contact: Ray Collins
+   Email: bkentmarquez@nwneighborhoods.org
+
+224. Nueva Luz Urban Resource Center
+   Industry: Other Services
+   Contact: Wendy Bridges
+   Email: njrodas@nlurc.org
+
+225. O'Flanagan All-Purpose Services LLC
+   Industry: Other Services
+   Contact: Matthew Davidson
+   Email: jim@oapsie.com
+
+226. Oasis Counseling Solutions, LLC
+   Industry: Other Services
+   Contact: Sandy Deida
+   Email: admin@ocsohio.com
+
+227. Old Brooklyn Community Development Corporation
+   Industry: Technology
+   Contact: Mx. Daniel
+   Email: accounts@oldbrooklyn.com
+
+228. Old Stone Capital Partners LLC
+   Industry: Technology
+   Contact: Alex Schreck
+   Email: swillkomm@oldstonecapital.com
+
+229. Open Arms Adoptions
+   Industry: Other Services
+   Contact: Audrey Silvestro
+   Email: info@openarmsadopt.com
+
+230. Organizational Architecture, Inc.
+   Industry: Technology
+   Contact: Daija Averyheart
+   Email: markfiala@oahumanresources.com
+
+231. Oswald Companies
+   Industry: Other Services
+   Contact: Ramona Brazile
+   Email: oswaldpride@oswaldcompanies.com
+
+232. Out Fitness Collective
+   Industry: Technology
+   Contact: marcie Lambrix
+   Email: jj@jjfit.pro
+
+233. OverDrive
+   Industry: Other Services
+   Contact: Ginger Marshall
+   Email: mbaechle@overdrive.com
+
+234. PFLAG Akron
+   Industry: Other Services
+   Contact: Jennifer McCall
+   Email: pflagakron@gmail.com
+
+235. PFLAG Cleveland
+   Industry: Other Services
+   Contact: Barbara Schultz
+   Email: grohwargo@me.com
+
+236. PNC Bank
+   Industry: Other Services
+   Contact: George Graham
+   Email: logan.baez@pnc.com
+
+237. PRN Solutions
+   Industry: Other Services
+   Contact: Barb Balit
+   Email: mleppla@prn4hme.com
+
+238. Paige Mireles Photography
+   Industry: Other Services
+   Contact: Kiara Watkins
+   Email: ohioloversweddingshow@gmail.com
+
+239. Pango Apparel
+   Industry: Technology
+   Contact: Dara Adkison
+   Email: kandigirl2@outlook.com
+
+240. Perkoski Photography
+   Industry: Other Services
+   Contact: Diane Brenna
+   Email: bob@perkoski.com
+
+241. Pet-tique
+   Industry: Other Services
+   Contact: James Knapp
+   Email: pettique@pettique.com
+
+242. PortoSpire
+   Industry: Other Services
+   Contact: Emily Pikturna
+   Email: andrew.wallace@portospire.com
+
+243. Prestige Cleaning and Windows
+   Industry: Other Services
+   Contact: Allison Woods
+   Email: chris@prestigecleaningandwindows.com
+
+244. Propped Productions
+   Industry: Other Services
+   Contact: Regina Bassett
+   Email: rob@proppedproductions.com
+
+245. RECESS GAMES
+   Industry: Other Services
+   Contact: Alan Hazzard
+   Email: maria@recess.net
+
+246. Rainbow of Hope Counseling LLC
+   Industry: Other Services
+   Contact: Lori Gabel
+   Email: mmwesley@rainbowofhopecounseling.org
+
+247. Reddy or Knot Design, LLC
+   Industry: Marketing/Design
+   Contact: Zielee Herbold
+   Email: mairead@reddyorknot.com
+
+248. Redefined LLC
+   Industry: Other Services
+   Contact: Jon Iannaco
+   Email: drjsanders@iamredefined.org
+
+249. Rock The House Entertainment Group, Inc.
+   Industry: Other Services
+   Contact: Val Jones
+   Email: info@rthgroup.com
+
+250. Rockwell Automation
+   Industry: Automotive
+   Contact: Sue Seager
+   Email: mkoball@ra.rockwell.com
+
+251. STEM Handmade Soap
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: stemsoaps@icloud.com
+
+252. Sage & Maven, LLC
+   Industry: Other Services
+   Contact: Aurora Keag
+   Email: phyllis@sageandmaven.com
+
+253. Saucisson
+   Industry: Other Services
+   Contact: Tracy Kipfstuhl
+   Email: iloveswine@gmail.com
+
+254. Scarlato's Pizzeria
+   Industry: Automotive
+   Contact: Jessica Miller
+   Email: willandtony@gmail.com
+
+255. Seeds of Literacy
+   Industry: Technology
+   Contact: Amanda Naylor
+   Email: communications@seedsofliteracy.org
+
+256. Shamus Dickinson - Howard Hanna Real Estate Services
+   Industry: Real Estate
+   Contact: Valerie Mayen
+   Email: shamusdickinson@howardhanna.com
+
+257. Shearer's Foods LLC
+   Industry: Other Services
+   Contact: Kelsey Meyer
+   Email: kimdavenport@shearers.com
+
+258. Shiny Penny Studios
+   Industry: Other Services
+   Contact: Craig Dorn
+   Email: whitney@shinypennystudios.com
+
+259. Sisters of Economic Action
+   Industry: Other Services
+   Contact: Bonnie Huston
+   Email: info@sistersofecon.org
+
+260. Sits 'n Wiggles Dog Training 'n Behavior Consulting
+   Industry: Consulting/Coaching
+   Contact: Heather Pollack
+   Email: valarie@sitsnwigglescle.com
+
+261. Skidmark Garage CLE
+   Industry: Other Services
+   Contact: Daniel McGuire
+   Email: skidmarketingteam@gmail.com
+
+262. SkinnyBoy Media
+   Industry: Other Services
+   Contact: Corey James
+   Email: contact@skinnyboymedia.com
+
+263. Skylight Financial Group
+   Industry: Accounting/Finance
+   Contact: Mary Paxton
+   Email: Kbryan@financialguide.com
+
+264. Smart-LE
+   Industry: Other Services
+   Contact: Carly Specht
+   Email: mzaller1@gmail.com
+
+265. Sophie La Gourmande
+   Industry: Other Services
+   Contact: Maverick Williams
+   Email: bob@sophielagourmande.com
+
+266. Stan Hywet Hall & Gardens
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: info@stanhywet.org
+
+267. Statement Limousine, LLC
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: karl2@statementlimo.com
+
+268. Stonewall Columbus
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: info@stonewallcolumbus.org
+
+269. Stonewall Sports
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: Cleveland.Sports@stonewallsports.org
+
+270. Streamline Technology Group
+   Industry: Technology
+   Contact: [Contact info available]
+   Email: dan@stgohio.com
+
+271. Studio West 117
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: comms@studiowest117.com
+
+272. Summa Health
+   Industry: Healthcare Services
+   Contact: [Contact info available]
+   Email: goinsj@summahealth.org
+
+273. Sustainable Economies Consulting LLC
+   Industry: Consulting/Coaching
+   Contact: [Contact info available]
+   Email: eschuster@sustainableeconomiesconsulting.com
+
+274. Swarm Strategy
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: bryce@swarmstrategy.us
+
+275. Sweets and Geeks
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: JIM@SWEETSANDGEEKS.COM
+
+276. Szabó Services, LLC
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: sara@szaboservices.com
+
+277. Szweda Consulting, LLC
+   Industry: Consulting/Coaching
+   Contact: [Contact info available]
+   Email: bszweda@szwedaconsulting.com
+
+278. T. Potter Instructional Design
+   Industry: Marketing/Design
+   Contact: [Contact info available]
+   Email: teresa@tpotterdesign.com
+
+279. TRIAD Communications
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: rick.krochka@triadadv.com
+
+280. Talespinner Children's Theatre
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: talespinnerchildrenstheatre@gmail.com
+
+281. Teambff-Paparazzi Accessories
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: Blingflingforever@gmail.com
+
+282. The Brother's Lounge
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: info@brotherslounge.com
+
+283. The Buckeye Flame
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: editor@thebuckeyeflame.com
+
+284. The Center for Community Solutions
+   Industry: Technology
+   Contact: [Contact info available]
+   Email: pmyers@communitysolutions.com
+
+285. The City Club of Cleveland
+   Industry: Technology
+   Contact: [Contact info available]
+   Email: dmoulthrop@cityclub.org
+
+286. The Davey Tree Expert Company
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: valerie.garrett@davey.com
+
+287. The Diversity Center of Northeast Ohio
+   Industry: Technology
+   Contact: [Contact info available]
+   Email: programs@diversitycenterneo.org
+
+288. The Elliot
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: hello@theelliotcle.com
+
+289. The Energy Producer Entertainment
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: jaime@theenergyproducer.com
+
+290. The Goodwill Industries of Akron, Ohio, Inc.
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: info@goodwillakron.org
+
+291. The Goodyear Tire & Rubber Company
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: pride@goodyear.com
+
+292. The Green Photograph
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: thegreenphotograph@gmail.com
+
+293. The Home Is Key
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: info@thehomeiskey.com
+
+294. The J.M. Smucker Company
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: kristen.corbett@jmsmucker.com
+
+295. The Lubrizol Corporation
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: matthew.nyce@lubrizol.com
+
+296. The Madison
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: Anthony@themadisonvenue.com
+
+297. The Mallicoat Group- CrossCountry Mortgage LLC
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: shane.mallicoat@myccmortgage.com
+
+298. The MetroHealth System
+   Industry: Healthcare Services
+   Contact: [Contact info available]
+   Email: DAVERYHEART@METROHEALTH.ORG
+
+299. The Presidents’ Council
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: hello@thepresidentscouncil.com
+
+300. The Reading Room CLE
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: lsquinn@readingroomcle.org
+
+301. The Red Twig Floral Design Studio
+   Industry: Marketing/Design
+   Contact: [Contact info available]
+   Email: theredtwig@gmail.com
+
+302. The Shinn Law Firm, LLC
+   Industry: Legal Services
+   Contact: [Contact info available]
+   Email: maria@shinnlawfirm.com
+
+303. The Urban Orchid
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: urbanorchidfloral@yahoo.com
+
+304. The Well CDC
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: erica@thewellakron.com
+
+305. The Young Latino Network
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: info@ylncle.org
+
+306. The Yunker Group
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: jody@theyunkergroup.com
+
+307. Thellian Coaching, LLC
+   Industry: Consulting/Coaching
+   Contact: [Contact info available]
+   Email: guy@thelliancoachingllc.com
+
+308. Thompson Hine LLP
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: justine.lewis@thompsonhine.com
+
+309. Thrive Coaching & Consulting
+   Industry: Consulting/Coaching
+   Contact: [Contact info available]
+   Email: shannon@helpingyouthrive.net
+
+310. Thriveworks Middleburg Heights
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: david.bowers@thriveworks.com
+
+311. Toolbar Graphics
+   Industry: Food & Beverage
+   Contact: [Contact info available]
+   Email: info@toolbargraphics.com
+
+312. Trans Ohio
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: TransOhio@transohio.org
+
+313. TransHumanity
+   Industry: Technology
+   Contact: [Contact info available]
+   Email: transhumanity.life@gmail.com
+
+314. Transwellness Resources & Support Network
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: ceoDevinity@gmail.com
+
+315. Troy Bratz, REALTOR Keller Williams Elevate
+   Industry: Real Estate
+   Contact: [Contact info available]
+   Email: TroyBratz@KW.com
+
+316. Twist Social Club
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: twistsccleveland@gmail.com
+
+317. Twist of Fate CLE LLC
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: heather@twistoffatecle.com
+
+318. Vitiman Kandie
+   Industry: Technology
+   Contact: [Contact info available]
+   Email: gmvitimankandie@gmail.com
+
+319. WKYC Studios
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: newsdesk@wkyc.com
+
+320. WTWH Media LLC
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: pheney@wtwhmedia.com
+
+321. Walder Studio
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: hello@walderstudio.com
+
+322. Wax Mage Records
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: heath@waxmage.com
+
+323. Wedding in a Box, LLC
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: weddinginaboxinfo@gmail.com
+
+324. West Park Kamm's Neighborhood Development
+   Industry: Technology
+   Contact: [Contact info available]
+   Email: david@westparkkamms.org
+
+325. Western Reserve Consulting
+   Industry: Consulting/Coaching
+   Contact: [Contact info available]
+   Email: Facianar@westernreserveconsulting.com
+
+326. Western Reserve Distillers
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: WesternReserveDistillers@gmail.com
+
+327. Westfield
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: DiversityEquityandInclusion@westfieldgrp.com
+
+328. Where the Heart Is Catering
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: info@wthicateringandevents.com
+
+329. Widenor Consulting LLC
+   Industry: Consulting/Coaching
+   Contact: [Contact info available]
+   Email: ross@widenorconsulting.com
+
+330. Woodhouse Day Spa
+   Industry: Beauty/Personal Care
+   Contact: [Contact info available]
+   Email: elvis@cleveland.woodhousespas.com
+
+331. Work in Progress Consulting
+   Industry: Consulting/Coaching
+   Contact: [Contact info available]
+   Email: rachel@workinprogressconsulting.net
+
+332. WovenSmart LLC
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: renee@wovensmart.com
+
+333. WrightPath Solutions
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: brian@wrightpathsolutions.com
+
+334. Yellowcake Shop
+   Industry: Retail
+   Contact: [Contact info available]
+   Email: hello@yellowcakeshop.com
+
+335. Youth Opportunities Unlimited
+   Industry: Technology
+   Contact: [Contact info available]
+   Email: dpence-meyenberg@youthopportunities.org
+
+336. ZenBusiness
+   Industry: Other Services
+   Contact: [Contact info available]
+   Email: outreach@zenbusiness.com
+
+337. blue csr strategies
+   Industry: Other Services
+   Contact: Kevin Clayton
+   Email: andrew@bluecsr.com
+
+338. evrecruit.io
+   Industry: Technology
+   Contact: Anna Pitts
+   Email: lisa.kagy@evrecruit.io
+
+339. media schmedia LLC
+   Industry: Other Services
+   Contact: Liz Briody
+   Email: halle@media-schmedia.com
